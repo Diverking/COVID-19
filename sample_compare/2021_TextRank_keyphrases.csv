@@ -1,0 +1,2001 @@
+Year	Sample	Keyword	Score	Sample	Keyword	Score
+0.1_percent	2021	covid vaccine	490.7001	1_percent	covid-19 vaccine	5.8099
+0.1_percent	2021	omicron variant	447.028	1_percent	covid vaccine	5.808
+0.1_percent	2021	covid-19 vaccine	318.7912	1_percent	omicron variant	5.0335
+0.1_percent	2021	covid case	251.1886	1_percent	covid case	3.6458
+0.1_percent	2021	covid death	241.4377	1_percent	social distancing	3.2372
+0.1_percent	2021	vaccine mandate	216.6214	1_percent	covid death	3.2106
+0.1_percent	2021	delta variant	194.9513	1_percent	delta variant	3.0126
+0.1_percent	2021	covid test	156.8913	1_percent	vaccine mandate	2.8827
+0.1_percent	2021	covid patient	147.4868	1_percent	new case	2.7933
+0.1_percent	2021	covid relief	137.4598	1_percent	covid-19 case	2.7537
+0.1_percent	2021	covid as weapon	137.013	1_percent	covid test	2.6355
+0.1_percent	2021	vaccine passport	136.5095	1_percent	covid-19 pandemic	2.5458
+0.1_percent	2021	covid-19 vaccination	126.4368	1_percent	public health	2.5301
+0.1_percent	2021	mask mandate	105.4531	1_percent	covid patient	2.3462
+0.1_percent	2021	omicron case	101.718	1_percent	covid-19 vaccination	2.3118
+0.1_percent	2021	vaccinated people	91.0909	1_percent	covid as weapon	2.272
+0.1_percent	2021	covid vaccination	90.1674	1_percent	covid relief	2.0639
+0.1_percent	2021	military dictatorship	90.064	1_percent	vaccine passport	2.0306
+0.1_percent	2021	relief bill	89.7207	1_percent	global pandemic	2.0144
+0.1_percent	2021	covid-19 case	89.4976	1_percent	omicron case	1.967
+0.1_percent	2021	covid restriction	85.8942	1_percent	last year	1.9563
+0.1_percent	2021	natural immunity	82.8985	1_percent	mask mandate	1.892
+0.1_percent	2021	colin powell	78.934	1_percent	vaccinated people	1.8688
+0.1_percent	2021	vaccine dose	75.7742	1_percent	covid restriction	1.8621
+0.1_percent	2021	new variant	72.5526	1_percent	board exam	1.8577
+0.1_percent	2021	booster shot	70.6299	1_percent	covid vaccination	1.8531
+0.1_percent	2021	long covid	70.1261	1_percent	colin powell	1.821
+0.1_percent	2021	global pandemic	69.9453	1_percent	new variant	1.819
+0.1_percent	2021	relief package	69.11	1_percent	long covid	1.8113
+0.1_percent	2021	covid relief bill	68.1013	1_percent	vaccine dose	1.7895
+0.1_percent	2021	wuhan lab	66.4013	1_percent	mental health	1.7437
+0.1_percent	2021	coronavirus vaccine	64.8031	1_percent	relief bill	1.7398
+0.1_percent	2021	board exam	63.8443	1_percent	blood group	1.7225
+0.1_percent	2021	unvaccinated people	63.0906	1_percent	covid relief bill	1.7083
+0.1_percent	2021	covid passport	62.8651	1_percent	new year	1.7017
+0.1_percent	2021	president biden	62.2809	1_percent	christmas party	1.701
+0.1_percent	2021	social distancing	60.0379	1_percent	boris johnson	1.6901
+0.1_percent	2021	aaron rodgers	59.17	1_percent	coronavirus vaccine	1.6805
+0.1_percent	2021	christmas party	57.333	1_percent	wearing mask	1.678
+0.1_percent	2021	new case	55.5599	1_percent	death toll	1.6765
+0.1_percent	2021	omicron wave	54.729	1_percent	natural immunity	1.6763
+0.1_percent	2021	covid pandemic	54.3533	1_percent	booster shot	1.6708
+0.1_percent	2021	covid infection	53.6188	1_percent	corona virus	1.6527
+0.1_percent	2021	covid variant	53.4628	1_percent	dose2 capacity	1.6443
+0.1_percent	2021	patient name	53.048	1_percent	dose1 capacity	1.6443
+0.1_percent	2021	corona virus	52.8425	1_percent	min age limit	1.6443
+0.1_percent	2021	covid-19 death	51.8502	1_percent	side effect	1.6421
+0.1_percent	2021	blood group	51.499	1_percent	pin code	1.642
+0.1_percent	2021	wearing mask	50.2196	1_percent	south africa	1.6362
+0.1_percent	2021	omicron spread	49.899	1_percent	active case	1.6231
+0.1_percent	2021	covid shot	49.1282	1_percent	loved one	1.6204
+0.1_percent	2021	indian variant	47.78	1_percent	death rate	1.6132
+0.1_percent	2021	vaccination rate	47.736	1_percent	coronavirus case	1.6119
+0.1_percent	2021	covid bill	47.2593	1_percent	military dictatorship	1.61
+0.1_percent	2021	dose1 capacity	46.8867	1_percent	many people	1.5922
+0.1_percent	2021	dose2 capacity	46.8867	1_percent	aaron rodgers	1.585
+0.1_percent	2021	min age limit	46.879	1_percent	covid pandemic	1.5663
+0.1_percent	2021	covid crisis	46.8789	1_percent	patient name	1.5655
+0.1_percent	2021	boris johnson	46.772	1_percent	blood component	1.5556
+0.1_percent	2021	case of omicron	46.5335	1_percent	herd immunity	1.5487
+0.1_percent	2021	biden administration	46.5187	1_percent	nursing home	1.5478
+0.1_percent	2021	covid protocol	46.3275	1_percent	second wave	1.5469
+0.1_percent	2021	omicron infection	46.277	1_percent	first dose	1.5446
+0.1_percent	2021	vaccine rollout	46.1063	1_percent	healthcare worker	1.5388
+0.1_percent	2021	blood component	45.9044	1_percent	face mask	1.5372
+0.1_percent	2021	new omicron	45.7535	1_percent	pmc p	1.535
+0.1_percent	2021	stay home	45.6151	1_percent	vaccination rate	1.5333
+0.1_percent	2021	oxygen cylinder	45.1545	1_percent	stay home	1.5313
+0.1_percent	2021	pcr test	44.9423	1_percent	unvaccinated people	1.5275
+0.1_percent	2021	covid booster	44.7037	1_percent	wuhan lab	1.5217
+0.1_percent	2021	big bird	44.443	1_percent	covid-19 death	1.5153
+0.1_percent	2021	middle of a pandemic	44.1658	1_percent	covid booster	1.5053
+0.1_percent	2021	coronavirus case	43.3942	1_percent	covid infection	1.5042
+0.1_percent	2021	active case	43.3072	1_percent	registration link	1.496
+0.1_percent	2021	herd immunity	43.1931	1_percent	coronavirus pandemic	1.4957
+0.1_percent	2021	covid jab	42.8859	1_percent	covid variant	1.4953
+0.1_percent	2021	ssr body	42.587	1_percent	available appointment	1.4945
+0.1_percent	2021	first dose	42.1527	1_percent	pcr test	1.4941
+0.1_percent	2021	oxygen bed	41.673	1_percent	new omicron	1.4885
+0.1_percent	2021	ambulance driver	41.5645	1_percent	new available appointment	1.4855
+0.1_percent	2021	omicron surge	41.447	1_percent	covid crisis	1.4845
+0.1_percent	2021	cleanliness worker	41.2595	1_percent	second dose	1.4834
+0.1_percent	2021	covid response	41.2502	1_percent	number of units	1.4828
+0.1_percent	2021	black fungus	40.7915	1_percent	covid shot	1.4755
+0.1_percent	2021	second dose	40.0262	1_percent	vaccine rollout	1.4731
+0.1_percent	2021	pandemic response	39.9779	1_percent	immune system	1.4722
+0.1_percent	2021	covid outbreak	39.2448	1_percent	covid-19 patient	1.4705
+0.1_percent	2021	covid relief package	39.1553	1_percent	health official	1.4679
+0.1_percent	2021	covid testing	38.9875	1_percent	social distance	1.4589
+0.1_percent	2021	covid rule	38.9438	1_percent	president biden	1.4532
+0.1_percent	2021	pin code	38.91	1_percent	covid protocol	1.4529
+0.1_percent	2021	covid-19 patient	38.9092	1_percent	omicron wave	1.449
+0.1_percent	2021	icu bed	38.8202	1_percent	omicron spread	1.448
+0.1_percent	2021	new death	37.812	1_percent	case of omicron	1.4475
+0.1_percent	2021	election rally	37.464	1_percent	blood clot	1.4425
+0.1_percent	2021	positivity rate	37.4112	1_percent	super bowl	1.442
+0.1_percent	2021	number of units	37.2062	1_percent	ssr body	1.44
+0.1_percent	2021	new coronavirus	37.0427	1_percent	covid passport	1.4337
+0.1_percent	2021	start of the pandemic	36.5532	1_percent	big bird	1.433
+0.1_percent	2021	third wave	35.9932	1_percent	new death	1.4253
+0.1_percent	2021	healthcare worker	35.7159	1_percent	third wave	1.4222
+0.1_percent	2021	ल कर	35.509	1_percent	biden administration	1.4205
+0.1_percent	2021	covid situation	35.4986	1_percent	joe biden	1.4193
+0.1_percent	2021	covid vaccine mandate	35.4546	1_percent	indian variant	1.4167
+0.1_percent	2021	ssrians help	34.9745	1_percent	covid jab	1.4135
+0.1_percent	2021	wuhan lab leak	34.9075	1_percent	positivity rate	1.4094
+0.1_percent	2021	covid-19 booster	34.4865	1_percent	new coronavirus	1.4089
+0.1_percent	2021	oxygen concentrator	34.3922	1_percent	last week	1.4046
+0.1_percent	2021	covid mandate	33.6664	1_percent	pandemic response	1.4029
+0.1_percent	2021	lab leak	33.6103	1_percent	covid-19 test	1.4004
+0.1_percent	2021	vaccination status	33.5826	1_percent	oxygen bed	1.3995
+0.1_percent	2021	second wave	33.0513	1_percent	number of appt slots	1.398
+0.1_percent	2021	vaccine distribution	32.7348	1_percent	appt slot	1.398
+0.1_percent	2021	coronavirus variant	32.6527	1_percent	oxygen level	1.395
+0.1_percent	2021	china virus	32.2063	1_percent	ssrians help	1.3935
+0.1_percent	2021	social distance	32.1853	1_percent	ambulance driver	1.3935
+0.1_percent	2021	pmc p	31.7325	1_percent	middle of a pandemic	1.3924
+0.1_percent	2021	covid-19 test	31.1162	1_percent	relief package	1.3874
+0.1_percent	2021	covid pass	31.0793	1_percent	covid-19 infection	1.387
+0.1_percent	2021	kanwar yatra	31.077	1_percent	covid outbreak	1.3812
+0.1_percent	2021	matt hancock	30.9953	1_percent	other country	1.3753
+0.1_percent	2021	ron desantis	30.9684	1_percent	care home	1.3745
+0.1_percent	2021	new available appointment	30.931	1_percent	omicron surge	1.373
+0.1_percent	2021	covid-19 relief bill	30.9135	1_percent	conspiracy theory	1.3724
+0.1_percent	2021	pfizer vaccine	30.7461	1_percent	covid response	1.3722
+0.1_percent	2021	omicron death	30.58	1_percent	oxygen cylinder	1.363
+0.1_percent	2021	ए बह	30.579	1_percent	omicron infection	1.361
+0.1_percent	2021	covid-19 infection	30.5467	1_percent	care worker	1.3591
+0.1_percent	2021	mrna vaccine	30.4045	1_percent	health care	1.3578
+0.1_percent	2021	covid-19 pandemic	30.3797	1_percent	recovered patient	1.3575
+0.1_percent	2021	full approval	30.3335	1_percent	ùšø3 ø	1.355
+0.1_percent	2021	deadly pandemic	30.2947	1_percent	covid rule	1.3542
+0.1_percent	2021	available appointment	30.0937	1_percent	pandemic bill	1.353
+0.1_percent	2021	covid lockdown	29.9307	1_percent	covid situation	1.3527
+0.1_percent	2021	joe rogan	29.8565	1_percent	minimum wage	1.3508
+0.1_percent	2021	texas democrats	29.788	1_percent	covid testing	1.3488
+0.1_percent	2021	number of appt slots	29.7755	1_percent	cleanliness worker	1.3485
+0.1_percent	2021	appt slot	29.7745	1_percent	covid bill	1.3477
+0.1_percent	2021	registration link	29.5193	1_percent	next week	1.3438
+0.1_percent	2021	joe biden	29.2905	1_percent	positive case	1.3388
+0.1_percent	2021	plasma donor	29.2175	1_percent	good news	1.3286
+0.1_percent	2021	oxygen supply	28.9245	1_percent	vaccination status	1.3271
+0.1_percent	2021	तन द	28.923	1_percent	start of the pandemic	1.3248
+0.1_percent	2021	health failure	28.886	1_percent	long term	1.3246
+0.1_percent	2021	death rate	28.3999	1_percent	ùˆùƒ ø	1.324
+0.1_percent	2021	corona warrior	27.8279	1_percent	holiday season	1.321
+0.1_percent	2021	covid-19 relief	27.8267	1_percent	contact number	1.32
+0.1_percent	2021	booster dose	27.6995	1_percent	freedom day	1.32
+0.1_percent	2021	vaccine booster	27.657	1_percent	election rally	1.3195
+0.1_percent	2021	pandemic situation	27.301	1_percent	african country	1.318
+0.1_percent	2021	public health failure	26.979	1_percent	covid-19 booster	1.3172
+0.1_percent	2021	spread of omicron	26.959	1_percent	health worker	1.317
+0.1_percent	2021	covid number	26.89	1_percent	merry christmas	1.317
+0.1_percent	2021	budget resolution	26.874	1_percent	infection rate	1.3097
+0.1_percent	2021	american rescue	26.8158	1_percent	age group	1.3078
+0.1_percent	2021	proof of vaccination	26.6694	1_percent	small business	1.3072
+0.1_percent	2021	covid surge	26.6643	1_percent	china virus	1.2998
+0.1_percent	2021	gain of function	26.436	1_percent	family member	1.2971
+0.1_percent	2021	new omicron variant	26.341	1_percent	coronavirus variant	1.296
+0.1_percent	2021	breakthrough case	26.2423	1_percent	young people	1.2956
+0.1_percent	2021	covid wave	26.1882	1_percent	mrna vaccine	1.2953
+0.1_percent	2021	covid-19 variant	26.1353	1_percent	covid vaccine mandate	1.295
+0.1_percent	2021	death toll	25.9148	1_percent	pandemic p	1.2945
+0.1_percent	2021	getting covid	25.8267	1_percent	covid lockdown	1.2942
+0.1_percent	2021	इन पर	25.751	1_percent	spring break	1.294
+0.1_percent	2021	federal solution	25.647	1_percent	covid-19 vaccine mandate	1.2937
+0.1_percent	2021	kumbh mela	25.6055	1_percent	pfizer vaccine	1.2849
+0.1_percent	2021	sant shri asharamji bapu	25.5553	1_percent	icu bed	1.2835
+0.1_percent	2021	vaccination site	25.4686	1_percent	essential worker	1.2823
+0.1_percent	2021	american rescue plan	25.3846	1_percent	coronavirus relief	1.282
+0.1_percent	2021	lab leak theory	25.251	1_percent	test result	1.2792
+0.1_percent	2021	freedom day	25.231	1_percent	covid-19 outbreak	1.2788
+0.1_percent	2021	rapid test	25.1881	1_percent	corona warrior	1.2781
+0.1_percent	2021	xmas party	24.903	1_percent	big pharma	1.2779
+0.1_percent	2021	ssrians covid volunteer	24.764	1_percent	confirmed case	1.2774
+0.1_percent	2021	first lockdown	24.6828	1_percent	new omicron variant	1.276
+0.1_percent	2021	super spreader	24.6634	1_percent	past year	1.2754
+0.1_percent	2021	booster jab	24.5866	1_percent	last night	1.2752
+0.1_percent	2021	nicki minaj	24.505	1_percent	nicki minaj	1.275
+0.1_percent	2021	distribution-dss volunteer	24.486	1_percent	covid number	1.2748
+0.1_percent	2021	hp inc	24.478	1_percent	positive test	1.2733
+0.1_percent	2021	nhs staff	24.4221	1_percent	covid pass	1.2715
+0.1_percent	2021	pandemic p	24.2785	1_percent	lab leak	1.2714
+0.1_percent	2021	leak theory	24.1465	1_percent	covid-19 restriction	1.2709
+0.1_percent	2021	wuhan institute	24.0693	1_percent	booster jab	1.2685
+0.1_percent	2021	coronavirus relief	24.0563	1_percent	high risk	1.2683
+0.1_percent	2021	fauci email	24.005	1_percent	getting covid	1.2683
+0.1_percent	2021	positive case	23.9851	1_percent	deadly pandemic	1.2669
+0.1_percent	2021	covid treatment	23.9406	1_percent	vaccine distribution	1.2668
+0.1_percent	2021	lockdown party	23.923	1_percent	new delhi	1.2645
+0.1_percent	2021	vaccine requirement	23.9195	1_percent	school district	1.2645
+0.1_percent	2021	vaccination drive	23.8992	1_percent	oxygen concentrator	1.2642
+0.1_percent	2021	essential worker	23.8277	1_percent	ssrians covid volunteer	1.264
+0.1_percent	2021	covid vax	23.7319	1_percent	common sense	1.2622
+0.1_percent	2021	new coronavirus case	23.7317	1_percent	covid-19 variant	1.2621
+0.1_percent	2021	relief plan	23.711	1_percent	spread of omicron	1.262
+0.1_percent	2021	monoclonal antibody	23.6862	1_percent	social medium	1.2617
+0.1_percent	2021	recovered patient	23.387	1_percent	wuhan lab leak	1.26
+0.1_percent	2021	mask wear	23.3632	1_percent	health minister	1.2598
+0.1_percent	2021	national lockdown	23.3605	1_percent	sant shri asharamji bapu	1.259
+0.1_percent	2021	breakthrough infection	23.3494	1_percent	booster dose	1.257
+0.1_percent	2021	horse dewormer	23.3115	1_percent	close contact	1.2565
+0.1_percent	2021	sac terrorist	23.2905	1_percent	vaccine booster	1.2565
+0.1_percent	2021	case of the omicron	23.2675	1_percent	breakthrough case	1.2563
+0.1_percent	2021	covid policy	23.19	1_percent	health care worker	1.2554
+0.1_percent	2021	rescue plan	23.0639	1_percent	covid care	1.2533
+0.1_percent	2021	antibody treatment	23.0132	1_percent	pandemic situation	1.2523
+0.1_percent	2021	coronavirus death	22.9883	1_percent	hp inc	1.2515
+0.1_percent	2021	vaccine for kids	22.9812	1_percent	national lockdown	1.2501
+0.1_percent	2021	covid care	22.9282	1_percent	covid mandate	1.2498
+0.1_percent	2021	covid symptom	22.8393	1_percent	black fungus	1.249
+0.1_percent	2021	first omicron	22.732	1_percent	covid-19 relief	1.2487
+0.1_percent	2021	need plasma	22.686	1_percent	covid relief package	1.2477
+0.1_percent	2021	frontline worker	22.6354	1_percent	survival rate	1.2468
+0.1_percent	2021	travel ban	22.5833	1_percent	covid recovery patient	1.245
+0.1_percent	2021	daily case	22.5457	1_percent	recovery patient	1.245
+0.1_percent	2021	omicron coronavirus	22.4555	1_percent	good morning	1.2445
+0.1_percent	2021	covid hospitalization	22.4414	1_percent	rapid test	1.2437
+0.1_percent	2021	downing street	22.423	1_percent	covid wave	1.2435
+0.1_percent	2021	military regime	22.373	1_percent	white house	1.243
+0.1_percent	2021	chinese virus	22.3574	1_percent	christmas day	1.242
+0.1_percent	2021	covid-19 vaccine mandate	22.3364	1_percent	travel ban	1.2415
+0.1_percent	2021	face mask	22.3184	1_percent	plasma donor	1.2377
+0.1_percent	2021	pandemic bill	22.2485	1_percent	frontline worker	1.2363
+0.1_percent	2021	excess death	22.1	1_percent	first lockdown	1.2357
+0.1_percent	2021	senate democrats	22.073	1_percent	fox news	1.2355
+0.1_percent	2021	number of mutations	22.035	1_percent	joe rogan	1.2354
+0.1_percent	2021	n95 mask	21.8581	1_percent	kung flu	1.234
+0.1_percent	2021	covid-19 restriction	21.7713	1_percent	supply chain	1.2339
+0.1_percent	2021	wear mask	21.7623	1_percent	infectious disease	1.2327
+0.1_percent	2021	infection rate	21.7583	1_percent	case of the omicron	1.2325
+0.1_percent	2021	desktop manufacturing company	21.745	1_percent	first omicron	1.232
+0.1_percent	2021	treasure mama	21.745	1_percent	hate crime	1.2315
+0.1_percent	2021	shameful news	21.734	1_percent	covid symptom	1.2303
+0.1_percent	2021	trust worthy company	21.73	1_percent	case number	1.2301
+0.1_percent	2021	beginning of the pandemic	21.7186	1_percent	health system	1.2298
+0.1_percent	2021	ياريس ارجوك الطلاب هتموت	21.676	1_percent	lot of people	1.2295
+0.1_percent	2021	sajid javid	21.667	1_percent	hospital bed	1.2295
+0.1_percent	2021	worthy company	21.638	1_percent	n95 mask	1.2292
+0.1_percent	2021	new coronavirus variant	21.6218	1_percent	need plasma	1.2285
+0.1_percent	2021	panic buying	21.6018	1_percent	texas democrats	1.227
+0.1_percent	2021	pandemic shit	21.5305	1_percent	mask wear	1.2267
+0.1_percent	2021	offline exam	21.5304	1_percent	west bengal	1.2267
+0.1_percent	2021	pm modi	21.4102	1_percent	excess death	1.2263
+0.1_percent	2021	lockdown rule	21.3715	1_percent	total case	1.2263
+0.1_percent	2021	cases today	21.3302	1_percent	conspiracy theorist	1.2263
+0.1_percent	2021	military terrorist	21.302	1_percent	people die	1.2262
+0.1_percent	2021	case of omicron variant	21.2865	1_percent	covid surge	1.226
+0.1_percent	2021	heart inflammation	21.2015	1_percent	kumbh mela	1.2257
+0.1_percent	2021	spike protein	21.187	1_percent	emergency use	1.2256
+0.1_percent	2021	stimulus check	21.0847	1_percent	new coronavirus variant	1.2253
+0.1_percent	2021	vaccination appointment	20.9388	1_percent	new study	1.2247
+0.1_percent	2021	corona case	20.7956	1_percent	spike protein	1.2245
+0.1_percent	2021	speedy recovery	20.7825	1_percent	panic buying	1.2244
+0.1_percent	2021	covid recovery patient	20.742	1_percent	plan b	1.2243
+0.1_percent	2021	recovery patient	20.7	1_percent	prime minister	1.2241
+0.1_percent	2021	covid misinformation	20.6679	1_percent	vaccination drive	1.2227
+0.1_percent	2021	junta terrorist	20.653	1_percent	new coronavirus case	1.2208
+0.1_percent	2021	covid contract	20.5203	1_percent	press conference	1.2193
+0.1_percent	2021	capitol riot	20.438	1_percent	vaccine appointment	1.2182
+0.1_percent	2021	michael gove	20.414	1_percent	new availability	1.2177
+0.1_percent	2021	covid positive	20.4059	1_percent	covid vax	1.2166
+0.1_percent	2021	asian americans	20.381	1_percent	oxygen supply	1.216
+0.1_percent	2021	oxygen support	20.378	1_percent	school board	1.216
+0.1_percent	2021	ppe kit	20.3125	1_percent	covid toe	1.216
+0.1_percent	2021	covid virus	20.2987	1_percent	daily case	1.2156
+0.1_percent	2021	dominant variant	20.282	1_percent	super spreader	1.2151
+0.1_percent	2021	big pharma	20.2597	1_percent	omicron coronavirus	1.215
+0.1_percent	2021	blood clot	20.2476	1_percent	covid-19 relief bill	1.214
+0.1_percent	2021	multiple myeloma	20.233	1_percent	raw material	1.214
+0.1_percent	2021	oxygen plant	20.191	1_percent	health expert	1.2136
+0.1_percent	2021	stay-at-home order	20.1712	1_percent	covid prisoner	1.213
+0.1_percent	2021	coronavirus pandemic	20.1498	1_percent	private student	1.213
+0.1_percent	2021	covid denier	20.0993	1_percent	learning disability	1.212
+0.1_percent	2021	oxygen level	20.055	1_percent	nhs staff	1.2116
+0.1_percent	2021	rapid antigen test	20.0485	1_percent	hundred of thousands	1.2107
+0.1_percent	2021	health minister	20.0473	1_percent	american people	1.2106
+0.1_percent	2021	vaccine hesitancy	19.9923	1_percent	right thing	1.2102
+0.1_percent	2021	covid time	19.9825	1_percent	omicron death	1.21
+0.1_percent	2021	covid19 vaccine	19.962	1_percent	travel restriction	1.2099
+0.1_percent	2021	positive test	19.9603	1_percent	vaccination site	1.209
+0.1_percent	2021	hospital bed	19.9587	1_percent	humble request	1.209
+0.1_percent	2021	omicron coronavirus variant	19.9095	1_percent	covid time	1.2082
+0.1_percent	2021	vaccine shot	19.7913	1_percent	labor day	1.208
+0.1_percent	2021	mask guidance	19.7873	1_percent	health crisis	1.2077
+0.1_percent	2021	religious exemption	19.7732	1_percent	mask guidance	1.207
+0.1_percent	2021	modi ji	19.771	1_percent	vaccine for children	1.207
+0.1_percent	2021	confirmed omicron	19.714	1_percent	gain of function	1.2066
+0.1_percent	2021	spread of the omicron	19.714	1_percent	uk government	1.2056
+0.1_percent	2021	andrew cuomo	19.6812	1_percent	lockdown rule	1.2053
+0.1_percent	2021	eviction moratorium	19.6696	1_percent	matt hancock	1.204
+0.1_percent	2021	people die	19.584	1_percent	lockdown restriction	1.2033
+0.1_percent	2021	lockdown restriction	19.5598	1_percent	year old	1.2033
+0.1_percent	2021	home isolation	19.539	1_percent	climate change	1.2032
+0.1_percent	2021	vaccine appointment	19.52	1_percent	health failure	1.203
+0.1_percent	2021	negative test	19.5126	1_percent	treasure mama	1.203
+0.1_percent	2021	merry christmas	19.436	1_percent	breaking news	1.2027
+0.1_percent	2021	home death	19.3208	1_percent	flu shot	1.2026
+0.1_percent	2021	pandemic contract	19.289	1_percent	single day	1.2023
+0.1_percent	2021	mandatory vaccination	19.2888	1_percent	beginning of the pandemic	1.2022
+0.1_percent	2021	super bowl	19.287	1_percent	distribution-dss volunteer	1.2015
+0.1_percent	2021	school mask	19.2735	1_percent	pregnant woman	1.201
+0.1_percent	2021	modi govt	19.2689	1_percent	multiple myeloma	1.201
+0.1_percent	2021	nursing home death	19.2428	1_percent	pm modi	1.2007
+0.1_percent	2021	budget reconciliation	19.241	1_percent	vaccination appointment	1.2005
+0.1_percent	2021	covid hospital	19.1683	1_percent	covid-19 crisis	1.1991
+0.1_percent	2021	full lockdown	19.1665	1_percent	peter daszak	1.199
+0.1_percent	2021	military council	19.152	1_percent	relief plan	1.1987
+0.1_percent	2021	covid duty	19.136	1_percent	medical oxygen	1.1985
+0.1_percent	2021	at-home covid test	19.108	1_percent	proof of vaccination	1.1981
+0.1_percent	2021	covid rate	19.0975	1_percent	new covid variant	1.198
+0.1_percent	2021	covid-19 outbreak	19.0888	1_percent	public health failure	1.198
+0.1_percent	2021	lab origin	19.055	1_percent	offline exam	1.1978
+0.1_percent	2021	vaccine for children	19.049	1_percent	fake news	1.1976
+0.1_percent	2021	pfizer scientist	18.981	1_percent	covid bed	1.197
+0.1_percent	2021	donation camp	18.959	1_percent	stay-at-home order	1.1965
+0.1_percent	2021	covid spread	18.8753	1_percent	covid19 vaccine	1.1954
+0.1_percent	2021	र प	18.823	1_percent	same people	1.1951
+0.1_percent	2021	biden admin	18.7697	1_percent	christmas eve	1.195
+0.1_percent	2021	uk variant	18.7396	1_percent	इन पर	1.195
+0.1_percent	2021	third dose	18.7345	1_percent	covid virus	1.1947
+0.1_percent	2021	age relaxation	18.696	1_percent	killing people	1.1944
+0.1_percent	2021	unvaccinated folk	18.692	1_percent	cases today	1.1937
+0.1_percent	2021	covid-19 vaccination appointment	18.68	1_percent	front line	1.1932
+0.1_percent	2021	gold star family	18.665	1_percent	common cold	1.1927
+0.1_percent	2021	omicron covid	18.655	1_percent	healthcare system	1.1926
+0.1_percent	2021	emergency use	18.6413	1_percent	speedy recovery	1.1921
+0.1_percent	2021	mrna covid vaccine	18.632	1_percent	covid-19 list	1.1916
+0.1_percent	2021	health official	18.5837	1_percent	breakthrough infection	1.1913
+0.1_percent	2021	prevention kit	18.5565	1_percent	covid-19 testing	1.1911
+0.1_percent	2021	at-home covid	18.504	1_percent	wear mask	1.1905
+0.1_percent	2021	function research	18.4943	1_percent	lab leak theory	1.1903
+0.1_percent	2021	lack of oxygen	18.407	1_percent	vaccine requirement	1.1902
+0.1_percent	2021	spring break	18.3555	1_percent	health issue	1.1897
+0.1_percent	2021	peter daszak	18.3503	1_percent	number of people	1.1886
+0.1_percent	2021	oxygen shortage	18.3302	1_percent	covid misinformation	1.1885
+0.1_percent	2021	plan b	18.3232	1_percent	chinese virus	1.1875
+0.1_percent	2021	covid-19 list	18.3058	1_percent	leak theory	1.187
+0.1_percent	2021	covid warrior	18.2611	1_percent	omicron coronavirus variant	1.187
+0.1_percent	2021	mass vaccination	18.1218	1_percent	covid denier	1.1867
+0.1_percent	2021	covid origin	18.097	1_percent	religious exemption	1.1867
+0.1_percent	2021	cdc director	18.0906	1_percent	covid insight	1.186
+0.1_percent	2021	total case	18.0883	1_percent	infrastructure bill	1.186
+0.1_percent	2021	new covid	18.0678	1_percent	post covid	1.1857
+0.1_percent	2021	gain-of-function research	18.0468	1_percent	night curfew	1.1857
+0.1_percent	2021	scott morrison	17.9686	1_percent	state govt	1.1857
+0.1_percent	2021	य ब	17.959	1_percent	vaccine for kids	1.1855
+0.1_percent	2021	vax mandate	17.9322	1_percent	vaccine hesitancy	1.185
+0.1_percent	2021	post covid	17.914	1_percent	economic recovery	1.1847
+0.1_percent	2021	omicron symptom	17.903	1_percent	stimulus check	1.1843
+0.1_percent	2021	contact number	17.864	1_percent	covid treatment	1.1842
+0.1_percent	2021	total lockdown	17.8557	1_percent	gun violence	1.1839
+0.1_percent	2021	doug ford	17.8458	1_percent	new strain	1.1838
+0.1_percent	2021	ted nugent	17.816	1_percent	omicron virus	1.183
+0.1_percent	2021	covid stimulus	17.782	1_percent	covid positive	1.1828
+0.1_percent	2021	moment of silence	17.762	1_percent	tokyo olympics	1.1824
+0.1_percent	2021	vaccinated person	17.7457	1_percent	rahul gandhi	1.182
+0.1_percent	2021	relief check	17.7227	1_percent	military junta	1.182
+0.1_percent	2021	ياريس ارجوك الطلاب بتموت	17.7	1_percent	wuhan institute	1.1819
+0.1_percent	2021	new strain	17.686	1_percent	adverse reaction	1.1816
+0.1_percent	2021	cdc guideline	17.668	1_percent	viral load	1.1814
+0.1_percent	2021	case rate	17.6645	1_percent	covid policy	1.1807
+0.1_percent	2021	greg abbott	17.6212	1_percent	southern border	1.1804
+0.1_percent	2021	corona patient	17.5435	1_percent	modi government	1.18
+0.1_percent	2021	kachin state	17.519	1_percent	covid rate	1.1797
+0.1_percent	2021	gain of function research	17.4623	1_percent	state government	1.1793
+0.1_percent	2021	corona pandemic	17.4607	1_percent	covid list	1.1793
+0.1_percent	2021	internal assessment	17.406	1_percent	booster vaccine	1.1792
+0.1_percent	2021	covid ward	17.3738	1_percent	mass vaccination	1.1791
+0.1_percent	2021	variant of concern	17.3709	1_percent	happy new year	1.179
+0.1_percent	2021	tornado outbreak	17.3045	1_percent	lack of oxygen	1.1787
+0.1_percent	2021	republican governor	17.2903	1_percent	other state	1.1786
+0.1_percent	2021	wuhan virus	17.2725	1_percent	covid-19 vaccination appointment	1.1782
+0.1_percent	2021	case of the omicron variant	17.2695	1_percent	covid spread	1.1777
+0.1_percent	2021	school reopen	17.261	1_percent	astrazeneca vaccine	1.1773
+0.1_percent	2021	rare blood	17.24	1_percent	monoclonal antibody	1.1771
+0.1_percent	2021	monoclonal antibody treatment	17.2374	1_percent	petrol station	1.177
+0.1_percent	2021	dera sacha sauda	17.2315	1_percent	health measure	1.1769
+0.1_percent	2021	booster vaccine	17.2035	1_percent	clinical trial	1.1768
+0.1_percent	2021	previous variant	17.177	1_percent	covid-19 protocol	1.1767
+0.1_percent	2021	rapid spread	17.159	1_percent	coronavirus death	1.1762
+0.1_percent	2021	covid centre	17.143	1_percent	coronavirus infection	1.1762
+0.1_percent	2021	covid relief check	17.099	1_percent	vaccine pass	1.176
+0.1_percent	2021	covid-19 hate	17.0277	1_percent	home death	1.1753
+0.1_percent	2021	humble request	17.0137	1_percent	cause of death	1.1751
+0.1_percent	2021	mild symptom	16.9943	1_percent	new zealand	1.175
+0.1_percent	2021	health measure	16.9933	1_percent	weekend lockdown	1.175
+0.1_percent	2021	real pandemic	16.9917	1_percent	hong kong	1.175
+0.1_percent	2021	health message	16.98	1_percent	saving life	1.1748
+0.1_percent	2021	त आर	16.971	1_percent	number of cases	1.1747
+0.1_percent	2021	घ ग	16.971	1_percent	covid-19 update	1.1746
+0.1_percent	2021	य मह	16.971	1_percent	full lockdown	1.1744
+0.1_percent	2021	covid-19 pill	16.9607	1_percent	year anniversary	1.174
+0.1_percent	2021	modi government	16.9243	1_percent	secretary of state	1.174
+0.1_percent	2021	ùšø3 ø	16.904	1_percent	hospital admission	1.1737
+0.1_percent	2021	rand paul	16.8823	1_percent	covid resource	1.1735
+0.1_percent	2021	shop merch	16.834	1_percent	vaccine clinic	1.1733
+0.1_percent	2021	covid-19 booster shot	16.827	1_percent	dead body	1.1717
+0.1_percent	2021	delta outbreak	16.813	1_percent	private hospital	1.1715
+0.1_percent	2021	southern border	16.8067	1_percent	rescue plan	1.1715
+0.1_percent	2021	rapid antigen	16.8065	1_percent	million of people	1.1712
+0.1_percent	2021	covid-19 protocol	16.8022	1_percent	police officer	1.1707
+0.1_percent	2021	state board exam	16.795	1_percent	american rescue plan	1.17
+0.1_percent	2021	senate clerk	16.782	1_percent	increasing day	1.17
+0.1_percent	2021	phil valentine	16.759	1_percent	winter storm	1.1695
+0.1_percent	2021	covid-19 testing	16.7334	1_percent	illegal immigrant	1.1693
+0.1_percent	2021	captain tom	16.731	1_percent	third dose	1.1688
+0.1_percent	2021	south african doctor	16.692	1_percent	horse dewormer	1.1687
+0.1_percent	2021	entire pandemic	16.6756	1_percent	thousand of people	1.1685
+0.1_percent	2021	whole pandemic	16.6606	1_percent	vaccine shot	1.1685
+0.1_percent	2021	home test	16.649	1_percent	first case	1.1683
+0.1_percent	2021	medical oxygen	16.6313	1_percent	spread of the omicron	1.168
+0.1_percent	2021	covid insight	16.5577	1_percent	severe disease	1.1679
+0.1_percent	2021	booster for all adults	16.557	1_percent	case rate	1.1679
+0.1_percent	2021	narendra modi	16.5475	1_percent	variant of concern	1.1679
+0.1_percent	2021	paid leave	16.527	1_percent	covid care centre	1.1675
+0.1_percent	2021	vax rate	16.42	1_percent	dss volunteer	1.167
+0.1_percent	2021	fourth wave	16.4153	1_percent	few week	1.1667
+0.1_percent	2021	variant omicron	16.3725	1_percent	oxygen shortage	1.1667
+0.1_percent	2021	severe disease	16.3701	1_percent	cdc guideline	1.1664
+0.1_percent	2021	astrazeneca vaccine	16.3328	1_percent	ron desantis	1.1664
+0.1_percent	2021	chris rock	16.322	1_percent	american rescue	1.1662
+0.1_percent	2021	god kabir	16.284	1_percent	cdc guidance	1.166
+0.1_percent	2021	coronavirus act	16.2661	1_percent	great news	1.1658
+0.1_percent	2021	care worker	16.2399	1_percent	bill gates	1.1655
+0.1_percent	2021	antiviral pill	16.239	1_percent	mortality rate	1.1655
+0.1_percent	2021	dss volunteer	16.238	1_percent	first day	1.165
+0.1_percent	2021	health secretary	16.2118	1_percent	us capitol	1.165
+0.1_percent	2021	wife bought stock	16.188	1_percent	federal solution	1.165
+0.1_percent	2021	health care worker	16.1777	1_percent	mild symptom	1.1646
+0.1_percent	2021	blood cancer	16.175	1_percent	budget resolution	1.164
+0.1_percent	2021	ssc chsl	16.153	1_percent	covid report	1.164
+0.1_percent	2021	covid prevention kit	16.152	1_percent	prisoner right	1.164
+0.1_percent	2021	home order	16.0924	1_percent	corona case	1.1638
+0.1_percent	2021	omicron outbreak	16.092	1_percent	tax cut	1.1637
+0.1_percent	2021	vaccine eligibility	16.0705	1_percent	negative test	1.1631
+0.1_percent	2021	mass shooting	16.027	1_percent	omicron covid	1.163
+0.1_percent	2021	extreme level of torture	16.019	1_percent	analytics team	1.163
+0.1_percent	2021	hotel quarantine	16.0014	1_percent	vax mandate	1.1627
+0.1_percent	2021	covid facility	15.991	1_percent	hotel quarantine	1.1625
+0.1_percent	2021	covid resource	15.9855	1_percent	covid warrior	1.1623
+0.1_percent	2021	motorcycle rally	15.967	1_percent	uk variant	1.162
+0.1_percent	2021	coronavirus infection	15.915	1_percent	ssc chsl	1.162
+0.1_percent	2021	level of torture	15.903	1_percent	total death	1.1616
+0.1_percent	2021	astrazeneca covid-19 vaccine	15.8886	1_percent	related death	1.1616
+0.1_percent	2021	mental stress	15.879	1_percent	pay rise	1.161
+0.1_percent	2021	at-home test	15.865	1_percent	covid-19 booster shot	1.161
+0.1_percent	2021	german radio	15.862	1_percent	panic buy	1.1605
+0.1_percent	2021	african variant	15.8612	1_percent	real pandemic	1.1603
+0.1_percent	2021	birthday bash	15.857	1_percent	omicron fear	1.16
+0.1_percent	2021	impending doom	15.85	1_percent	uttar pradesh	1.1599
+0.1_percent	2021	private student	15.834	1_percent	covid ward	1.1597
+0.1_percent	2021	covid death rate	15.8207	1_percent	severe illness	1.1597
+0.1_percent	2021	spring breaker	15.796	1_percent	case of the omicron variant	1.1595
+0.1_percent	2021	covid prisoner	15.789	1_percent	asian americans	1.1587
+0.1_percent	2021	lockdown lifting	15.778	1_percent	new covid	1.1586
+0.1_percent	2021	public health measure	15.772	1_percent	intensive care	1.1585
+0.1_percent	2021	case number	15.7359	1_percent	ventilator bed	1.1585
+0.1_percent	2021	covid report	15.7165	1_percent	healthy people	1.1583
+0.1_percent	2021	coronavirus relief bill	15.668	1_percent	xmas party	1.158
+0.1_percent	2021	state govt	15.6646	1_percent	deadly virus	1.1573
+0.1_percent	2021	indoor mask	15.64	1_percent	trump administration	1.1571
+0.1_percent	2021	vaccine injury	15.6276	1_percent	mandatory vaccination	1.1571
+0.1_percent	2021	weekend lockdown	15.599	1_percent	andrew cuomo	1.157
+0.1_percent	2021	lockdown sceptic	15.583	1_percent	covid hospitalization	1.157
+0.1_percent	2021	white fungus	15.579	1_percent	covid hero	1.157
+0.1_percent	2021	night curfew	15.569	1_percent	kanwar yatra	1.157
+0.1_percent	2021	trajectory of the pandemic	15.556	1_percent	one-day increase	1.1568
+0.1_percent	2021	anti-lockdown protest	15.5534	1_percent	heart attack	1.1561
+0.1_percent	2021	pre-pandemic level	15.5501	1_percent	prevention kit	1.156
+0.1_percent	2021	one-day increase	15.5286	1_percent	donald trump	1.1559
+0.1_percent	2021	total death	15.5242	1_percent	chief minister	1.1555
+0.1_percent	2021	military dictator	15.519	1_percent	downing street	1.1555
+0.1_percent	2021	covid-19 vaccine dose	15.5177	1_percent	cdc director	1.1551
+0.1_percent	2021	fox news anchor	15.516	1_percent	impending doom	1.155
+0.1_percent	2021	pandemic legislation	15.514	1_percent	care centre	1.155
+0.1_percent	2021	covid risk	15.5085	1_percent	driver shortage	1.155
+0.1_percent	2021	covid measure	15.4982	1_percent	only way	1.1548
+0.1_percent	2021	first case of omicron	15.489	1_percent	complete lockdown	1.1545
+0.1_percent	2021	covid toe	15.472	1_percent	home isolation	1.1543
+0.1_percent	2021	lab-leak theory	15.429	1_percent	health secretary	1.1541
+0.1_percent	2021	vaccine card	15.398	1_percent	घ ग	1.154
+0.1_percent	2021	panic buy	15.3684	1_percent	य मह	1.154
+0.1_percent	2021	covid update	15.3681	1_percent	त आर	1.154
+0.1_percent	2021	covid care centre	15.356	1_percent	biden admin	1.154
+0.1_percent	2021	new covid variant	15.3524	1_percent	urgent need	1.154
+0.1_percent	2021	asian woman	15.332	1_percent	variant omicron	1.154
+0.1_percent	2021	flu shot	15.3206	1_percent	federal judge	1.154
+0.1_percent	2021	military junta	15.302	1_percent	bbc news	1.1539
+0.1_percent	2021	lindsey graham	15.295	1_percent	covid-19 virus	1.1539
+0.1_percent	2021	new availability	15.2853	1_percent	federal government	1.1538
+0.1_percent	2021	conspiracy theorist	15.2707	1_percent	covid contract	1.1538
+0.1_percent	2021	handling of the pandemic	15.2645	1_percent	stimulus bill	1.1535
+0.1_percent	2021	statewide mask mandate	15.206	1_percent	appropriate behaviour	1.1535
+0.1_percent	2021	owen paterson	15.205	1_percent	modi govt	1.1531
+0.1_percent	2021	next pandemic	15.1857	1_percent	moment of silence	1.153
+0.1_percent	2021	vaccine today	15.1709	1_percent	delta strain	1.153
+0.1_percent	2021	miami beach	15.17	1_percent	flu vaccine	1.1526
+0.1_percent	2021	vaccination card	15.157	1_percent	oxygen support	1.1525
+0.1_percent	2021	president joe biden	15.1547	1_percent	heart inflammation	1.1525
+0.1_percent	2021	us capitol	15.146	1_percent	case of omicron variant	1.1525
+0.1_percent	2021	president jair bolsonaro	15.146	1_percent	few day	1.1524
+0.1_percent	2021	vaccination clinic	15.1375	1_percent	paid sick day	1.152
+0.1_percent	2021	covid-19 situation	15.1365	1_percent	nursing home death	1.152
+0.1_percent	2021	vaccine status	15.1364	1_percent	तन द	1.152
+0.1_percent	2021	statewide mask	15.132	1_percent	hgv driver	1.152
+0.1_percent	2021	quarantine camp	15.1142	1_percent	public health measure	1.1519
+0.1_percent	2021	covid bed	15.057	1_percent	state of emergency	1.1517
+0.1_percent	2021	military coup	15.0505	1_percent	disabled people	1.1516
+0.1_percent	2021	universe lockdown	15.019	1_percent	qr code	1.1516
+0.1_percent	2021	ó 3ó	15.019	1_percent	health ministry	1.1514
+0.1_percent	2021	requiring mask	15.013	1_percent	sajid javid	1.1514
+0.1_percent	2021	rare blood clot	15.009	1_percent	aged care	1.1513
+0.1_percent	2021	severe illness	15.0047	1_percent	remdesivir injection	1.151
+0.1_percent	2021	winter storm	14.9875	1_percent	blood cancer	1.151
+0.1_percent	2021	west bengal	14.971	1_percent	covid hospital	1.1508
+0.1_percent	2021	caleb wallace	14.969	1_percent	president trump	1.1507
+0.1_percent	2021	pfizer booster	14.9512	1_percent	number of deaths	1.1507
+0.1_percent	2021	र द	14.9485	1_percent	covid prevention	1.1505
+0.1_percent	2021	baba ramdev	14.918	1_percent	pandemic hit	1.1503
+0.1_percent	2021	maharashtra govt	14.907	1_percent	home order	1.1502
+0.1_percent	2021	covid-19 surge	14.9068	1_percent	emergency meeting	1.15
+0.1_percent	2021	covid pill	14.8703	1_percent	cruise ship	1.1498
+0.1_percent	2021	vaccine pass	14.868	1_percent	relief fund	1.1497
+0.1_percent	2021	covid-19 relief package	14.864	1_percent	bad day	1.149
+0.1_percent	2021	vaccine supply	14.8207	1_percent	central govt	1.149
+0.1_percent	2021	infrastructure bill	14.819	1_percent	god kabir	1.149
+0.1_percent	2021	confirmed case	14.8016	1_percent	first case of omicron	1.149
+0.1_percent	2021	oxygen tank	14.7145	1_percent	new infection	1.1488
+0.1_percent	2021	chinese lab	14.7057	1_percent	stay safe	1.148
+0.1_percent	2021	daily death	14.6988	1_percent	central vista	1.148
+0.1_percent	2021	care home	14.6935	1_percent	anti vaxxer	1.148
+0.1_percent	2021	travel restriction	14.6865	1_percent	lockdown party	1.148
+0.1_percent	2021	capitol police	14.685	1_percent	doug ford	1.1474
+0.1_percent	2021	nursing home	14.6688	1_percent	covid-19 vaccine dose	1.1474
+0.1_percent	2021	tory mp	14.6654	1_percent	student loan	1.147
+0.1_percent	2021	purple balloon	14.656	1_percent	vaccine eligibility	1.147
+0.1_percent	2021	kung flu	14.6225	1_percent	mu variant	1.147
+0.1_percent	2021	complete lockdown	14.6133	1_percent	vaccine injury	1.147
+0.1_percent	2021	southern african country	14.608	1_percent	next variant	1.147
+0.1_percent	2021	year anniversary	14.5895	1_percent	previous variant	1.147
+0.1_percent	2021	main strike	14.589	1_percent	mass shooting	1.1465
+0.1_percent	2021	coronavirus research	14.5453	1_percent	covid duty	1.1463
+0.1_percent	2021	covid-19 crisis	14.5336	1_percent	flu season	1.1461
+0.1_percent	2021	flow test	14.4863	1_percent	vast majority	1.1461
+0.1_percent	2021	ventilator bed	14.466	1_percent	michael gove	1.146
+0.1_percent	2021	death rate in the world	14.4647	1_percent	covid-19 hate	1.145
+0.1_percent	2021	vaccine trial	14.4635	1_percent	omicron outbreak	1.145
+0.1_percent	2021	nationwide lockdown	14.4565	1_percent	next year	1.1446
+0.1_percent	2021	cm sir	14.4555	1_percent	election commission	1.144
+0.1_percent	2021	minimum wage	14.4497	1_percent	dominant variant	1.144
+0.1_percent	2021	covid-19 shot	14.4391	1_percent	sick day	1.1435
+0.1_percent	2021	south african scientist	14.4245	1_percent	rural area	1.1435
+0.1_percent	2021	guests age	14.409	1_percent	indian government	1.143
+0.1_percent	2021	free vaccination	14.403	1_percent	g7 summit	1.143
+0.1_percent	2021	ban on mask mandates	14.366	1_percent	vaccinated person	1.1427
+0.1_percent	2021	south african variant	14.3616	1_percent	sydney lockdown	1.1427
+0.1_percent	2021	chsl exam	14.36	1_percent	personal choice	1.1427
+0.1_percent	2021	political rally	14.359	1_percent	contact tracing	1.1424
+0.1_percent	2021	african doctor	14.325	1_percent	antibody treatment	1.142
+0.1_percent	2021	kids age	14.303	1_percent	at-home test	1.142
+0.1_percent	2021	vaccine clinic	14.3025	1_percent	whole pandemic	1.1418
+0.1_percent	2021	egyptian student	14.289	1_percent	vaccination program	1.1417
+0.1_percent	2021	rahul gandhi	14.2872	1_percent	ten of thousands	1.1417
+0.1_percent	2021	unvaccinated kid	14.2845	1_percent	covid-19 lockdown	1.1413
+0.1_percent	2021	private hospital	14.2663	1_percent	covid-19 situation	1.141
+0.1_percent	2021	salmonella outbreak	14.263	1_percent	sac terrorist	1.141
+0.1_percent	2021	antigen test	14.2608	1_percent	immune response	1.1409
+0.1_percent	2021	flu pandemic	14.2477	1_percent	fourth wave	1.1409
+0.1_percent	2021	close contact	14.2448	1_percent	may allah	1.1407
+0.1_percent	2021	deadly virus	14.2081	1_percent	tucker carlson	1.1405
+0.1_percent	2021	tucker carlson	14.2033	1_percent	variant spread	1.1405
+0.1_percent	2021	covid-19 memorial	14.191	1_percent	pandemic time	1.1404
+0.1_percent	2021	social distancing measure	14.179	1_percent	total number	1.1403
+0.1_percent	2021	sick day	14.1777	1_percent	covid recovery	1.14
+0.1_percent	2021	covid vaccine booster	14.1585	1_percent	medical supply	1.1398
+0.1_percent	2021	covid-19 hospitalization	14.1584	1_percent	political rally	1.1395
+0.1_percent	2021	व बर	14.146	1_percent	coronavirus restriction	1.1394
+0.1_percent	2021	यरस स	14.146	1_percent	modi ji	1.1393
+0.1_percent	2021	red list	14.145	1_percent	covid management	1.1392
+0.1_percent	2021	lateral flow	14.1266	1_percent	next pandemic	1.1391
+0.1_percent	2021	delhi govt	14.1245	1_percent	executive order	1.139
+0.1_percent	2021	vax passport	14.1226	1_percent	whole world	1.139
+0.1_percent	2021	breaking report	14.1152	1_percent	boxing day	1.139
+0.1_percent	2021	welcome generation	14.104	1_percent	many life	1.1389
+0.1_percent	2021	birthday party	14.098	1_percent	dera sacha sauda	1.1385
+0.1_percent	2021	paper strike	14.095	1_percent	safety measure	1.1382
+0.1_percent	2021	moderna vaccine	14.0815	1_percent	rare blood clot	1.138
+0.1_percent	2021	anti-covid drug	14.068	1_percent	purple balloon	1.138
+0.1_percent	2021	myanmar junta	14.058	1_percent	rapid spread	1.138
+0.1_percent	2021	urgent requirement	14.054	1_percent	spread of the omicron variant	1.138
+0.1_percent	2021	south africa	14.0385	1_percent	vaccination clinic	1.1377
+0.1_percent	2021	dominic cummings	14.0282	1_percent	covid origin	1.1376
+0.1_percent	2021	national guard	14.014	1_percent	scott morrison	1.1375
+0.1_percent	2021	kao wool	13.982	1_percent	vaccine supply	1.1373
+0.1_percent	2021	neanderthal thinking	13.975	1_percent	vax rate	1.1372
+0.1_percent	2021	foundation day	13.9725	1_percent	early treatment	1.1371
+0.1_percent	2021	regular insulation	13.972	1_percent	ssc chsl exam	1.137
+0.1_percent	2021	pediatric hospital	13.95	1_percent	entire pandemic	1.1367
+0.1_percent	2021	covid recovery	13.9477	1_percent	vaccination programme	1.1365
+0.1_percent	2021	stimulus bill	13.9065	1_percent	cases surge	1.1365
+0.1_percent	2021	covid hero	13.882	1_percent	tornado outbreak	1.1365
+0.1_percent	2021	myanmar people	13.881	1_percent	astrazeneca covid-19 vaccine	1.1364
+0.1_percent	2021	extreme level	13.875	1_percent	low vaccination	1.1363
+0.1_percent	2021	analytics team	13.8485	1_percent	normal life	1.1361
+0.1_percent	2021	cdc guidance	13.8406	1_percent	wuhan virus	1.1361
+0.1_percent	2021	free test	13.84	1_percent	vaccination centre	1.136
+0.1_percent	2021	delta strain	13.8298	1_percent	postal code	1.136
+0.1_percent	2021	necessary precaution	13.827	1_percent	corona curfew	1.136
+0.1_percent	2021	yg entertainment	13.7815	1_percent	military coup	1.1357
+0.1_percent	2021	university exam	13.78	1_percent	serious illness	1.1357
+0.1_percent	2021	omicron covid variant	13.779	1_percent	corona patient	1.1357
+0.1_percent	2021	stay safe	13.7645	1_percent	covid pill	1.1357
+0.1_percent	2021	covid-19 virus	13.7431	1_percent	white supremacist	1.1355
+0.1_percent	2021	ùˆùƒ ø	13.724	1_percent	home resident	1.1353
+0.1_percent	2021	double mask	13.7238	1_percent	chinese lab	1.1353
+0.1_percent	2021	low vaccination	13.7168	1_percent	covid booster shot	1.1353
+0.1_percent	2021	poison control	13.684	1_percent	online exam	1.1351
+0.1_percent	2021	lost generation	13.684	1_percent	antigen test	1.135
+0.1_percent	2021	community pantry	13.666	1_percent	relief work	1.135
+0.1_percent	2021	coronavirus vaccination	13.6565	1_percent	new mask	1.135
+0.1_percent	2021	early treatment	13.6478	1_percent	public transport	1.1348
+0.1_percent	2021	congress leader	13.621	1_percent	red state	1.1348
+0.1_percent	2021	shortage of oxygen	13.613	1_percent	antiviral pill	1.1347
+0.1_percent	2021	killing people	13.5847	1_percent	home test	1.1345
+0.1_percent	2021	covid victim	13.5776	1_percent	covid-19 response	1.1338
+0.1_percent	2021	audio statement	13.574	1_percent	exposure site	1.1337
+0.1_percent	2021	acquired immunity	13.573	1_percent	health condition	1.1335
+0.1_percent	2021	viral load	13.5727	1_percent	covid centre	1.1335
+0.1_percent	2021	spo2 level	13.5645	1_percent	covid measure	1.1332
+0.1_percent	2021	anti-asian racism	13.539	1_percent	anti-lockdown protest	1.133
+0.1_percent	2021	next several month	13.536	1_percent	coronavirus act	1.133
+0.1_percent	2021	variant spread	13.5343	1_percent	equal future	1.133
+0.1_percent	2021	boxing day	13.522	1_percent	senate democrats	1.133
+0.1_percent	2021	corona crisis	13.5193	1_percent	g7 leader	1.133
+0.1_percent	2021	helpline number	13.513	1_percent	paid leave	1.133
+0.1_percent	2021	larry king	13.499	1_percent	unpaid leave	1.133
+0.1_percent	2021	blood donation	13.492	1_percent	first wave	1.1328
+0.1_percent	2021	banning mask	13.4915	1_percent	leading cause	1.1327
+0.1_percent	2021	many police officer	13.479	1_percent	oxygen plant	1.1326
+0.1_percent	2021	huge crowd	13.468	1_percent	narendra modi	1.1325
+0.1_percent	2021	epidemiological stupidity	13.451	1_percent	pre-pandemic level	1.1322
+0.1_percent	2021	xi variant	13.446	1_percent	cow urine	1.132
+0.1_percent	2021	new national lockdown	13.443	1_percent	school year	1.132
+0.1_percent	2021	great quran	13.442	1_percent	universe lockdown	1.132
+0.1_percent	2021	covid supply	13.437	1_percent	tidal wave	1.132
+0.1_percent	2021	new mask	13.4263	1_percent	mild variant	1.132
+0.1_percent	2021	pandemic time	13.4226	1_percent	corona pandemic	1.1313
+0.1_percent	2021	marjorie taylor greene	13.4209	1_percent	vaccine certificate	1.1312
+0.1_percent	2021	health worker	13.4101	1_percent	allergic reaction	1.131
+0.1_percent	2021	kerala govt	13.388	1_percent	recovery rate	1.131
+0.1_percent	2021	condition of pandemic	13.385	1_percent	eid mubarak	1.131
+0.1_percent	2021	wannabe dictator	13.366	1_percent	good health	1.1307
+0.1_percent	2021	insein prison	13.336	1_percent	central government	1.1303
+0.1_percent	2021	breaking news	13.3216	1_percent	school reopen	1.13
+0.1_percent	2021	vaccination programme	13.3065	1_percent	contact name	1.13
+0.1_percent	2021	covid-19 update	13.301	1_percent	intellectual property	1.13
+0.1_percent	2021	common cold	13.2927	1_percent	white flag	1.13
+0.1_percent	2021	cloth mask	13.2911	1_percent	donation camp	1.13
+0.1_percent	2021	radio host	13.2902	1_percent	great quran	1.13
+0.1_percent	2021	isolation period	13.29	1_percent	covid right	1.13
+0.1_percent	2021	covid today	13.276	1_percent	many student	1.1297
+0.1_percent	2021	reopening school	13.2653	1_percent	la county	1.1293
+0.1_percent	2021	ana navarro	13.254	1_percent	tough time	1.1292
+0.1_percent	2021	fda panel	13.252	1_percent	rapid antigen	1.1292
+0.1_percent	2021	may allah	13.2508	1_percent	covid death rate	1.129
+0.1_percent	2021	sagaing region	13.238	1_percent	craig kelly	1.129
+0.1_percent	2021	corona time	13.2216	1_percent	exam centre	1.129
+0.1_percent	2021	pay rise	13.2183	1_percent	chain issue	1.129
+0.1_percent	2021	live bat	13.202	1_percent	people get	1.1288
+0.1_percent	2021	federal vaccine	13.1835	1_percent	adverse event	1.1288
+0.1_percent	2021	lateral flow test	13.1785	1_percent	relief check	1.1287
+0.1_percent	2021	g7 summit	13.177	1_percent	sick leave	1.1285
+0.1_percent	2021	equal future	13.173	1_percent	medical facility	1.1285
+0.1_percent	2021	covid management	13.1614	1_percent	school closure	1.128
+0.1_percent	2021	eid mubarak	13.159	1_percent	capitol riot	1.128
+0.1_percent	2021	unvaccinated teacher	13.151	1_percent	new restriction	1.128
+0.1_percent	2021	prisoner right	13.113	1_percent	spring breaker	1.128
+0.1_percent	2021	free food	13.11	1_percent	jaam-e-insan guru	1.128
+0.1_percent	2021	drug overdose	13.103	1_percent	lambda variant	1.128
+0.1_percent	2021	षक कब	13.1	1_percent	omicron symptom	1.128
+0.1_percent	2021	florida hospital	13.099	1_percent	corona vaccine	1.1279
+0.1_percent	2021	christmas day	13.079	1_percent	other variant	1.1278
+0.1_percent	2021	wear glove	13.078	1_percent	surgical mask	1.1273
+0.1_percent	2021	spread of the omicron variant	13.074	1_percent	covid-19 shot	1.1273
+0.1_percent	2021	local case	13.0705	1_percent	public school	1.1273
+0.1_percent	2021	covid end	13.069	1_percent	chsl exam	1.127
+0.1_percent	2021	prior infection	13.0657	1_percent	vaccinated individual	1.127
+0.1_percent	2021	vp harris	13.062	1_percent	food shortage	1.127
+0.1_percent	2021	many police	13.058	1_percent	unvaccinated folk	1.127
+0.1_percent	2021	unvaccinated person	13.0545	1_percent	pfizer scientist	1.127
+0.1_percent	2021	cases surge	13.042	1_percent	audio statement	1.127
+0.1_percent	2021	covid booster shot	13.0378	1_percent	covid-19 relief package	1.1265
+0.1_percent	2021	vaccination requirement	13.032	1_percent	health authority	1.1263
+0.1_percent	2021	mandate in schools	12.9935	1_percent	polio vaccine	1.1263
+0.1_percent	2021	proof of a negative test	12.9915	1_percent	vaccine today	1.1261
+0.1_percent	2021	related death	12.9845	1_percent	dominic cummings	1.126
+0.1_percent	2021	coup attempt	12.982	1_percent	white fungus	1.126
+0.1_percent	2021	yan report	12.9753	1_percent	fetal cell	1.126
+0.1_percent	2021	extra attempt	12.973	1_percent	wannabe dictator	1.126
+0.1_percent	2021	pandemic hit	12.9723	1_percent	covid update	1.1258
+0.1_percent	2021	health expert	12.9636	1_percent	illegal alien	1.1257
+0.1_percent	2021	teachers union	12.9614	1_percent	daily death	1.1256
+0.1_percent	2021	vaccination program	12.9507	1_percent	chinese scientist	1.1255
+0.1_percent	2021	awareness drive	12.9455	1_percent	lateral flow	1.1254
+0.1_percent	2021	hospital admission	12.9392	1_percent	one-year anniversary	1.125
+0.1_percent	2021	german radio host	12.928	1_percent	fauci email	1.125
+0.1_percent	2021	quarantine time	12.928	1_percent	southern africa	1.125
+0.1_percent	2021	g7 leader	12.897	1_percent	personal responsibility	1.1249
+0.1_percent	2021	illegal immigrant	12.8892	1_percent	testing site	1.1248
+0.1_percent	2021	corona curfew	12.88	1_percent	long-term care	1.1247
+0.1_percent	2021	central vista project	12.875	1_percent	desktop manufacturing company	1.1245
+0.1_percent	2021	gladys berejiklian	12.8727	1_percent	difficult time	1.1242
+0.1_percent	2021	class 12th board	12.869	1_percent	african variant	1.1242
+0.1_percent	2021	central vista	12.868	1_percent	political party	1.124
+0.1_percent	2021	ted cruz	12.8649	1_percent	ve plasma	1.124
+0.1_percent	2021	one-day increase on record	12.855	1_percent	covid prevention kit	1.124
+0.1_percent	2021	cdc study	12.844	1_percent	biological weapon	1.124
+0.1_percent	2021	texas hospital	12.844	1_percent	exam in this pandemic	1.124
+0.1_percent	2021	personal responsibility	12.8405	1_percent	coming home	1.124
+0.1_percent	2021	rss volunteer	12.834	1_percent	anti vaccine	1.124
+0.1_percent	2021	paid sick day	12.809	1_percent	lockdown measure	1.1238
+0.1_percent	2021	tablighi jamaat	12.801	1_percent	face covering	1.1238
+0.1_percent	2021	federal property	12.799	1_percent	pre covid	1.1237
+0.1_percent	2021	anti-coup strike	12.796	1_percent	vaccine card	1.1235
+0.1_percent	2021	venue of concern	12.794	1_percent	rare blood	1.1235
+0.1_percent	2021	vaccination centre	12.7929	1_percent	trust worthy company	1.1235
+0.1_percent	2021	unpaid leave	12.785	1_percent	worthy company	1.1235
+0.1_percent	2021	alabama doctor	12.783	1_percent	total lockdown	1.1234
+0.1_percent	2021	cdc datum	12.7659	1_percent	essential service	1.1233
+0.1_percent	2021	lockdown measure	12.7602	1_percent	case count	1.123
+0.1_percent	2021	french nun	12.756	1_percent	patent waiver	1.123
+0.1_percent	2021	covid-19 vaccine booster	12.7494	1_percent	nsw health	1.123
+0.1_percent	2021	kerala model	12.74	1_percent	unemployment benefit	1.1228
+0.1_percent	2021	allahabad high court	12.697	1_percent	other people	1.1227
+0.1_percent	2021	african scientist	12.6915	1_percent	covid stimulus	1.1227
+0.1_percent	2021	medical status	12.685	1_percent	covid-19 delta variant	1.1223
+0.1_percent	2021	trump admin	12.6804	1_percent	vaccination campaign	1.1222
+0.1_percent	2021	children age	12.6605	1_percent	walgreen drug store	1.122
+0.1_percent	2021	testing site	12.6297	1_percent	ford government	1.122
+0.1_percent	2021	delta plus	12.61	1_percent	opening ceremony	1.122
+0.1_percent	2021	exam centre	12.608	1_percent	johnson vaccine	1.1216
+0.1_percent	2021	covid-19 origin	12.5997	1_percent	cloth mask	1.1213
+0.1_percent	2021	conspiracy theory	12.5981	1_percent	cases rise	1.1213
+0.1_percent	2021	situation in the country	12.598	1_percent	test kit	1.121
+0.1_percent	2021	surgical mask	12.5829	1_percent	vaccine effectiveness	1.121
+0.1_percent	2021	pfizer covid-19 vaccine	12.5825	1_percent	rapid antigen test	1.121
+0.1_percent	2021	pre covid	12.5633	1_percent	moderna vaccine	1.1207
+0.1_percent	2021	mu variant	12.563	1_percent	other vaccine	1.1207
+0.1_percent	2021	health crisis	12.5623	1_percent	vulnerable people	1.1206
+0.1_percent	2021	corona generation	12.555	1_percent	novel coronavirus	1.1205
+0.1_percent	2021	petrol station	12.553	1_percent	fatality rate	1.1203
+0.1_percent	2021	low vaccination rate	12.55	1_percent	ted cruz	1.1203
+0.1_percent	2021	other vaccine	12.548	1_percent	world health organization	1.1202
+0.1_percent	2021	transmission rate	12.536	1_percent	spreading covid	1.1201
+0.1_percent	2021	child poverty in half	12.534	1_percent	covid-19 vaccination drive	1.12
+0.1_percent	2021	central govt	12.5297	1_percent	spanish flu	1.12
+0.1_percent	2021	chain issue	12.5267	1_percent	delhi govt	1.12
+0.1_percent	2021	jon stewart	12.524	1_percent	helpline number	1.12
+0.1_percent	2021	covid19 case	12.5184	1_percent	myanmar people	1.12
+0.1_percent	2021	exposure site	12.5044	1_percent	school mask	1.12
+0.1_percent	2021	biafra land	12.502	1_percent	data scientist	1.1198
+0.1_percent	2021	universal mask	12.4933	1_percent	handling of the pandemic	1.1193
+0.1_percent	2021	emergency covid	12.49	1_percent	empty shelf	1.1193
+0.1_percent	2021	gb news	12.472	1_percent	leading cause of death	1.1193
+0.1_percent	2021	laura loomer	12.472	1_percent	happy birthday	1.1191
+0.1_percent	2021	wave of omicron	12.47	1_percent	ted nugent	1.119
+0.1_percent	2021	omicron patient	12.47	1_percent	marjorie taylor greene	1.119
+0.1_percent	2021	vaccine raw material	12.462	1_percent	fuel shortage	1.119
+0.1_percent	2021	attendant name	12.461	1_percent	shameful news	1.119
+0.1_percent	2021	alex berenson	12.46	1_percent	isolation period	1.119
+0.1_percent	2021	covid-19 response	12.4573	1_percent	safety protocol	1.1189
+0.1_percent	2021	poverty in half	12.451	1_percent	health department	1.1188
+0.1_percent	2021	house floor	12.448	1_percent	football game	1.1185
+0.1_percent	2021	fetal cell	12.422	1_percent	trump supporter	1.1183
+0.1_percent	2021	isolation time	12.421	1_percent	covid-19 pill	1.1183
+0.1_percent	2021	ssc chsl exam	12.413	1_percent	covid risk	1.1182
+0.1_percent	2021	hate crime	12.411	1_percent	low vaccination rate	1.1182
+0.1_percent	2021	anti-covid pill	12.41	1_percent	covid-19 surge	1.1181
+0.1_percent	2021	next variant	12.41	1_percent	indoor mask	1.1181
+0.1_percent	2021	covid supply chain	12.408	1_percent	life expectancy	1.118
+0.1_percent	2021	animalistic origin	12.407	1_percent	miami beach	1.118
+0.1_percent	2021	last presidential election	12.403	1_percent	fungal infection	1.118
+0.1_percent	2021	high number of mutations	12.396	1_percent	number of mutations	1.118
+0.1_percent	2021	case of new coronavirus	12.393	1_percent	public health official	1.1175
+0.1_percent	2021	mask mandate in schools	12.3885	1_percent	lateral flow test	1.1175
+0.1_percent	2021	lambda variant	12.386	1_percent	key worker	1.1173
+0.1_percent	2021	covid cases	12.3851	1_percent	distribution plan	1.117
+0.1_percent	2021	vaccinated individual	12.3836	1_percent	greg abbott	1.117
+0.1_percent	2021	trans kid	12.376	1_percent	partial lockdown	1.117
+0.1_percent	2021	rate in the world	12.3597	1_percent	early datum	1.117
+0.1_percent	2021	anti vaxxer	12.3539	1_percent	south african variant	1.1168
+0.1_percent	2021	great reset	12.3467	1_percent	death rate in the world	1.1165
+0.1_percent	2021	cdc employee	12.343	1_percent	vaccine status	1.1165
+0.1_percent	2021	rare heart	12.336	1_percent	covid victim	1.1161
+0.1_percent	2021	positive patient	12.3357	1_percent	black people	1.116
+0.1_percent	2021	texas school	12.333	1_percent	premier league	1.116
+0.1_percent	2021	coronavirus restriction	12.3314	1_percent	neanderthal thinking	1.116
+0.1_percent	2021	farmers protest	12.325	1_percent	upsc aspirant	1.116
+0.1_percent	2021	underlying condition	12.3143	1_percent	covid-19 omicron variant	1.116
+0.1_percent	2021	waning immunity	12.306	1_percent	doubling time	1.116
+0.1_percent	2021	bts lockdown	12.3057	1_percent	home covid	1.116
+0.1_percent	2021	tight security	12.299	1_percent	few month	1.1159
+0.1_percent	2021	vaccination mandate	12.2966	1_percent	covid safety	1.1158
+0.1_percent	2021	new restriction	12.291	1_percent	unvaccinated person	1.1158
+0.1_percent	2021	fda approval	12.2868	1_percent	national guard	1.1157
+0.1_percent	2021	class 12th board exam	12.281	1_percent	u r	1.1157
+0.1_percent	2021	jen psaki	12.2808	1_percent	covid complication	1.1156
+0.1_percent	2021	vaxxed people	12.2784	1_percent	long term effect	1.1154
+0.1_percent	2021	free education	12.274	1_percent	priority group	1.1153
+0.1_percent	2021	candace owens	12.272	1_percent	students life	1.1152
+0.1_percent	2021	black americans	12.271	1_percent	year of lockdown	1.115
+0.1_percent	2021	save life	12.2685	1_percent	gain-of-function research	1.115
+0.1_percent	2021	indian strain	12.263	1_percent	american law	1.115
+0.1_percent	2021	omicron virus	12.262	1_percent	supply chain issue	1.115
+0.1_percent	2021	covid relief plan	12.2573	1_percent	global warming	1.115
+0.1_percent	2021	dr fauci	12.2553	1_percent	variant cover	1.115
+0.1_percent	2021	coronavirus response	12.2498	1_percent	happy holiday	1.115
+0.1_percent	2021	jared kushner	12.248	1_percent	festive season	1.115
+0.1_percent	2021	quarantine facility	12.2397	1_percent	oxygen tank	1.1147
+0.1_percent	2021	covid law	12.2304	1_percent	rate in the world	1.1145
+0.1_percent	2021	mark meadows	12.221	1_percent	coronavirus outbreak	1.1143
+0.1_percent	2021	positive illegal immigrant	12.2195	1_percent	past week	1.1141
+0.1_percent	2021	johnson vaccine	12.2134	1_percent	larry king	1.114
+0.1_percent	2021	epidemic disease	12.207	1_percent	ppe kit	1.114
+0.1_percent	2021	health condition	12.207	1_percent	vaccination mandate	1.114
+0.1_percent	2021	use authorization	12.2032	1_percent	pandemic legislation	1.114
+0.1_percent	2021	relief fund	12.1943	1_percent	eviction moratorium	1.1139
+0.1_percent	2021	digital id	12.193	1_percent	climate crisis	1.1137
+0.1_percent	2021	medical apartheid	12.185	1_percent	first batch	1.1137
+0.1_percent	2021	covid prevention	12.183	1_percent	covid facility	1.1135
+0.1_percent	2021	experimental vaccine	12.1724	1_percent	hospital name	1.1135
+0.1_percent	2021	emergency meeting	12.1605	1_percent	plz help	1.1135
+0.1_percent	2021	covid complication	12.1584	1_percent	spo2 level	1.1135
+0.1_percent	2021	corona vaccine	12.1536	1_percent	coronavirus lockdown	1.1132
+0.1_percent	2021	mask requirement	12.128	1_percent	tory mp	1.1132
+0.1_percent	2021	indoor mask mandate	12.1263	1_percent	hard lockdown	1.113
+0.1_percent	2021	oxygen crisis	12.126	1_percent	captain sir tom moore	1.113
+0.1_percent	2021	patient in hospital	12.11	1_percent	internal assessment	1.113
+0.1_percent	2021	ron johnson	12.1051	1_percent	lab-leak theory	1.113
+0.1_percent	2021	partial lockdown	12.105	1_percent	taking ivermectin	1.113
+0.1_percent	2021	state colin powell	12.101	1_percent	underlying health	1.1129
+0.1_percent	2021	covid money	12.099	1_percent	anti lockdown	1.1128
+0.1_percent	2021	respiratory virus	12.0957	1_percent	term effect	1.1128
+0.1_percent	2021	midst of a pandemic	12.0949	1_percent	false positive	1.1127
+0.1_percent	2021	saving life	12.0913	1_percent	reopening school	1.1127
+0.1_percent	2021	lot of heat	12.089	1_percent	health infrastructure	1.1127
+0.1_percent	2021	survival rate	12.0835	1_percent	health canada	1.1125
+0.1_percent	2021	american law	12.072	1_percent	big deal	1.1122
+0.1_percent	2021	new infection	12.0713	1_percent	catching covid	1.1122
+0.1_percent	2021	covid-19 aid	12.062	1_percent	delta outbreak	1.1122
+0.1_percent	2021	spreading misinformation	12.0531	1_percent	compensatory attempt	1.112
+0.1_percent	2021	red state	12.0504	1_percent	food packet	1.112
+0.1_percent	2021	federal contractor	12.05	1_percent	ल कर	1.112
+0.1_percent	2021	social distancing rule	12.0498	1_percent	salmonella outbreak	1.112
+0.1_percent	2021	economic relief	12.038	1_percent	red list	1.1119
+0.1_percent	2021	online exam	12.0246	1_percent	local case	1.1117
+0.1_percent	2021	funded gain-of-function	12.015	1_percent	self isolate	1.1116
+0.1_percent	2021	black us secretary	12.015	1_percent	covid-19 omicron	1.1115
+0.1_percent	2021	jenny harries	12.01	1_percent	experimental vaccine	1.1114
+0.1_percent	2021	funeral pyre	12.004	1_percent	vaccine trial	1.1112
+0.1_percent	2021	contact name	12.004	1_percent	paid sick leave	1.111
+0.1_percent	2021	anthony fauci	12.0007	1_percent	ياريس ارجوك الطلاب هتموت	1.111
+0.1_percent	2021	data integrity	12.0	1_percent	cdc mask	1.111
+0.1_percent	2021	vaccine certificate	11.9827	1_percent	new book	1.111
+0.1_percent	2021	spreader event	11.9785	1_percent	military council	1.111
+0.1_percent	2021	effective public health	11.975	1_percent	chris rock	1.111
+0.1_percent	2021	coronavirus lockdown	11.9594	1_percent	last winter	1.111
+0.1_percent	2021	federal vaccine mandate	11.9455	1_percent	omicron patient	1.111
+0.1_percent	2021	asian american community	11.931	1_percent	economic crisis	1.1108
+0.1_percent	2021	empty shelf	11.9307	1_percent	positive patient	1.1108
+0.1_percent	2021	axie infinity	11.924	1_percent	pfizer booster	1.1107
+0.1_percent	2021	covid plan	11.9153	1_percent	omicron covid variant	1.1105
+0.1_percent	2021	dock worker	11.904	1_percent	covid19 case	1.1104
+0.1_percent	2021	covid datum	11.9028	1_percent	capitol building	1.11
+0.1_percent	2021	anal swab	11.8973	1_percent	full year	1.11
+0.1_percent	2021	exo member	11.887	1_percent	function research	1.11
+0.1_percent	2021	indian government	11.886	1_percent	police union	1.11
+0.1_percent	2021	fast recovery	11.8843	1_percent	variant b	1.11
+0.1_percent	2021	mask in school	11.8747	1_percent	first omicron case	1.11
+0.1_percent	2021	covid infection rate	11.8723	1_percent	vaccination card	1.1098
+0.1_percent	2021	omicron come	11.866	1_percent	extra attempt	1.1098
+0.1_percent	2021	getting omicron	11.866	1_percent	covid-19 vaccine rollout	1.1097
+0.1_percent	2021	stopped covid	11.866	1_percent	food bank	1.1097
+0.1_percent	2021	bharat biotech	11.863	1_percent	vaccine patent	1.1094
+0.1_percent	2021	free vaccine	11.8504	1_percent	mandatory vaccine	1.1092
+0.1_percent	2021	covid safety	11.8445	1_percent	health advice	1.109
+0.1_percent	2021	gun violence	11.8442	1_percent	vaccine start	1.109
+0.1_percent	2021	caught covid	11.832	1_percent	षक कब	1.109
+0.1_percent	2021	pro vaccine	11.827	1_percent	data integrity	1.109
+0.1_percent	2021	sant rampal ji maharaj	11.826	1_percent	underlying condition	1.1089
+0.1_percent	2021	first covid vaccine	11.818	1_percent	new report	1.1087
+0.1_percent	2021	lakh covid	11.818	1_percent	current situation	1.1087
+0.1_percent	2021	covid loan	11.817	1_percent	madhya pradesh	1.1087
+0.1_percent	2021	san diego zoo	11.815	1_percent	pfizer covid-19 vaccine	1.1085
+0.1_percent	2021	astrazeneca coronavirus vaccine	11.814	1_percent	jandj vaccine	1.1085
+0.1_percent	2021	olympic village	11.809	1_percent	new lockdown	1.1084
+0.1_percent	2021	uttar pradesh	11.8083	1_percent	vaccination plan	1.1083
+0.1_percent	2021	medical supply	11.807	1_percent	live update	1.1081
+0.1_percent	2021	vaccine start	11.797	1_percent	great reset	1.108
+0.1_percent	2021	chinese communist party	11.794	1_percent	mental stress	1.108
+0.1_percent	2021	variant case	11.7934	1_percent	staff shortage	1.108
+0.1_percent	2021	pfizer booster shot	11.792	1_percent	neutralizing antibody	1.108
+0.1_percent	2021	many blood donation camp	11.791	1_percent	time of pandemic	1.1078
+0.1_percent	2021	panic buying fuel	11.791	1_percent	covid-19 origin	1.1078
+0.1_percent	2021	covid-19 omicron	11.7895	1_percent	country in the world	1.1077
+0.1_percent	2021	home resident	11.7877	1_percent	conducting exam	1.1077
+0.1_percent	2021	many blood donation	11.787	1_percent	pandemic relief	1.1076
+0.1_percent	2021	covid norm	11.7833	1_percent	young child	1.1073
+0.1_percent	2021	strict lockdown	11.7787	1_percent	school staff	1.107
+0.1_percent	2021	craig kelly	11.7737	1_percent	coup attempt	1.107
+0.1_percent	2021	time of pandemic	11.772	1_percent	fear mongering	1.107
+0.1_percent	2021	civil hospital	11.771	1_percent	urgent requirement	1.107
+0.1_percent	2021	crore vaccine	11.7677	1_percent	anti-coup strike	1.107
+0.1_percent	2021	happy new year	11.7665	1_percent	covid-19 vaccine booster	1.107
+0.1_percent	2021	appropriate behaviour	11.7656	1_percent	digital id	1.107
+0.1_percent	2021	covid-19 treatment	11.7627	1_percent	mrna covid vaccine	1.107
+0.1_percent	2021	vaccine site	11.76	1_percent	previous wave	1.107
+0.1_percent	2021	key worker	11.7565	1_percent	mild cold	1.107
+0.1_percent	2021	delhi hospital	11.749	1_percent	first time	1.1068
+0.1_percent	2021	secretary of state	11.73	1_percent	death certificate	1.1067
+0.1_percent	2021	vaccine shortage	11.7287	1_percent	double mask	1.1067
+0.1_percent	2021	distancing rule	11.7148	1_percent	ongoing pandemic	1.1066
+0.1_percent	2021	underlying health	11.7067	1_percent	right wing	1.1065
+0.1_percent	2021	tough time	11.703	1_percent	min wage	1.1065
+0.1_percent	2021	polio vaccine	11.6943	1_percent	pandemic law	1.1065
+0.1_percent	2021	emergency use authorization	11.6909	1_percent	south african doctor	1.1065
+0.1_percent	2021	epidemic of gun violence	11.683	1_percent	covid plan	1.1064
+0.1_percent	2021	hospitalisation rate	11.683	1_percent	online class	1.1063
+0.1_percent	2021	coronavirus survival rate	11.68	1_percent	stimulus package	1.1063
+0.1_percent	2021	bat coronavirus research	11.678	1_percent	time last year	1.1063
+0.1_percent	2021	epidemic of gun	11.676	1_percent	gene therapy	1.1063
+0.1_percent	2021	risk of blood	11.675	1_percent	cases increase	1.1063
+0.1_percent	2021	coronavirus survival	11.674	1_percent	billion dose	1.1063
+0.1_percent	2021	mask guideline	11.664	1_percent	telling people	1.1062
+0.1_percent	2021	hgv driver	11.662	1_percent	child care	1.1062
+0.1_percent	2021	big tech	11.6616	1_percent	distancing rule	1.106
+0.1_percent	2021	students life	11.6582	1_percent	egyptian student	1.106
+0.1_percent	2021	candle lighting	11.653	1_percent	health protocol	1.106
+0.1_percent	2021	wage hike	11.65	1_percent	hot spot	1.106
+0.1_percent	2021	covid delta	11.6453	1_percent	april fool	1.106
+0.1_percent	2021	buying fuel	11.641	1_percent	artificial intelligence	1.106
+0.1_percent	2021	covid transmission	11.6373	1_percent	lakh case	1.106
+0.1_percent	2021	increasing day	11.6265	1_percent	ct scan	1.106
+0.1_percent	2021	coronavirus vaccine dose	11.604	1_percent	junta terrorist	1.106
+0.1_percent	2021	exam in this pandemic	11.589	1_percent	advisory panel	1.106
+0.1_percent	2021	covid emergency	11.5875	1_percent	college football	1.106
+0.1_percent	2021	cases increase	11.5837	1_percent	pregnant people	1.106
+0.1_percent	2021	pregnant people	11.5825	1_percent	free test	1.106
+0.1_percent	2021	executive action	11.582	1_percent	president joe biden	1.1059
+0.1_percent	2021	omicron fear	11.573	1_percent	blue state	1.1059
+0.1_percent	2021	election commission	11.566	1_percent	nicola sturgeon	1.1058
+0.1_percent	2021	qr code	11.5657	1_percent	former guy	1.1058
+0.1_percent	2021	minimum wage hike	11.56	1_percent	rising case	1.1058
+0.1_percent	2021	flu vaccine	11.548	1_percent	vax passport	1.1058
+0.1_percent	2021	nsw govt	11.547	1_percent	education minister	1.1057
+0.1_percent	2021	personal choice	11.5444	1_percent	coronavirus research	1.1055
+0.1_percent	2021	religious gathering	11.542	1_percent	big tech	1.1053
+0.1_percent	2021	school closure	11.5256	1_percent	rest of the world	1.1053
+0.1_percent	2021	vaccine equity	11.5238	1_percent	teachers union	1.1053
+0.1_percent	2021	senate floor	11.52	1_percent	public place	1.1052
+0.1_percent	2021	survival check	11.5163	1_percent	cdc datum	1.1051
+0.1_percent	2021	asha worker	11.51	1_percent	lockdown sceptic	1.105
+0.1_percent	2021	ongoing pandemic	11.5091	1_percent	los angeles county	1.105
+0.1_percent	2021	new lockdown	11.5039	1_percent	flow test	1.105
+0.1_percent	2021	pandemic relief	11.4989	1_percent	bed availability	1.105
+0.1_percent	2021	rate in the country	11.496	1_percent	foundation day	1.105
+0.1_percent	2021	contact tracing	11.491	1_percent	cvs pharmacy	1.105
+0.1_percent	2021	blood donation camp	11.489	1_percent	pandemic shit	1.105
+0.1_percent	2021	texas dems	11.474	1_percent	cuban people	1.105
+0.1_percent	2021	covid app	11.472	1_percent	black friday	1.105
+0.1_percent	2021	new covid case	11.4676	1_percent	biden vaccine mandate	1.105
+0.1_percent	2021	other variant	11.467	1_percent	only thing	1.1048
+0.1_percent	2021	safe room	11.464	1_percent	covid-19 complication	1.1048
+0.1_percent	2021	vaccine patent	11.4596	1_percent	dose of vaccine	1.1048
+0.1_percent	2021	deaths today	11.4477	1_percent	sars-cov-2 infection	1.1048
+0.1_percent	2021	hospitalization rate	11.4397	1_percent	contact person	1.1045
+0.1_percent	2021	coronavirus relief package	11.436	1_percent	day in office	1.104
+0.1_percent	2021	merrick garland	11.428	1_percent	helping people	1.104
+0.1_percent	2021	kind of job	11.4205	1_percent	situation in the country	1.104
+0.1_percent	2021	urgent need	11.4155	1_percent	sore throat	1.104
+0.1_percent	2021	covid memorial	11.415	1_percent	military regime	1.104
+0.1_percent	2021	lock down	11.4023	1_percent	ó 3ó	1.104
+0.1_percent	2021	case of heart	11.398	1_percent	greek letter	1.104
+0.1_percent	2021	lakh dose	11.3835	1_percent	southern african country	1.104
+0.1_percent	2021	many blood	11.378	1_percent	free at-home	1.104
+0.1_percent	2021	variant of the coronavirus	11.3773	1_percent	covid isolation	1.104
+0.1_percent	2021	rate in the nation	11.377	1_percent	surgeon general	1.1038
+0.1_percent	2021	second job	11.375	1_percent	coronavirus relief bill	1.1035
+0.1_percent	2021	covid spike	11.3727	1_percent	gas price	1.1034
+0.1_percent	2021	nu variant	11.372	1_percent	mild case	1.1034
+0.1_percent	2021	supply chain crisis	11.363	1_percent	impact of the pandemic	1.1032
+0.1_percent	2021	impeachment trial	11.3625	1_percent	got covid	1.1032
+0.1_percent	2021	dose of vaccine	11.3617	1_percent	defense production act	1.103
+0.1_percent	2021	health infrastructure	11.3613	1_percent	executive action	1.103
+0.1_percent	2021	chain crisis	11.36	1_percent	urgent help	1.103
+0.1_percent	2021	urgent help	11.356	1_percent	war room	1.103
+0.1_percent	2021	ve plasma	11.356	1_percent	anti-covid drug	1.103
+0.1_percent	2021	gas price	11.353	1_percent	relief effort	1.103
+0.1_percent	2021	covid-19 lockdown	11.3439	1_percent	cow dung	1.103
+0.1_percent	2021	covid vaccines	0.8962	1_percent	covid vaccines	0.9279
+0.1_percent	2021	covid cases	0.7995	1_percent	long covid	0.8435
+0.1_percent	2021	covid deaths	0.7417	1_percent	covid cases	0.8235
+0.1_percent	2021	covid vaccine	0.7027	1_percent	covid vaccine	0.8005
+0.1_percent	2021	long covid	0.6943	1_percent	covid deaths	0.7815
+0.1_percent	2021	covid patients	0.6839	1_percent	covid patients	0.7642
+0.1_percent	2021	vaccine mandates	0.6577	1_percent	covid restrictions	0.7403
+0.1_percent	2021	covid restrictions	0.5505	1_percent	omicron cases	0.7378
+0.1_percent	2021	vaccine passports	0.5311	1_percent	vaccine mandates	0.6991
+0.1_percent	2021	vaccinated people	0.5108	1_percent	covid vaccination	0.6678
+0.1_percent	2021	public health	0.4667	1_percent	vaccine passports	0.6475
+0.1_percent	2021	young people	0.4646	1_percent	covid pandemic	0.6469
+0.1_percent	2021	covid mandates	0.4548	1_percent	young people	0.6244
+0.1_percent	2021	unvaccinated people	0.429	1_percent	vaccinated people	0.6239
+0.1_percent	2021	covid relief	0.4284	1_percent	covid tests	0.6225
+0.1_percent	2021	omicron variant	0.411	1_percent	covid mandates	0.6196
+0.1_percent	2021	new cases	0.4022	1_percent	new cases	0.6192
+0.1_percent	2021	covid vaccination	0.3996	1_percent	covid protocols	0.6175
+0.1_percent	2021	unvaccinated covid patients	0.3927	1_percent	vaccine mandate	0.5983
+0.1_percent	2021	omicron cases	0.3833	1_percent	covid rules	0.5925
+0.1_percent	2021	mask mandates	0.378	1_percent	covid relief	0.5904
+0.1_percent	2021	vaccine mandate	0.3745	1_percent	covid infections	0.5875
+0.1_percent	2021	social distancing	0.3694	1_percent	unvaccinated people	0.5805
+0.1_percent	2021	covid pandemic	0.3657	1_percent	catching covid	0.5803
+0.1_percent	2021	covid tests	0.3564	1_percent	severe covid	0.573
+0.1_percent	2021	dr. fauci	0.3508	1_percent	contracting covid	0.5508
+0.1_percent	2021	covid infections	0.3475	1_percent	new covid cases	0.5332
+0.1_percent	2021	covid protocols	0.3384	1_percent	new covid restrictions	0.531
+0.1_percent	2021	next week	0.33	1_percent	vaccine status	0.5303
+0.1_percent	2021	covid rules	0.3273	1_percent	vaccine effectiveness	0.5276
+0.1_percent	2021	new year	0.3211	1_percent	unvaccinated covid patients	0.5217
+0.1_percent	2021	catching covid	0.3194	1_percent	covid passports	0.5191
+0.1_percent	2021	covid-19 vaccines	0.3167	1_percent	new year	0.5151
+0.1_percent	2021	joe biden	0.3155	1_percent	public health	0.5104
+0.1_percent	2021	new covid cases	0.3135	1_percent	next year	0.5092
+0.1_percent	2021	social media	0.3045	1_percent	mask mandates	0.5011
+0.1_percent	2021	vaccine requirements	0.3035	1_percent	covid vaccinations	0.4957
+0.1_percent	2021	vaccine distribution	0.3032	1_percent	active cases	0.4945
+0.1_percent	2021	covid passports	0.2988	1_percent	covid list	0.4884
+0.1_percent	2021	mrna covid vaccines	0.2975	1_percent	astrazeneca covid-19 vaccine	0.4847
+0.1_percent	2021	coronavirusindia #	0.2961	1_percent	vaccine hesitancy	0.4713
+0.1_percent	2021	caught covid	0.2916	1_percent	mental health	0.4702
+0.1_percent	2021	covid treatments	0.2853	1_percent	covid visualizations	0.4592
+0.1_percent	2021	covid passes	0.2844	1_percent	health care	0.4569
+0.1_percent	2021	mental health	0.2833	1_percent	next week	0.4546
+0.1_percent	2021	new variants	0.277	1_percent	coronavirus vaccines	0.4529
+0.1_percent	2021	boris johnson	0.2761	1_percent	dr. fauci	0.4517
+0.1_percent	2021	omicron infection	0.2742	1_percent	face masks	0.4505
+0.1_percent	2021	contracting covid	0.2736	1_percent	covid numbers	0.4439
+0.1_percent	2021	delta variant	0.273	1_percent	spread covid	0.4429
+0.1_percent	2021	natural immunity	0.2629	1_percent	disabled people	0.4323
+0.1_percent	2021	coronavirus vaccines	0.2628	1_percent	new variants	0.4306
+0.1_percent	2021	new york	0.2627	1_percent	coronavirus cases	0.4305
+0.1_percent	2021	active cases	0.2625	1_percent	covid vaccine mandates	0.4302
+0.1_percent	2021	climate change	0.2603	1_percent	covid patient	0.4296
+0.1_percent	2021	covid vaccinations	0.2599	1_percent	vaccine distribution	0.4291
+0.1_percent	2021	astrazeneca covid-19 vaccine	0.2575	1_percent	covid relief bill	0.428
+0.1_percent	2021	corona virus	0.257	1_percent	covid times	0.4279
+0.1_percent	2021	vaccine hesitancy	0.2569	1_percent	covid protocol	0.4249
+0.1_percent	2021	next year	0.256	1_percent	corona virus	0.4229
+0.1_percent	2021	covid list	0.2555	1_percent	health workers	0.4221
+0.1_percent	2021	south africa	0.2553	1_percent	vaccine rollout	0.415
+0.1_percent	2021	severe covid	0.2524	1_percent	covid recovery patient	0.4133
+0.1_percent	2021	covid visualizations	0.252	1_percent	covid-19 vaccines	0.4128
+0.1_percent	2021	new variant	0.2512	1_percent	omicron variant	0.4117
+0.1_percent	2021	president biden	0.2496	1_percent	caught covid	0.4084
+0.1_percent	2021	corona warriors- doctors	0.2469	1_percent	getting covid	0.4037
+0.1_percent	2021	covid hospitalizations	0.2444	1_percent	social media	0.4034
+0.1_percent	2021	cleanliness workers	0.2439	1_percent	covid test	0.3993
+0.1_percent	2021	vaccine status	0.243	1_percent	coronavirus vaccine	0.3974
+0.1_percent	2021	covid vaccine mandates	0.2425	1_percent	healthy people	0.3968
+0.1_percent	2021	vaccine manufacturers	0.2423	1_percent	covid passes	0.3951
+0.1_percent	2021	covid symptoms	0.2422	1_percent	nursing homes	0.3913
+0.1_percent	2021	coronavirus vaccine	0.2415	1_percent	covid19 vaccines	0.391
+0.1_percent	2021	face masks	0.2413	1_percent	astrazeneca vaccine	0.3884
+0.1_percent	2021	covid vaccine mandate	0.2411	1_percent	covid hospitalizations	0.3874
+0.1_percent	2021	covid protocol	0.2406	1_percent	new variant	0.3862
+0.1_percent	2021	herd immunity	0.2399	1_percent	covid symptoms	0.382
+0.1_percent	2021	healthcare workers	0.2389	1_percent	social distancing	0.381
+0.1_percent	2021	covid crisis	0.2373	1_percent	covid testing	0.3807
+0.1_percent	2021	hospitalized covid patients	0.2366	1_percent	booster shots	0.3802
+0.1_percent	2021	private schools	0.2346	1_percent	mrna vaccines	0.3797
+0.1_percent	2021	covid times	0.2343	1_percent	covid infection	0.3794
+0.1_percent	2021	booster shots	0.2343	1_percent	loved ones	0.3793
+0.1_percent	2021	covid numbers	0.2339	1_percent	healthcare workers	0.378
+0.1_percent	2021	military dictatorship	0.2336	1_percent	vaccine doses	0.3771
+0.1_percent	2021	coronavirus cases	0.2335	1_percent	health care workers	0.3738
+0.1_percent	2021	covid relief bill	0.2315	1_percent	black people	0.3715
+0.1_percent	2021	health care	0.2314	1_percent	death toll	0.3714
+0.1_percent	2021	covid variants	0.2304	1_percent	covid lockdowns	0.3693
+0.1_percent	2021	getting covid	0.2299	1_percent	omicron infections	0.3677
+0.1_percent	2021	vaccine effectiveness	0.228	1_percent	covid misinformation	0.3671
+0.1_percent	2021	nursing homes	0.2279	1_percent	delta variant	0.3668
+0.1_percent	2021	covid lockdowns	0.2244	1_percent	covid situation	0.3627
+0.1_percent	2021	so many people	0.2244	1_percent	vaccination status	0.3521
+0.1_percent	2021	fighting covid	0.2241	1_percent	health officials	0.3503
+0.1_percent	2021	covid test	0.2211	1_percent	covid crisis	0.3501
+0.1_percent	2021	corona pandemic	0.2198	1_percent	climate change	0.3472
+0.1_percent	2021	case numbers	0.2191	1_percent	how many people	0.3462
+0.1_percent	2021	how many people	0.2183	1_percent	vaccine eligibility	0.3461
+0.1_percent	2021	new zealand	0.2181	1_percent	coronavirus pandemic	0.3454
+0.1_percent	2021	vaccine doses	0.2176	1_percent	small businesses	0.344
+0.1_percent	2021	loved ones	0.2172	1_percent	herd immunity	0.344
+0.1_percent	2021	christmas day	0.2167	1_percent	covid management	0.3424
+0.1_percent	2021	christmas parties	0.2167	1_percent	mrna covid vaccines	0.3414
+0.1_percent	2021	mrna vaccines	0.215	1_percent	covid variants	0.3413
+0.1_percent	2021	covid patient	0.2129	1_percent	joe biden	0.341
+0.1_percent	2021	rising covid cases	0.2119	1_percent	covid origins	0.3405
+0.1_percent	2021	rural india	0.2119	1_percent	so many people	0.3389
+0.1_percent	2021	boxing day	0.2118	1_percent	rising covid cases	0.3377
+0.1_percent	2021	vaccine immunity	0.2115	1_percent	home covid tests	0.3367
+0.1_percent	2021	ambulance drivers	0.2106	1_percent	previous variants	0.3361
+0.1_percent	2021	min age limit	0.2104	1_percent	high risk	0.3353
+0.1_percent	2021	medical oxygen	0.2103	1_percent	south africa	0.3351
+0.1_percent	2021	breakthrough cases	0.21	1_percent	vaccine uptake	0.3346
+0.1_percent	2021	oxygen cylinders	0.2095	1_percent	good news	0.3344
+0.1_percent	2021	coronavirus pandemic	0.2091	1_percent	breakthrough cases	0.3339
+0.1_percent	2021	disabled people	0.2084	1_percent	positive covid	0.3334
+0.1_percent	2021	small businesses	0.2078	1_percent	omicron wave	0.3334
+0.1_percent	2021	new years	0.2076	1_percent	vaccination rates	0.333
+0.1_percent	2021	covid situation	0.2072	1_percent	covid bill	0.3289
+0.1_percent	2021	updated covid insights	0.2071	1_percent	omicron infection	0.3288
+0.1_percent	2021	covid booster shots	0.207	1_percent	first lockdown	0.3267
+0.1_percent	2021	black fungus	0.2067	1_percent	mandatory vaccines	0.3258
+0.1_percent	2021	covid testing	0.2063	1_percent	new daily cases	0.325
+0.1_percent	2021	health workers	0.2053	1_percent	corona pandemic	0.3243
+0.1_percent	2021	black people	0.2047	1_percent	new deaths	0.3238
+0.1_percent	2021	vaccination status	0.2035	1_percent	new york	0.3233
+0.1_percent	2021	donald trump	0.2024	1_percent	fighting covid	0.3218
+0.1_percent	2021	mandatory vaccines	0.202	1_percent	pfizer vaccine	0.3217
+0.1_percent	2021	board exams	0.2015	1_percent	corona warriors- doctors	0.3212
+0.1_percent	2021	health care workers	0.2014	1_percent	covid duty	0.3207
+0.1_percent	2021	healthy people	0.1999	1_percent	covid measures	0.3169
+0.1_percent	2021	oxygen support	0.1992	1_percent	younger people	0.3156
+0.1_percent	2021	covid funds	0.1989	1_percent	social distance	0.3141
+0.1_percent	2021	covid infection	0.1981	1_percent	no covid	0.3136
+0.1_percent	2021	johnson vaccine	0.1979	1_percent	omicron surge	0.3134
+0.1_percent	2021	white house	0.1969	1_percent	lockdown restrictions	0.3124
+0.1_percent	2021	covid app	0.1964	1_percent	updated covid insights	0.3111
+0.1_percent	2021	covid lies	0.1962	1_percent	covid lockdown	0.3099
+0.1_percent	2021	vaccine rollout	0.1957	1_percent	covid treatment	0.3098
+0.1_percent	2021	covid stats	0.1954	1_percent	covid-19 pandemic	0.3085
+0.1_percent	2021	national lockdown	0.1949	1_percent	vaccine requirements	0.3082
+0.1_percent	2021	oxygen cylinder	0.1948	1_percent	older people	0.3066
+0.1_percent	2021	covid boosters	0.1945	1_percent	next month	0.3049
+0.1_percent	2021	covid19 vaccines	0.1943	1_percent	new zealand	0.3049
+0.1_percent	2021	covid recovery patient	0.1942	1_percent	oxygen support	0.3045
+0.1_percent	2021	ron desantis	0.1933	1_percent	pre covid	0.3025
+0.1_percent	2021	common people	0.1913	1_percent	new years	0.3022
+0.1_percent	2021	omicron wave	0.1903	1_percent	covid-19 vaccine	0.3019
+0.1_percent	2021	home tests	0.1901	1_percent	cleanliness workers	0.3013
+0.1_percent	2021	normal people	0.1895	1_percent	national lockdown	0.301
+0.1_percent	2021	vaccine deaths	0.1888	1_percent	second wave	0.301
+0.1_percent	2021	oxygen level	0.1887	1_percent	coronavirus vaccine mandates	0.301
+0.1_percent	2021	rapid tests	0.1877	1_percent	rideshare #radio #hits	0.3002
+0.1_percent	2021	health officials	0.1876	1_percent	confirmed cases	0.2999
+0.1_percent	2021	new coronavirus variant	0.1871	1_percent	case numbers	0.2999
+0.1_percent	2021	astrazeneca vaccine	0.1866	1_percent	side effects	0.2995
+0.1_percent	2021	covid shots	0.1866	1_percent	vaccine appointments	0.299
+0.1_percent	2021	covid treatment	0.1862	1_percent	president biden	0.2986
+0.1_percent	2021	new covid variant	0.1861	1_percent	new york city	0.2984
+0.1_percent	2021	vaccine efficacy	0.186	1_percent	positive cases	0.297
+0.1_percent	2021	previous variants	0.1857	1_percent	covid response	0.2964
+0.1_percent	2021	covid origins	0.1854	1_percent	boris johnson	0.2951
+0.1_percent	2021	future pandemics	0.1852	1_percent	covid rates	0.2942
+0.1_percent	2021	vaccine uptake	0.1845	1_percent	common sense	0.294
+0.1_percent	2021	covid misinformation	0.1843	1_percent	unvaccinated kids	0.2933
+0.1_percent	2021	covid recovered patient	0.184	1_percent	covid surge	0.2922
+0.1_percent	2021	election rallies	0.1833	1_percent	natural immunity	0.2906
+0.1_percent	2021	covid hospitalization	0.1832	1_percent	care homes	0.2904
+0.1_percent	2021	pfizer vaccine	0.1828	1_percent	big pharma	0.2901
+0.1_percent	2021	covid recovery	0.1828	1_percent	covid treatments	0.2899
+0.1_percent	2021	new covid-19 cases	0.1813	1_percent	further restrictions	0.2899
+0.1_percent	2021	home covid tests	0.1797	1_percent	pre-pandemic levels	0.2896
+0.1_percent	2021	vaccine safety	0.1795	1_percent	public health measures	0.2891
+0.1_percent	2021	no covid passports	0.1792	1_percent	daily cases	0.2884
+0.1_percent	2021	freedom day	0.1788	1_percent	severe illness	0.2881
+0.1_percent	2021	covid duty	0.1786	1_percent	johnson vaccine	0.288
+0.1_percent	2021	school districts	0.1784	1_percent	coronavirusindia #	0.2877
+0.1_percent	2021	covid19 pandemic	0.1777	1_percent	covid appropriate behaviour	0.2868
+0.1_percent	2021	avoidable covid deaths	0.1774	1_percent	human rights	0.2867
+0.1_percent	2021	vaccine clinics	0.1774	1_percent	cloth masks	0.2858
+0.1_percent	2021	pre covid	0.1766	1_percent	global pandemic	0.2851
+0.1_percent	2021	positive covid	0.1765	1_percent	donald trump	0.2849
+0.1_percent	2021	vaccination rates	0.1762	1_percent	public health officials	0.2843
+0.1_percent	2021	vaccine boosters	0.1758	1_percent	covid vaccine mandate	0.2843
+0.1_percent	2021	vaccine injuries	0.1758	1_percent	vaccine efficacy	0.2841
+0.1_percent	2021	working people	0.1752	1_percent	old people	0.2837
+0.1_percent	2021	covid status	0.1751	1_percent	white people	0.2824
+0.1_percent	2021	death toll	0.1746	1_percent	family members	0.2824
+0.1_percent	2021	big pharma	0.1742	1_percent	fully vaccinated people	0.2824
+0.1_percent	2021	blood clots	0.174	1_percent	corona vaccine	0.2822
+0.1_percent	2021	social distance	0.1737	1_percent	excess deaths	0.282
+0.1_percent	2021	covid virus	0.1732	1_percent	rapid tests	0.2819
+0.1_percent	2021	omicron infections	0.1727	1_percent	post covid	0.2815
+0.1_percent	2021	difficult times	0.1723	1_percent	vaccine passport	0.2812
+0.1_percent	2021	new deaths	0.172	1_percent	illness #corona	0.2808
+0.1_percent	2021	new daily deaths	0.172	1_percent	paid sick days	0.2802
+0.1_percent	2021	covid contracts	0.1712	1_percent	christmas parties	0.28
+0.1_percent	2021	covid rates	0.1702	1_percent	covid passport mandates	0.2793
+0.1_percent	2021	positive illegal immigrants	0.1693	1_percent	election rallies	0.2781
+0.1_percent	2021	covid passport mandates	0.1693	1_percent	covid regulations	0.2775
+0.1_percent	2021	covid passport	0.1689	1_percent	home tests	0.2775
+0.1_percent	2021	covid jabs	0.1688	1_percent	rapid antigen tests	0.2771
+0.1_percent	2021	rapid covid tests	0.1681	1_percent	n95 masks	0.2761
+0.1_percent	2021	covid management	0.1679	1_percent	covid-19 vaccinations	0.2749
+0.1_percent	2021	pre-pandemic levels	0.1676	1_percent	new covid-19 cases	0.2749
+0.1_percent	2021	covid bill	0.1676	1_percent	new vaccines	0.2749
+0.1_percent	2021	covid spread	0.1675	1_percent	vaccine injuries	0.2739
+0.1_percent	2021	good news	0.1672	1_percent	corona patients	0.2733
+0.1_percent	2021	covid hospitals	0.1672	1_percent	covid jabs	0.2733
+0.1_percent	2021	covid regulations	0.167	1_percent	covid19 cases	0.2729
+0.1_percent	2021	combat covid	0.167	1_percent	new restrictions	0.2726
+0.1_percent	2021	spread covid	0.1668	1_percent	poor people	0.2723
+0.1_percent	2021	covid-19 pandemic	0.1664	1_percent	covid booster	0.2721
+0.1_percent	2021	primary number	0.1664	1_percent	first time	0.2716
+0.1_percent	2021	biden vaccine	0.1656	1_percent	anthony fauci	0.2706
+0.1_percent	2021	covid hospitalisations	0.1652	1_percent	blood clots	0.2706
+0.1_percent	2021	fully vaccinated people	0.1651	1_percent	los angeles	0.2704
+0.1_percent	2021	new covid infections	0.1651	1_percent	board exams	0.2697
+0.1_percent	2021	covid lockdown	0.165	1_percent	new covid variant	0.2693
+0.1_percent	2021	daily covid deaths	0.165	1_percent	global vaccine equity	0.2692
+0.1_percent	2021	bidens vaccine mandate	0.165	1_percent	enough vaccines	0.2686
+0.1_percent	2021	new york city	0.1649	1_percent	future pandemics	0.2686
+0.1_percent	2021	covid-19 vaccine	0.1648	1_percent	unvaxxed people	0.2685
+0.1_percent	2021	nhs staff	0.1647	1_percent	white house	0.268
+0.1_percent	2021	covid era	0.1647	1_percent	freedom day	0.2677
+0.1_percent	2021	breakthrough covid	0.1644	1_percent	new data	0.2668
+0.1_percent	2021	vaccine passport	0.1643	1_percent	covid days	0.2657
+0.1_percent	2021	high risk	0.164	1_percent	sick days	0.2645
+0.1_percent	2021	anthony fauci	0.1635	1_percent	first week	0.2645
+0.1_percent	2021	spring break	0.1635	1_percent	covid19 vaccine	0.2643
+0.1_percent	2021	common sense	0.1631	1_percent	pregnant women	0.2632
+0.1_percent	2021	covid data	0.163	1_percent	covid issues	0.2631
+0.1_percent	2021	mandatory vaccination	0.163	1_percent	ambulance drivers	0.2614
+0.1_percent	2021	positive cases	0.1627	1_percent	covid resources	0.261
+0.1_percent	2021	covid vaccine passports	0.1627	1_percent	public schools	0.2606
+0.1_percent	2021	older people	0.1622	1_percent	frontline workers	0.2603
+0.1_percent	2021	indian variant	0.162	1_percent	secondary number	0.2601
+0.1_percent	2021	care homes	0.1618	1_percent	rural india	0.2597
+0.1_percent	2021	covid response	0.1618	1_percent	bat coronavirus research	0.2589
+0.1_percent	2021	vaxxed people	0.1618	1_percent	peoples lives	0.2576
+0.1_percent	2021	rich people	0.1617	1_percent	school districts	0.2565
+0.1_percent	2021	merry christmas	0.1617	1_percent	covid data	0.2562
+0.1_percent	2021	no covid	0.1616	1_percent	essential workers	0.256
+0.1_percent	2021	myanmar people	0.1613	1_percent	covid care centres	0.255
+0.1_percent	2021	global pandemic	0.1612	1_percent	covid guidelines	0.2541
+0.1_percent	2021	covid days	0.1612	1_percent	covid transmission	0.2532
+0.1_percent	2021	white people	0.1597	1_percent	enough people	0.2528
+0.1_percent	2021	coronavirus vaccine mandates	0.1588	1_percent	home order	0.2526
+0.1_percent	2021	dose1 capacity	0.1584	1_percent	fox news	0.2525
+0.1_percent	2021	negative covid tests	0.1581	1_percent	good health	0.2523
+0.1_percent	2021	new strain	0.1581	1_percent	ron desantis	0.2522
+0.1_percent	2021	covid19 cases	0.1575	1_percent	mild cases	0.2516
+0.1_percent	2021	school mask mandates	0.1572	1_percent	severe disease	0.2514
+0.1_percent	2021	gov. desantis	0.1571	1_percent	covid contracts	0.2514
+0.1_percent	2021	symptomatic covid infection	0.1566	1_percent	johnson covid vaccine	0.2514
+0.1_percent	2021	side effects	0.1562	1_percent	corona cases	0.2507
+0.1_percent	2021	fox news	0.1559	1_percent	school boards	0.2505
+0.1_percent	2021	younger people	0.1554	1_percent	oxygen cylinders	0.2502
+0.1_percent	2021	new daily cases	0.1551	1_percent	covid outbreaks	0.2497
+0.1_percent	2021	monoclonal antibody treatment	0.1551	1_percent	covid booster shots	0.2493
+0.1_percent	2021	new covid hospitalizations	0.1548	1_percent	no vaccine	0.2488
+0.1_percent	2021	new available appointments	0.1542	1_percent	zero covid	0.2481
+0.1_percent	2021	n95 masks	0.1541	1_percent	dr. anthony fauci	0.2478
+0.1_percent	2021	public health measures	0.1539	1_percent	florida hospitals	0.2477
+0.1_percent	2021	positive tests	0.1539	1_percent	covid spread	0.2472
+0.1_percent	2021	vaccine papers	0.1536	1_percent	hospital beds	0.2472
+0.1_percent	2021	covid19 deaths	0.1529	1_percent	private hospitals	0.2468
+0.1_percent	2021	public schools	0.1527	1_percent	oxygen supply	0.2468
+0.1_percent	2021	years eve	0.1526	1_percent	mandatory vaccination	0.2468
+0.1_percent	2021	covid prevention kits	0.1526	1_percent	boxing day	0.2467
+0.1_percent	2021	fuck covid	0.1525	1_percent	good luck	0.2449
+0.1_percent	2021	severe disease	0.1524	1_percent	serious illness	0.2449
+0.1_percent	2021	child deaths	0.1523	1_percent	covid shots	0.2444
+0.1_percent	2021	daily cases	0.1522	1_percent	low vaccination rates	0.2441
+0.1_percent	2021	dose2 capacity	0.152	1_percent	early years	0.244
+0.1_percent	2021	covid relief checks	0.1519	1_percent	new strain	0.2439
+0.1_percent	2021	post covid	0.1518	1_percent	offline exams	0.2434
+0.1_percent	2021	covid survivors	0.1518	1_percent	new covid variants	0.2431
+0.1_percent	2021	lockdown restrictions	0.1517	1_percent	asian americans	0.2426
+0.1_percent	2021	vaccine development	0.1517	1_percent	covid boosters	0.2425
+0.1_percent	2021	new covid variants	0.1515	1_percent	hong kong	0.2414
+0.1_percent	2021	covid measures	0.1514	1_percent	spring break	0.2409
+0.1_percent	2021	essential workers	0.1513	1_percent	india variant	0.2409
+0.1_percent	2021	home isolation	0.151	1_percent	record covid cases	0.2408
+0.1_percent	2021	second wave	0.1508	1_percent	rapid covid tests	0.24
+0.1_percent	2021	covid tech acceleration	0.1507	1_percent	new jersey	0.2399
+0.1_percent	2021	delta covid variant	0.1506	1_percent	recent weeks	0.2398
+0.1_percent	2021	covid hospital	0.1504	1_percent	covid lies	0.2397
+0.1_percent	2021	new covid rules	0.1504	1_percent	lockdown rules	0.2392
+0.1_percent	2021	new covid restrictions	0.1502	1_percent	covid-19 cases	0.239
+0.1_percent	2021	covid norms	0.1501	1_percent	fake news	0.2389
+0.1_percent	2021	poor people	0.15	1_percent	vax mandates	0.2387
+0.1_percent	2021	western nsw	0.1499	1_percent	home isolation	0.2386
+0.1_percent	2021	political rallies	0.1496	1_percent	breakthrough infections	0.2384
+0.1_percent	2021	covid surge	0.1496	1_percent	common people	0.2382
+0.1_percent	2021	hospital beds	0.1495	1_percent	covid virus	0.238
+0.1_percent	2021	covid jab	0.1495	1_percent	public transport	0.2375
+0.1_percent	2021	daily new cases	0.1494	1_percent	aaron rodgers	0.2375
+0.1_percent	2021	confirmed cases	0.1491	1_percent	min age limit	0.237
+0.1_percent	2021	corona cases	0.149	1_percent	vulnerable people	0.2367
+0.1_percent	2021	new restrictions	0.1484	1_percent	free tests	0.2367
+0.1_percent	2021	los angeles	0.1476	1_percent	pandemic relief	0.2355
+0.1_percent	2021	covid guidelines	0.1475	1_percent	covid recovery	0.235
+0.1_percent	2021	free covid tests	0.1474	1_percent	complete lockdown	0.2349
+0.1_percent	2021	third wave	0.1472	1_percent	blood group	0.234
+0.1_percent	2021	oxygen supplies	0.147	1_percent	vaccinated individuals	0.2336
+0.1_percent	2021	covid reasons	0.1468	1_percent	northern ireland	0.2329
+0.1_percent	2021	covid complications	0.1464	1_percent	nursing home deaths	0.2328
+0.1_percent	2021	coronavirus vaccine doses	0.1459	1_percent	full lockdown	0.2323
+0.1_percent	2021	family members	0.1458	1_percent	how covid	0.2323
+0.1_percent	2021	relief bill	0.1458	1_percent	young children	0.2322
+0.1_percent	2021	death rates	0.1457	1_percent	school mask mandates	0.2321
+0.1_percent	2021	vaccine appointments	0.1457	1_percent	oxygen level	0.232
+0.1_percent	2021	blood group	0.1456	1_percent	nhs staff	0.2317
+0.1_percent	2021	omicron patients	0.1456	1_percent	sydney lockdown	0.2313
+0.1_percent	2021	uk covid cases	0.1454	1_percent	covid funds	0.2312
+0.1_percent	2021	w/ covid	0.1453	1_percent	rich people	0.2311
+0.1_percent	2021	anti mask	0.1452	1_percent	oxygen cylinder	0.2307
+0.1_percent	2021	free tests	0.1451	1_percent	covid variant	0.2306
+0.1_percent	2021	pregnant women	0.1448	1_percent	doug ford	0.2294
+0.1_percent	2021	lunar new year	0.1443	1_percent	christmas day	0.2292
+0.1_percent	2021	texas covid cases	0.144	1_percent	greater sydney	0.2292
+0.1_percent	2021	covid delta	0.1439	1_percent	bill gates	0.2291
+0.1_percent	2021	experimental vaccines	0.1438	1_percent	working people	0.2284
+0.1_percent	2021	pcr tests	0.1436	1_percent	covid disinformation	0.2283
+0.1_percent	2021	dr. anthony fauci	0.1436	1_percent	health experts	0.2282
+0.1_percent	2021	covid appropriate behaviour	0.1434	1_percent	covid deniers	0.228
+0.1_percent	2021	new coronavirus cases	0.1434	1_percent	recent days	0.2278
+0.1_percent	2021	severe illness	0.1428	1_percent	astrazeneca covid vaccine	0.2277
+0.1_percent	2021	new #covid19 cases	0.1426	1_percent	no covid passports	0.2276
+0.1_percent	2021	vaccine apartheid	0.1426	1_percent	new coronavirus variant	0.227
+0.1_percent	2021	lockdown rules	0.1424	1_percent	death rates	0.2269
+0.1_percent	2021	enough vaccines	0.1424	1_percent	coronavirus variants	0.2268
+0.1_percent	2021	vaccinated individuals	0.1424	1_percent	south korea	0.2267
+0.1_percent	2021	covid death	0.1424	1_percent	new coronavirus cases	0.2265
+0.1_percent	2021	next month	0.1423	1_percent	johns hopkins university	0.2258
+0.1_percent	2021	scott morrison	0.1422	1_percent	no pandemic	0.2255
+0.1_percent	2021	fake vaccine cards	0.1419	1_percent	new yorkers	0.2255
+0.1_percent	2021	mask mandate	0.1418	1_percent	stimulus checks	0.225
+0.1_percent	2021	secondary number	0.1417	1_percent	mask mandate	0.2247
+0.1_percent	2021	covid care	0.1415	1_percent	pre-covid levels	0.2247
+0.1_percent	2021	covid ward	0.1415	1_percent	mr. potato head	0.2246
+0.1_percent	2021	indoor mask mandates	0.1414	1_percent	omicron covid variant	0.2243
+0.1_percent	2021	covid policies	0.1413	1_percent	vaccine apartheid	0.2239
+0.1_percent	2021	covid care centre	0.1412	1_percent	political rallies	0.2238
+0.1_percent	2021	homeless people	0.1411	1_percent	asymptomatic people	0.2237
+0.1_percent	2021	frontline workers	0.141	1_percent	vaccine papers	0.2236
+0.1_percent	2021	nursing home deaths	0.141	1_percent	previous infection	0.2236
+0.1_percent	2021	high time	0.1409	1_percent	chinese virus	0.2234
+0.1_percent	2021	negative covid test	0.1409	1_percent	vaccine supply	0.2231
+0.1_percent	2021	icu bed	0.1408	1_percent	vaccine misinformation	0.2229
+0.1_percent	2021	rising cases	0.1407	1_percent	booster doses	0.2218
+0.1_percent	2021	covid transmission	0.1402	1_percent	previous years	0.2217
+0.1_percent	2021	religious exemptions	0.1402	1_percent	primary number	0.2217
+0.1_percent	2021	global vaccine equity	0.1401	1_percent	health ministry	0.2216
+0.1_percent	2021	vaccine equity	0.1398	1_percent	anti mask	0.2205
+0.1_percent	2021	innocent people	0.1398	1_percent	covid19 crisis	0.2204
+0.1_percent	2021	covid19 crisis	0.1393	1_percent	red states	0.2202
+0.1_percent	2021	covid issues	0.1393	1_percent	home quarantine	0.2198
+0.1_percent	2021	new appointments	0.1392	1_percent	covid-19 vaccination appointments	0.2198
+0.1_percent	2021	daily covid cases	0.1391	1_percent	rosie duffield	0.2198
+0.1_percent	2021	symptomatic covid	0.1391	1_percent	vaccine immunity	0.2198
+0.1_percent	2021	vulnerable people	0.1389	1_percent	johnson covid-19 vaccine	0.2197
+0.1_percent	2021	sick days	0.1389	1_percent	same day	0.2194
+0.1_percent	2021	new data	0.1388	1_percent	intensive care	0.2188
+0.1_percent	2021	covid victims	0.1386	1_percent	normal life	0.2185
+0.1_percent	2021	astrazeneca coronavirus vaccine	0.1386	1_percent	oxygen bed	0.2184
+0.1_percent	2021	patient name	0.1385	1_percent	previous waves	0.2181
+0.1_percent	2021	florida covid cases	0.1384	1_percent	covid warriors	0.218
+0.1_percent	2021	public health officials	0.1383	1_percent	nsw health	0.218
+0.1_percent	2021	complete lockdown	0.138	1_percent	pandemic times	0.2179
+0.1_percent	2021	bat coronavirus research	0.1379	1_percent	coronavirus restrictions	0.2178
+0.1_percent	2021	effective vaccines	0.1379	1_percent	school closures	0.2176
+0.1_percent	2021	daily deaths	0.1378	1_percent	third wave	0.217
+0.1_percent	2021	home order	0.1377	1_percent	iot #	0.2168
+0.1_percent	2021	rapid antigen tests	0.1374	1_percent	san francisco	0.2166
+0.1_percent	2021	full lockdown	0.1371	1_percent	child covid deaths	0.2157
+0.1_percent	2021	senate democrats	0.137	1_percent	inauguration day	0.2155
+0.1_percent	2021	covid outbreaks	0.137	1_percent	new research	0.2155
+0.1_percent	2021	coronavirus patients	0.1369	1_percent	delta covid variant	0.2152
+0.1_percent	2021	prior covid	0.1369	1_percent	weekend lockdown	0.2149
+0.1_percent	2021	cloth masks	0.1369	1_percent	covid beds	0.2148
+0.1_percent	2021	omicron coronavirus variant	0.1369	1_percent	human life	0.2146
+0.1_percent	2021	hospital bed	0.1368	1_percent	nsw govt	0.2145
+0.1_percent	2021	corona warriors	0.1365	1_percent	prior covid disease	0.2141
+0.1_percent	2021	home orders	0.1363	1_percent	few days	0.2138
+0.1_percent	2021	offline exams	0.1362	1_percent	covid hospitals	0.2137
+0.1_percent	2021	zero covid	0.1361	1_percent	covid passport requirements	0.2135
+0.1_percent	2021	junta terrorists	0.136	1_percent	icu beds	0.2134
+0.1_percent	2021	local mask mandates	0.1359	1_percent	pm modi	0.2133
+0.1_percent	2021	contact number	0.1356	1_percent	moderna vaccine	0.213
+0.1_percent	2021	bc covid	0.1355	1_percent	daily covid cases	0.2129
+0.1_percent	2021	covid deniers	0.1354	1_percent	scott morrison	0.2127
+0.1_percent	2021	covid outbreak	0.1354	1_percent	mask indoors	0.2125
+0.1_percent	2021	icu beds	0.1353	1_percent	full vaccination	0.2124
+0.1_percent	2021	covid booster	0.1353	1_percent	vaccine deaths	0.2118
+0.1_percent	2021	n95 mask	0.1351	1_percent	mask requirements	0.2115
+0.1_percent	2021	covid vaccination mandates	0.1351	1_percent	medical care	0.2113
+0.1_percent	2021	covid control	0.1348	1_percent	rising cases	0.2106
+0.1_percent	2021	covid pass	0.1348	1_percent	real people	0.2104
+0.1_percent	2021	covid passport requirements	0.1347	1_percent	oxygen beds	0.2104
+0.1_percent	2021	first time	0.1346	1_percent	east delhi	0.2099
+0.1_percent	2021	dr. seuss	0.1342	1_percent	western europe	0.2097
+0.1_percent	2021	coronavirus infections	0.1341	1_percent	cdc guidelines	0.2091
+0.1_percent	2021	stimulus checks	0.1341	1_percent	covid vaccine passports	0.209
+0.1_percent	2021	several people	0.134	1_percent	covid jab	0.2088
+0.1_percent	2021	serious illness	0.1337	1_percent	lunar new year	0.2086
+0.1_percent	2021	new delhi	0.1337	1_percent	wearamask #	0.2082
+0.1_percent	2021	medical facilities	0.1336	1_percent	president trump	0.2078
+0.1_percent	2021	covid19 vaccine	0.1333	1_percent	union health ministry	0.2067
+0.1_percent	2021	covid laws	0.1333	1_percent	indian covid variant	0.2065
+0.1_percent	2021	crisis standards	0.1333	1_percent	pcr tests	0.2064
+0.1_percent	2021	omicron covid variant	0.1333	1_percent	new available appointments	0.2064
+0.1_percent	2021	pregnant people	0.1331	1_percent	state govt	0.2062
+0.1_percent	2021	covid bed	0.133	1_percent	new south wales	0.2062
+0.1_percent	2021	second covid wave	0.133	1_percent	vaxxed people	0.2057
+0.1_percent	2021	covid19 patients	0.1328	1_percent	covid death	0.2053
+0.1_percent	2021	covid aid	0.1324	1_percent	johnson covid-19	0.2053
+0.1_percent	2021	asian americans	0.1321	1_percent	medical oxygen	0.2051
+0.1_percent	2021	american deaths	0.1321	1_percent	icu bed	0.205
+0.1_percent	2021	human rights	0.1317	1_percent	covid19 pandemic	0.2046
+0.1_percent	2021	student debt	0.1317	1_percent	fuck covid	0.2046
+0.1_percent	2021	omicron virus	0.1317	1_percent	coronavirus relief	0.2043
+0.1_percent	2021	excess deaths	0.1316	1_percent	first dose	0.2041
+0.1_percent	2021	full approval	0.1314	1_percent	another lockdown	0.2035
+0.1_percent	2021	elderly people	0.1313	1_percent	learning disabilities	0.2035
+0.1_percent	2021	vaccine production	0.1313	1_percent	auspol #	0.2034
+0.1_percent	2021	double jabbed	0.1313	1_percent	labor day	0.2034
+0.1_percent	2021	school boards	0.1313	1_percent	dr. seuss	0.2029
+0.1_percent	2021	vaccination mandates	0.1312	1_percent	contact number	0.2029
+0.1_percent	2021	vaccine patents	0.1311	1_percent	medical support	0.2025
+0.1_percent	2021	wuhan lab	0.131	1_percent	supreme court	0.2024
+0.1_percent	2021	covid law	0.1307	1_percent	no masks	0.2022
+0.1_percent	2021	non-covid deaths	0.1307	1_percent	higher risk	0.2021
+0.1_percent	2021	doug ford	0.1305	1_percent	child care	0.2016
+0.1_percent	2021	high school	0.1305	1_percent	conspiracy theories	0.2014
+0.1_percent	2021	child poverty	0.1304	1_percent	negative covid tests	0.2014
+0.1_percent	2021	prior covid disease	0.1303	1_percent	public places	0.201
+0.1_percent	2021	omicron threat	0.1303	1_percent	new measures	0.2004
+0.1_percent	2021	unvaccinated kids	0.1302	1_percent	early data	0.2004
+0.1_percent	2021	oxygen supply	0.1301	1_percent	school children	0.2002
+0.1_percent	2021	first case	0.13	1_percent	covid wave	0.2001
+0.1_percent	2021	state govt	0.13	1_percent	new delhi	0.1998
+0.1_percent	2021	covid-19 vaccinations	0.1298	1_percent	sick people	0.1998
+0.1_percent	2021	breakthrough infections	0.1297	1_percent	infection rates	0.1991
+0.1_percent	2021	such people	0.1296	1_percent	pandemic p	0.1991
+0.1_percent	2021	vaccine supply	0.1295	1_percent	appt slots	0.1982
+0.1_percent	2021	local people	0.1294	1_percent	double jabbed	0.1982
+0.1_percent	2021	normal life	0.1293	1_percent	coronavirus deaths	0.1981
+0.1_percent	2021	covid hotspots	0.1292	1_percent	omicron fears	0.1981
+0.1_percent	2021	no vaccine	0.1289	1_percent	vaccine production	0.198
+0.1_percent	2021	covid admissions	0.1288	1_percent	new omicron variant	0.1977
+0.1_percent	2021	covid vax	0.1287	1_percent	covid vaccination mandates	0.1975
+0.1_percent	2021	greater sydney	0.1286	1_percent	anti-asian violence	0.1966
+0.1_percent	2021	medical care	0.1285	1_percent	covid pass	0.1966
+0.1_percent	2021	free vaccines	0.1285	1_percent	heart disease	0.1964
+0.1_percent	2021	dr. catherine oneal	0.1284	1_percent	second dose	0.1962
+0.1_percent	2021	old people	0.1283	1_percent	merry christmas	0.196
+0.1_percent	2021	labor day	0.1282	1_percent	such people	0.1959
+0.1_percent	2021	covid resources	0.1281	1_percent	omicron virus	0.1956
+0.1_percent	2021	booster doses	0.1279	1_percent	corona warriors	0.1954
+0.1_percent	2021	ordinary people	0.1277	1_percent	vaccine equity	0.1954
+0.1_percent	2021	chinese virus	0.1277	1_percent	early treatment	0.1948
+0.1_percent	2021	new yorkers	0.1275	1_percent	vaccine safety	0.1946
+0.1_percent	2021	real people	0.1275	1_percent	high school	0.1944
+0.1_percent	2021	covid policy	0.1275	1_percent	uttar pardesh	0.1943
+0.1_percent	2021	active covid patients	0.1274	1_percent	first day	0.1942
+0.1_percent	2021	social distancing measures	0.1273	1_percent	disease control	0.1942
+0.1_percent	2021	florida hospitals	0.1273	1_percent	existing vaccines	0.1942
+0.1_percent	2021	omicron surge	0.1269	1_percent	hospitalized covid patients	0.1941
+0.1_percent	2021	blood component	0.1267	1_percent	new york state	0.194
+0.1_percent	2021	covid waves	0.1267	1_percent	travel restrictions	0.1928
+0.1_percent	2021	state medical boards	0.1266	1_percent	pandemic year	0.1926
+0.1_percent	2021	pm modi	0.1265	1_percent	wuhan lab	0.1925
+0.1_percent	2021	vaccine misinformation	0.1263	1_percent	negative covid test	0.1925
+0.1_percent	2021	needy people	0.1262	1_percent	north america	0.1921
+0.1_percent	2021	unvaxxed people	0.1262	1_percent	covid second wave	0.192
+0.1_percent	2021	managing covid	0.1261	1_percent	south african	0.1918
+0.1_percent	2021	another lockdown	0.126	1_percent	covid-19 protocol	0.1916
+0.1_percent	2021	covid vaccine boosters	0.1259	1_percent	oxygen shortage	0.1915
+0.1_percent	2021	surviving covid	0.1259	1_percent	health minister	0.1914
+0.1_percent	2021	school children	0.1258	1_percent	indian variant	0.1913
+0.1_percent	2021	pandemic p	0.1257	1_percent	heart attacks	0.1907
+0.1_percent	2021	severe cases	0.1255	1_percent	sri lanka	0.1906
+0.1_percent	2021	early treatment	0.1255	1_percent	madhya pradesh	0.1906
+0.1_percent	2021	예왕 #	0.1254	1_percent	astrazeneca vaccines	0.1904
+0.1_percent	2021	uttar pradesh	0.1253	1_percent	dr. peter mccullough	0.1903
+0.1_percent	2021	direct relief	0.1251	1_percent	covid relief checks	0.1902
+0.1_percent	2021	fake news	0.125	1_percent	myanmar people	0.1902
+0.1_percent	2021	weekend lockdown	0.125	1_percent	age group	0.1901
+0.1_percent	2021	corona vaccine	0.1249	1_percent	new infections	0.1897
+0.1_percent	2021	covid hysteria	0.1245	1_percent	coronavirus infections	0.1896
+0.1_percent	2021	broward county	0.1244	1_percent	new study	0.1894
+0.1_percent	2021	young children	0.1243	1_percent	unvaccinated children	0.1893
+0.1_percent	2021	booster jabs	0.1242	1_percent	vaccine certificates	0.1887
+0.1_percent	2021	southern africa	0.124	1_percent	covid victims	0.1878
+0.1_percent	2021	coronavirus deaths	0.1239	1_percent	covid policies	0.1878
+0.1_percent	2021	good health	0.1239	1_percent	covid complications	0.1876
+0.1_percent	2021	heart inflammation	0.1238	1_percent	confirmed omicron cases	0.1872
+0.1_percent	2021	mild symptoms	0.1236	1_percent	paid sick leave	0.187
+0.1_percent	2021	kung flu	0.1236	1_percent	hospital admissions	0.187
+0.1_percent	2021	greater noida	0.1236	1_percent	enough vaccine	0.187
+0.1_percent	2021	full vaccination	0.1236	1_percent	normal people	0.1868
+0.1_percent	2021	school closures	0.1235	1_percent	case rates	0.1867
+0.1_percent	2021	covid disinformation	0.1235	1_percent	andhra pradesh	0.1866
+0.1_percent	2021	bill gates	0.1234	1_percent	uttar pradesh	0.1865
+0.1_percent	2021	pandemic lockdowns	0.1234	1_percent	oxygen concentrators	0.1864
+0.1_percent	2021	good people	0.1232	1_percent	san diego	0.1863
+0.1_percent	2021	johnson covid-19 vaccine	0.123	1_percent	positive tests	0.1862
+0.1_percent	2021	coronavirus outbreak	0.1229	1_percent	positivity rate	0.1862
+0.1_percent	2021	better days	0.1227	1_percent	global health	0.186
+0.1_percent	2021	covid nurses	0.1227	1_percent	offline exam	0.186
+0.1_percent	2021	positive covid cases	0.1226	1_percent	remote learning	0.1856
+0.1_percent	2021	infected people	0.1225	1_percent	black fungus	0.1855
+0.1_percent	2021	function research	0.1224	1_percent	covid prevention kits	0.1855
+0.1_percent	2021	vaccinated folks	0.1224	1_percent	dose1 capacity	0.1854
+0.1_percent	2021	covid centres	0.1224	1_percent	rite aid	0.1853
+0.1_percent	2021	paid sick days	0.1223	1_percent	past week	0.185
+0.1_percent	2021	new years eve	0.1221	1_percent	young kids	0.1846
+0.1_percent	2021	inauguration day	0.1217	1_percent	white supremacists	0.1842
+0.1_percent	2021	covid origin	0.1217	1_percent	vaccinated americans	0.1842
+0.1_percent	2021	cdc guidelines	0.1216	1_percent	school staff	0.1841
+0.1_percent	2021	coronavirus relief	0.1216	1_percent	president joe biden	0.184
+0.1_percent	2021	suspected covid	0.1213	1_percent	new years eve	0.184
+0.1_percent	2021	covid facilities	0.1209	1_percent	covid laws	0.184
+0.1_percent	2021	obese people	0.1209	1_percent	second doses	0.1839
+0.1_percent	2021	pan india	0.1208	1_percent	hundreds of thousands	0.1839
+0.1_percent	2021	oxygen saturation	0.1208	1_percent	covid passport	0.1839
+0.1_percent	2021	private hospitals	0.1207	1_percent	covid test kits	0.1839
+0.1_percent	2021	south african	0.1203	1_percent	private students	0.1838
+0.1_percent	2021	low vaccination rates	0.1203	1_percent	modi govt	0.1831
+0.1_percent	2021	covid-19 cases	0.1202	1_percent	no one	0.183
+0.1_percent	2021	highest number	0.1201	1_percent	religious exemptions	0.1828
+0.1_percent	2021	universal vaccines	0.1201	1_percent	active covid patients	0.1825
+0.1_percent	2021	public places	0.12	1_percent	patient name	0.1824
+0.1_percent	2021	public transport	0.1199	1_percent	board exam	0.1823
+0.1_percent	2021	coronavirus survival rate	0.1199	1_percent	lockdown sceptics	0.1821
+0.1_percent	2021	school board	0.1199	1_percent	catherine calderwood	0.1821
+0.1_percent	2021	covid test kits	0.1192	1_percent	bc covid	0.182
+0.1_percent	2021	uk variant	0.1191	1_percent	school year	0.182
+0.1_percent	2021	current vaccines	0.1191	1_percent	covid19 #vaccine	0.1818
+0.1_percent	2021	health experts	0.119	1_percent	matt hancock	0.1816
+0.1_percent	2021	new infections	0.119	1_percent	gun violence	0.1813
+0.1_percent	2021	covishield vaccine	0.119	1_percent	wuhan institute	0.1813
+0.1_percent	2021	no masks	0.1189	1_percent	high time	0.181
+0.1_percent	2021	vaccine inequity	0.1189	1_percent	covid update	0.1806
+0.1_percent	2021	heart disease	0.1186	1_percent	china virus	0.1805
+0.1_percent	2021	blue states	0.1186	1_percent	home schooling	0.1802
+0.1_percent	2021	pfizer covid vaccine	0.1184	1_percent	covid care centre	0.1802
+0.1_percent	2021	free education	0.1184	1_percent	coronavirus vaccine doses	0.1799
+0.1_percent	2021	confirmed omicron cases	0.1184	1_percent	astrazenecas covid-19 vaccine	0.1799
+0.1_percent	2021	johnson covid-19	0.1183	1_percent	covid duties	0.1799
+0.1_percent	2021	early years	0.1182	1_percent	lab leak theory	0.1794
+0.1_percent	2021	sac terrorists	0.118	1_percent	home orders	0.1793
+0.1_percent	2021	covid variant	0.118	1_percent	covishield vaccine	0.1793
+0.1_percent	2021	supreme court	0.1179	1_percent	cdc data	0.1792
+0.1_percent	2021	human life	0.1179	1_percent	home mom	0.1789
+0.1_percent	2021	night curfew	0.1179	1_percent	southern africa	0.1789
+0.1_percent	2021	happy new year	0.1177	1_percent	western nsw	0.1786
+0.1_percent	2021	half covid patients	0.1177	1_percent	developing countries	0.1785
+0.1_percent	2021	new jersey	0.1175	1_percent	covid vaccine boosters	0.1784
+0.1_percent	2021	vax deaths	0.1173	1_percent	los angeles county	0.1783
+0.1_percent	2021	asymptomatic people	0.1172	1_percent	new covid infections	0.1783
+0.1_percent	2021	rite aid	0.1171	1_percent	london hospitals	0.1781
+0.1_percent	2021	intensive care	0.117	1_percent	mass vaccination	0.1781
+0.1_percent	2021	covid precautions	0.1168	1_percent	texas hospitals	0.1781
+0.1_percent	2021	new study	0.1168	1_percent	hospital name	0.178
+0.1_percent	2021	moderna covid vaccines	0.1168	1_percent	l.a. county	0.1779
+0.1_percent	2021	mass death	0.1168	1_percent	oxygen supplies	0.1778
+0.1_percent	2021	home schooling	0.1167	1_percent	modi government	0.1778
+0.1_percent	2021	enough people	0.1166	1_percent	modi ji	0.1777
+0.1_percent	2021	hong kong	0.1165	1_percent	pandemic response	0.1776
+0.1_percent	2021	corona patients	0.1165	1_percent	south african variant	0.1775
+0.1_percent	2021	indias covid crisis	0.1164	1_percent	lockdown measures	0.1774
+0.1_percent	2021	mandatory vaccinations	0.1164	1_percent	vaccination drive	0.1772
+0.1_percent	2021	horse dewormer	0.1163	1_percent	function research	0.1772
+0.1_percent	2021	unvaccinated adults	0.1163	1_percent	united states	0.1771
+0.1_percent	2021	covid update	0.1161	1_percent	medical staff	0.1767
+0.1_percent	2021	young kids	0.1161	1_percent	great news	0.1767
+0.1_percent	2021	triple jabbed	0.1161	1_percent	close contact	0.1767
+0.1_percent	2021	vaccinated patients	0.116	1_percent	symptomatic covid	0.1767
+0.1_percent	2021	president joe biden	0.1158	1_percent	hospital bed	0.1761
+0.1_percent	2021	vaccine shortages	0.1157	1_percent	full pay	0.176
+0.1_percent	2021	coronavirus restrictions	0.1156	1_percent	monoclonal antibodies	0.1754
+0.1_percent	2021	matt hancock	0.1156	1_percent	election day	0.1753
+0.1_percent	2021	covid wards	0.1156	1_percent	open schools	0.1753
+0.1_percent	2021	west delhi	0.1156	1_percent	avoidable covid deaths	0.1749
+0.1_percent	2021	board exam	0.1155	1_percent	local officials	0.1749
+0.1_percent	2021	oxygen bed	0.1155	1_percent	homeless people	0.1747
+0.1_percent	2021	genocidal dictatorship	0.1155	1_percent	covid 3rd wave	0.1745
+0.1_percent	2021	vaccine risks	0.1154	1_percent	emergency use	0.1741
+0.1_percent	2021	gov. ron desantis	0.1153	1_percent	vaccine nationalism	0.174
+0.1_percent	2021	death rate	0.1153	1_percent	students life	0.174
+0.1_percent	2021	september 14th	0.1153	1_percent	dose2 capacity	0.1739
+0.1_percent	2021	maharashtra government	0.1152	1_percent	early december	0.1736
+0.1_percent	2021	travel restrictions	0.115	1_percent	contact tracing	0.1735
+0.1_percent	2021	gov. abbott	0.115	1_percent	hard lockdown	0.1734
+0.1_percent	2021	south delhi	0.1149	1_percent	hotel quarantine	0.1733
+0.1_percent	2021	aaron rodgers	0.1149	1_percent	latin america	0.1732
+0.1_percent	2021	unvaccinated patients	0.1148	1_percent	vaccine access	0.1731
+0.1_percent	2021	anti-lockdown protests	0.1146	1_percent	vaccine coercion	0.1731
+0.1_percent	2021	such pandemic	0.1145	1_percent	covid aid	0.1728
+0.1_percent	2021	south korea	0.1144	1_percent	huge numbers	0.1728
+0.1_percent	2021	monoclonal antibodies	0.1144	1_percent	mild symptoms	0.1725
+0.1_percent	2021	anti-lockdown protesters	0.1143	1_percent	dangerous new variants	0.1723
+0.1_percent	2021	vax mandates	0.1143	1_percent	blood component	0.1722
+0.1_percent	2021	health minister	0.1142	1_percent	xmas parties	0.172
+0.1_percent	2021	mandate masks	0.1142	1_percent	student debt	0.1719
+0.1_percent	2021	hospital capacity	0.1142	1_percent	needy people	0.1719
+0.1_percent	2021	president trump	0.1141	1_percent	south dakota	0.1718
+0.1_percent	2021	johns hopkins university	0.1141	1_percent	free vaccines	0.1718
+0.1_percent	2021	oxygen shortage	0.114	1_percent	bidens vaccine mandate	0.1718
+0.1_percent	2021	cdc data	0.114	1_percent	abc news	0.1717
+0.1_percent	2021	chief minister	0.1137	1_percent	covid norms	0.1711
+0.1_percent	2021	death threats	0.1137	1_percent	dr. catherine oneal	0.1711
+0.1_percent	2021	underlying health conditions	0.1137	1_percent	tucker carlson	0.1709
+0.1_percent	2021	peoples lives	0.1135	1_percent	breakthrough covid	0.1709
+0.1_percent	2021	pandemic restrictions	0.1135	1_percent	underlying health conditions	0.1709
+0.1_percent	2021	sick people	0.1134	1_percent	first case	0.1708
+0.1_percent	2021	hundreds of thousands	0.1133	1_percent	lockdown states	0.1707
+0.1_percent	2021	gun violence	0.1133	1_percent	healthy kids	0.1703
+0.1_percent	2021	covid-19 vaccination appointments	0.1132	1_percent	surgical masks	0.1702
+0.1_percent	2021	no one	0.1129	1_percent	young adults	0.1702
+0.1_percent	2021	severe covid-19	0.1129	1_percent	mass infection	0.1701
+0.1_percent	2021	pre-covid levels	0.1129	1_percent	las vegas	0.17
+0.1_percent	2021	covid advice	0.1129	1_percent	florida covid cases	0.1694
+0.1_percent	2021	vaccine systems	0.1129	1_percent	health protocols	0.1691
+0.1_percent	2021	first day	0.1128	1_percent	dan andrews	0.169
+0.1_percent	2021	big government	0.1128	1_percent	north carolina	0.1683
+0.1_percent	2021	vaccination sites	0.1127	1_percent	world leaders	0.1683
+0.1_percent	2021	covid 3rd wave	0.1127	1_percent	n95 mask	0.168
+0.1_percent	2021	gov. cuomo	0.1126	1_percent	real life	0.1678
+0.1_percent	2021	prior infection	0.1126	1_percent	nicola sturgeon	0.1677
+0.1_percent	2021	essential services	0.1124	1_percent	uk variant	0.1676
+0.1_percent	2021	worst pandemic	0.1124	1_percent	tens of thousands	0.1675
+0.1_percent	2021	various states	0.1124	1_percent	ron johnson	0.1673
+0.1_percent	2021	mask requirements	0.1123	1_percent	tamil nadu	0.1672
+0.1_percent	2021	unvaccinated covid-19 patients	0.1123	1_percent	indias covid crisis	0.1672
+0.1_percent	2021	ltc homes	0.1122	1_percent	junta terrorists	0.1672
+0.1_percent	2021	social care	0.1122	1_percent	bogus case	0.1667
+0.1_percent	2021	booster dose	0.1122	1_percent	clinical trials	0.1664
+0.1_percent	2021	key workers	0.112	1_percent	real time	0.1664
+0.1_percent	2021	chinese communist party	0.112	1_percent	close contacts	0.166
+0.1_percent	2021	full covid-19 vaccination	0.112	1_percent	delhi government	0.1659
+0.1_percent	2021	certain people	0.1119	1_percent	plan b	0.1659
+0.1_percent	2021	stupid people	0.1117	1_percent	black americans	0.1658
+0.1_percent	2021	omicron spread	0.1116	1_percent	civil hospital	0.1658
+0.1_percent	2021	moderna vaccine	0.1115	1_percent	previous covid infection	0.1654
+0.1_percent	2021	red states	0.1115	1_percent	small business	0.1653
+0.1_percent	2021	nondisabled people	0.1115	1_percent	public health experts	0.1653
+0.1_percent	2021	state health officials	0.1114	1_percent	dead bodies	0.1652
+0.1_percent	2021	double mask	0.1114	1_percent	public money	0.165
+0.1_percent	2021	dr. peter mccullough	0.1114	1_percent	covid law	0.165
+0.1_percent	2021	vaccination appointments	0.1113	1_percent	covid19 patients	0.1649
+0.1_percent	2021	mandatory masks	0.1113	1_percent	prior infection	0.1649
+0.1_percent	2021	covid centre	0.1111	1_percent	full covid-19 vaccination	0.1648
+0.1_percent	2021	covid tyranny	0.1111	1_percent	world war ii	0.1645
+0.1_percent	2021	robert koch institute	0.1111	1_percent	vaccine inequity	0.1645
+0.1_percent	2021	uk government	0.111	1_percent	illegal immigrants	0.1644
+0.1_percent	2021	plan b	0.111	1_percent	child poverty	0.1644
+0.1_percent	2021	executive orders	0.1109	1_percent	virginia beach	0.1644
+0.1_percent	2021	first week	0.1108	1_percent	saudi arabia	0.1642
+0.1_percent	2021	rising covid-19 cases	0.1108	1_percent	covid policy	0.1642
+0.1_percent	2021	enough protection	0.1108	1_percent	child deaths	0.164
+0.1_percent	2021	singh ji insan	0.1107	1_percent	positive covid cases	0.1639
+0.1_percent	2021	death panels	0.1105	1_percent	czech republic	0.1638
+0.1_percent	2021	free rapid tests	0.1103	1_percent	christmas eve	0.1637
+0.1_percent	2021	fewer people	0.1102	1_percent	bank details	0.1634
+0.1_percent	2021	new rules	0.1102	1_percent	mrna vaccine 💉	0.1634
+0.1_percent	2021	personal freedom	0.11	1_percent	covid outbreak	0.1633
+0.1_percent	2021	quarantine camp	0.11	1_percent	flu shot	0.1631
+0.1_percent	2021	gov. andrew cuomo	0.1098	1_percent	second jobs	0.1631
+0.1_percent	2021	geert vanden bossche	0.1097	1_percent	ordinary people	0.1629
+0.1_percent	2021	travel bans	0.1096	1_percent	covid care	0.1627
+0.1_percent	2021	vaccinated americans	0.1096	1_percent	central government	0.1626
+0.1_percent	2021	dead bodies	0.1095	1_percent	social care	0.1625
+0.1_percent	2021	oxygen concentrators	0.1095	1_percent	first month	0.1624
+0.1_percent	2021	first dose	0.1094	1_percent	south delhi	0.1624
+0.1_percent	2021	public health experts	0.1093	1_percent	high levels	0.1624
+0.1_percent	2021	mr. potato head	0.1093	1_percent	bad news	0.1622
+0.1_percent	2021	new omicron variant	0.1093	1_percent	xmas day	0.1622
+0.1_percent	2021	budget reconciliation	0.1092	1_percent	rich countries	0.1621
+0.1_percent	2021	lockdown sceptics	0.1091	1_percent	another pandemic	0.162
+0.1_percent	2021	good luck	0.1091	1_percent	gladys berejiklian	0.1619
+0.1_percent	2021	pandemic times	0.1091	1_percent	gov. cuomo	0.1618
+0.1_percent	2021	working families	0.109	1_percent	gov. andrew cuomo	0.1618
+0.1_percent	2021	covid pneumonia	0.109	1_percent	walgreens houston	0.1618
+0.1_percent	2021	delta variant cases	0.109	1_percent	happy new year	0.1614
+0.1_percent	2021	mild cases	0.109	1_percent	indigenous people	0.1614
+0.1_percent	2021	xmas parties	0.109	1_percent	school kids	0.1614
+0.1_percent	2021	anti-asian violence	0.1089	1_percent	medical facilities	0.1612
+0.1_percent	2021	military junta	0.1089	1_percent	coronavirus variant	0.161
+0.1_percent	2021	strong vaccine requirements	0.1089	1_percent	az vaccine	0.1607
+0.1_percent	2021	covid warriors	0.1088	1_percent	hate crimes	0.1606
+0.1_percent	2021	covid risk	0.1085	1_percent	covid hospitalisations	0.1606
+0.1_percent	2021	child care	0.1084	1_percent	rural areas	0.1602
+0.1_percent	2021	new covid-19 variant	0.1084	1_percent	breast cancer	0.1599
+0.1_percent	2021	anti-covid drug	0.1083	1_percent	nicki minaj	0.1597
+0.1_percent	2021	school age children	0.1083	1_percent	covid relief funds	0.1586
+0.1_percent	2021	hozier covid	0.1082	1_percent	adverse reactions	0.1586
+0.1_percent	2021	mass vaccination	0.1081	1_percent	covid safety	0.1585
+0.1_percent	2021	hospitalized patients	0.108	1_percent	airborne transmission	0.1585
+0.1_percent	2021	public health guidelines	0.1078	1_percent	andrew cuomo	0.1584
+0.1_percent	2021	no pandemic	0.1077	1_percent	narendra modi	0.1584
+0.1_percent	2021	modi govt	0.1077	1_percent	coming weeks	0.1583
+0.1_percent	2021	underlying medical conditions	0.1077	1_percent	delhi ncr	0.1583
+0.1_percent	2021	regular insulation	0.1076	1_percent	health infrastructure	0.1583
+0.1_percent	2021	lockdown uk	0.1075	1_percent	black farmers	0.1582
+0.1_percent	2021	covid19 #vaccine	0.1075	1_percent	healthy children	0.1582
+0.1_percent	2021	new strains	0.1074	1_percent	cdc guidance	0.1579
+0.1_percent	2021	positive covid-19 cases	0.1073	1_percent	justin trudeau	0.1578
+0.1_percent	2021	negative test	0.1073	1_percent	walgreen drug store	0.1578
+0.1_percent	2021	second dose	0.1072	1_percent	online exam	0.1576
+0.1_percent	2021	british people	0.1072	1_percent	st. louis	0.1576
+0.1_percent	2021	health services	0.1071	1_percent	full capacity	0.1575
+0.1_percent	2021	anti-asian racism	0.1071	1_percent	mental stress	0.1575
+0.1_percent	2021	delhi govt	0.1069	1_percent	booster jabs	0.1575
+0.1_percent	2021	omicron symptoms	0.1069	1_percent	new strains	0.1572
+0.1_percent	2021	how covid	0.1068	1_percent	relief bill	0.1572
+0.1_percent	2021	u.s. house	0.1068	1_percent	north texas	0.1572
+0.1_percent	2021	covid contract	0.1068	1_percent	asian people	0.1571
+0.1_percent	2021	public education	0.1067	1_percent	vaccine patents	0.157
+0.1_percent	2021	sajid javid	0.1067	1_percent	plasma donor	0.1569
+0.1_percent	2021	cdc guidance	0.1066	1_percent	heart inflammation	0.1569
+0.1_percent	2021	healthy children	0.1066	1_percent	several days	0.1568
+0.1_percent	2021	atlantic canada	0.1066	1_percent	african countries	0.1568
+0.1_percent	2021	baba ramdev	0.1066	1_percent	covid hospital	0.1564
+0.1_percent	2021	wearamask #	0.1065	1_percent	recent years	0.1564
+0.1_percent	2021	high levels	0.1065	1_percent	crypto game	0.1563
+0.1_percent	2021	health issues	0.1064	1_percent	international law	0.1562
+0.1_percent	2021	covid report	0.1064	1_percent	west bengal	0.1562
+0.1_percent	2021	omicron variant symptoms	0.1064	1_percent	personal responsibility	0.1559
+0.1_percent	2021	vaccine supplies	0.1063	1_percent	distribution-dss volunteers	0.1557
+0.1_percent	2021	narendra modi	0.1062	1_percent	saint dr	0.1555
+0.1_percent	2021	first omicron case	0.1062	1_percent	delhi govt	0.1554
+0.1_percent	2021	covid safety	0.1061	1_percent	vaccine raw materials	0.1552
+0.1_percent	2021	china virus	0.1059	1_percent	working families	0.1551
+0.1_percent	2021	life pre covid	0.1059	1_percent	child abuse	0.1551
+0.1_percent	2021	pandemic contracts	0.1059	1_percent	real pandemics	0.155
+0.1_percent	2021	coming weeks	0.1059	1_percent	high vaccination rates	0.1547
+0.1_percent	2021	post-covid complications	0.1057	1_percent	lockdown regulations	0.1544
+0.1_percent	2021	single dose	0.1056	1_percent	life support	0.1542
+0.1_percent	2021	enough vaccine	0.1056	1_percent	covid precautions	0.1541
+0.1_percent	2021	car crashes	0.1056	1_percent	central govt	0.154
+0.1_percent	2021	hospital admissions	0.1054	1_percent	booster dose	0.154
+0.1_percent	2021	kyrie irving	0.1054	1_percent	if covid	0.1539
+0.1_percent	2021	global covid response	0.1053	1_percent	no social distancing	0.1538
+0.1_percent	2021	great news	0.1052	1_percent	anti-asian racism	0.1538
+0.1_percent	2021	capitol lockdown	0.1052	1_percent	oxygen crisis	0.1538
+0.1_percent	2021	fucking covid	0.1051	1_percent	broward county	0.1538
+0.1_percent	2021	covid vaccine syringes	0.1051	1_percent	medical status	0.1538
+0.1_percent	2021	hard lockdown	0.105	1_percent	full approval	0.1536
+0.1_percent	2021	existing vaccines	0.105	1_percent	about #covid	0.1533
+0.1_percent	2021	omicron covid-19 variant	0.105	1_percent	black lives	0.1531
+0.1_percent	2021	illegal aliens	0.1049	1_percent	covid pneumonia	0.1531
+0.1_percent	2021	strict lockdown	0.1049	1_percent	communist china	0.1531
+0.1_percent	2021	new cdc guidelines	0.1049	1_percent	various states	0.153
+0.1_percent	2021	social distancing rules	0.1049	1_percent	horse dewormer	0.153
+0.1_percent	2021	nationwide lockdown	0.1049	1_percent	rising omicron cases	0.153
+0.1_percent	2021	home strike	0.1046	1_percent	when covid	0.1529
+0.1_percent	2021	medical staff	0.1045	1_percent	new covid hospitalizations	0.1529
+0.1_percent	2021	grocery workers	0.1045	1_percent	teachers unions	0.1528
+0.1_percent	2021	worst day	0.1045	1_percent	severe cases	0.1528
+0.1_percent	2021	indoor mask mandate	0.1045	1_percent	south carolina	0.1527
+0.1_percent	2021	covid positive patients	0.1044	1_percent	fresh covid cases	0.1527
+0.1_percent	2021	unvaccinated children	0.1044	1_percent	online classes	0.1526
+0.1_percent	2021	vaccine cards	0.1044	1_percent	unvaccinated americans	0.1526
+0.1_percent	2021	delta omicron	0.1041	1_percent	mandatory masks	0.1525
+0.1_percent	2021	free school meals	0.104	1_percent	blue states	0.1524
+0.1_percent	2021	public life	0.104	1_percent	unvaccinated individuals	0.1524
+0.1_percent	2021	bharat biotech vaccine	0.1039	1_percent	tokyo olympics	0.1524
+0.1_percent	2021	pandemic management	0.1039	1_percent	online exams	0.1523
+0.1_percent	2021	world leaders	0.1037	1_percent	civil liberties	0.1522
+0.1_percent	2021	european countries	0.1037	1_percent	new #covid19 cases	0.1519
+0.1_percent	2021	no mask mandates	0.1036	1_percent	medical supplies	0.1516
+0.1_percent	2021	covid fear	0.1036	1_percent	similar game	0.1516
+0.1_percent	2021	new highs	0.1035	1_percent	hp inc	0.1516
+0.1_percent	2021	final year	0.1034	1_percent	food packets	0.1515
+0.1_percent	2021	health professionals	0.1033	1_percent	mask guidance	0.1513
+0.1_percent	2021	general peace	0.1033	1_percent	health insurance	0.1512
+0.1_percent	2021	recent weeks	0.1032	1_percent	delhi cantt	0.1512
+0.1_percent	2021	ron johnson	0.1032	1_percent	joe rogan	0.151
+0.1_percent	2021	rural areas	0.1032	1_percent	several months	0.1508
+0.1_percent	2021	first wave	0.1032	1_percent	s. africa	0.1505
+0.1_percent	2021	regular covid updates	0.1032	1_percent	mask use	0.1504
+0.1_percent	2021	san francisco	0.1031	1_percent	nhs workers	0.1503
+0.1_percent	2021	home quarantine	0.1031	1_percent	jason kenney	0.1502
+0.1_percent	2021	surgical mask	0.1031	1_percent	natural infection	0.1502
+0.1_percent	2021	poor countries	0.103	1_percent	face coverings	0.15
+0.1_percent	2021	fourth dose	0.103	1_percent	current vaccines	0.15
+0.1_percent	2021	andrew cuomo	0.1029	1_percent	food shortages	0.1497
+0.1_percent	2021	student loan payments	0.1028	1_percent	new york times	0.1496
+0.1_percent	2021	black covid deaths	0.1028	1_percent	omicron outbreak	0.1496
+0.1_percent	2021	home mom	0.1027	1_percent	second covid wave	0.1495
+0.1_percent	2021	modi government	0.1026	1_percent	sajid javid	0.1494
+0.1_percent	2021	regional nsw	0.1026	1_percent	mental health issues	0.1491
+0.1_percent	2021	mask indoors	0.1025	1_percent	state governments	0.149
+0.1_percent	2021	del rio	0.1025	1_percent	mandatory vaccinations	0.149
+0.1_percent	2021	vaccinating kids	0.1025	1_percent	covid spikes	0.1489
+0.1_percent	2021	appt slots	0.1024	1_percent	h.e. dr	0.1488
+0.1_percent	2021	covid toe	0.1024	1_percent	early use	0.1483
+0.1_percent	2021	health advice	0.1023	1_percent	pandemic restrictions	0.1482
+0.1_percent	2021	state officials	0.1022	1_percent	poor countries	0.1481
+0.1_percent	2021	survival checks	0.1022	1_percent	covid wards	0.148
+0.1_percent	2021	madhya pradesh	0.1022	1_percent	covid ward	0.148
+0.1_percent	2021	astrazenecas covid-19 vaccine	0.1021	1_percent	daily deaths	0.1479
+0.1_percent	2021	delta deaths	0.1021	1_percent	recovered patients	0.1479
+0.1_percent	2021	vaccine certificates	0.1021	1_percent	unvaccinated patients	0.1476
+0.1_percent	2021	dangerous new variants	0.1021	1_percent	key workers	0.1474
+0.1_percent	2021	face mask	0.102	1_percent	school board meetings	0.1474
+0.1_percent	2021	multiple days	0.1019	1_percent	international travel	0.1473
+0.1_percent	2021	public money	0.1016	1_percent	dr fauci	0.1472
+0.1_percent	2021	india variant	0.1016	1_percent	kyle rittenhouse	0.1471
+0.1_percent	2021	vaccine inequality	0.1016	1_percent	chinese communist party	0.1468
+0.1_percent	2021	chinese vaccines	0.1015	1_percent	poorer countries	0.1467
+0.1_percent	2021	east delhi	0.1013	1_percent	death rate	0.146
+0.1_percent	2021	ugly covid images	0.1013	1_percent	oxygen saturation	0.146
+0.1_percent	2021	enough oxygen	0.1012	1_percent	economic recovery	0.1459
+0.1_percent	2021	disease control	0.1011	1_percent	dss volunteers	0.1459
+0.1_percent	2021	covid risks	0.1011	1_percent	as many people	0.1455
+0.1_percent	2021	first lockdown	0.1009	1_percent	increased risk	0.1455
+0.1_percent	2021	k-12 schools	0.1009	1_percent	ventilated covid patients	0.1455
+0.1_percent	2021	health insurance	0.1008	1_percent	next winter	0.1454
+0.1_percent	2021	vaccination drive	0.1008	1_percent	greg abbott	0.1454
+0.1_percent	2021	global health	0.1008	1_percent	covid-19 vaccine mandates	0.1454
+0.1_percent	2021	indigenous people	0.1008	1_percent	community transmission	0.1453
+0.1_percent	2021	christmas party	0.1008	1_percent	new orleans	0.1453
+0.1_percent	2021	distribution-dss volunteers	0.1007	1_percent	kamala harris	0.1449
+0.1_percent	2021	covid delta variant	0.1007	1_percent	big tech	0.1449
+0.1_percent	2021	wuhan lab funding	0.1005	1_percent	military junta	0.1449
+0.1_percent	2021	developing countries	0.1004	1_percent	maharashtra government	0.1447
+0.1_percent	2021	ongoing pandemic	0.1004	1_percent	board students	0.1446
+0.1_percent	2021	immunocompromised people	0.1003	1_percent	sturgis motorcycle	0.1446
+0.1_percent	2021	students life	0.1003	1_percent	first responders	0.1445
+0.1_percent	2021	restaurant workers	0.1003	1_percent	valentines day	0.1445
+0.1_percent	2021	coronavirus variant	0.1002	1_percent	covid tyranny	0.1445
+0.1_percent	2021	human lives	0.1001	1_percent	each day	0.1444
+0.1_percent	2021	northern ireland	0.1	1_percent	covid bed	0.1444
+0.1_percent	2021	previous covid infection	0.1	1_percent	primary schools	0.1443
+0.1_percent	2021	real life	0.0999	1_percent	september 14th	0.1442
+0.1_percent	2021	valentines day	0.0998	1_percent	pregnant people	0.1442
+0.1_percent	2021	revolutionary slogans	0.0998	1_percent	online mode	0.1441
+0.1_percent	2021	illegal immigrants	0.0997	1_percent	law enforcement	0.144
+0.1_percent	2021	private students	0.0997	1_percent	better masks	0.144
+0.1_percent	2021	small business owners	0.0996	1_percent	dr. oz	0.144
+0.1_percent	2021	tough times	0.0996	1_percent	axie infinity	0.1439
+0.1_percent	2021	health care system	0.0996	1_percent	new availability	0.1438
+0.1_percent	2021	state governments	0.0995	1_percent	illegal aliens	0.1437
+0.1_percent	2021	heart attacks	0.0994	1_percent	ppe kits	0.1437
+0.1_percent	2021	arvind kejriwal	0.0994	1_percent	medical professionals	0.1435
+0.1_percent	2021	nsw covid	0.0994	1_percent	strict lockdown	0.1434
+0.1_percent	2021	hard work	0.0993	1_percent	heart problems	0.1434
+0.1_percent	2021	ventilated covid patients	0.0993	1_percent	military terrorists	0.1432
+0.1_percent	2021	covid certification	0.0993	1_percent	rapid testing	0.1431
+0.1_percent	2021	data integrity issues	0.0993	1_percent	covid delta variant	0.1429
+0.1_percent	2021	international travel	0.0992	1_percent	dying covid patient	0.1429
+0.1_percent	2021	hate crimes	0.0992	1_percent	late december	0.1428
+0.1_percent	2021	panic buying	0.0992	1_percent	artificial intelligence	0.1427
+0.1_percent	2021	west bengal	0.0991	1_percent	indoor dining	0.1426
+0.1_percent	2021	sen. rand paul	0.0991	1_percent	social media companies	0.1426
+0.1_percent	2021	new south wales	0.099	1_percent	omicron coronavirus variant	0.1426
+0.1_percent	2021	w/ covid patients	0.099	1_percent	early june	0.1422
+0.1_percent	2021	african countries	0.099	1_percent	recent months	0.142
+0.1_percent	2021	uncontrolled covid spread	0.099	1_percent	vaccination sites	0.142
+0.1_percent	2021	higher risk	0.0989	1_percent	countless lives	0.1418
+0.1_percent	2021	surgical masks	0.0988	1_percent	unemployment benefits	0.1418
+0.1_percent	2021	yashoda hospital	0.0988	1_percent	severe covid-19	0.1416
+0.1_percent	2021	non-essential travel	0.0988	1_percent	migrant workers	0.1416
+0.1_percent	2021	no covid pass	0.0988	1_percent	past year	0.1413
+0.1_percent	2021	johnson covid vaccine	0.0987	1_percent	large numbers	0.1413
+0.1_percent	2021	nasser mohammed al-yamani	0.0986	1_percent	infectious diseases	0.1411
+0.1_percent	2021	isa pandemic	0.0985	1_percent	covid 2nd wave	0.1411
+0.1_percent	2021	own covid rules	0.0985	1_percent	positive illegal immigrants	0.1409
+0.1_percent	2021	unvaccinated individuals	0.0985	1_percent	mild illness	0.1409
+0.1_percent	2021	vtu exams	0.0984	1_percent	global warming	0.1407
+0.1_percent	2021	south dakota	0.0983	1_percent	enough vaccine supply	0.1405
+0.1_percent	2021	new orleans	0.0983	1_percent	cm arvind kejriwal	0.1405
+0.1_percent	2021	nursing home residents	0.0982	1_percent	indias fight	0.1404
+0.1_percent	2021	school mask requirements	0.0982	1_percent	vax passports	0.1401
+0.1_percent	2021	new evidence	0.0981	1_percent	erin otoole	0.14
+0.1_percent	2021	union health ministry	0.0981	1_percent	daniel andrews	0.14
+0.1_percent	2021	medical treatment	0.098	1_percent	staff shortages	0.14
+0.1_percent	2021	vaccine access	0.098	1_percent	health authorities	0.1399
+0.1_percent	2021	hospital staff	0.098	1_percent	chief medical officer	0.1399
+0.1_percent	2021	whatshappeninginmyanmar #	0.098	1_percent	medical treatment	0.1398
+0.1_percent	2021	police officers	0.0979	1_percent	peter daszak	0.1398
+0.1_percent	2021	health problems	0.0979	1_percent	human lives	0.1398
+0.1_percent	2021	pandemic preparedness	0.0979	1_percent	positive patients	0.1398
+0.1_percent	2021	mild illness	0.0979	1_percent	equitable access	0.1397
+0.1_percent	2021	l.a. county	0.0978	1_percent	financial support	0.1396
+0.1_percent	2021	fat people	0.0978	1_percent	pandemic relief bill	0.1395
+0.1_percent	2021	vaccine information	0.0978	1_percent	black covid deaths	0.1394
+0.1_percent	2021	anti-vaxx protester	0.0977	1_percent	no vaccine passports	0.1394
+0.1_percent	2021	saint dr	0.0976	1_percent	younger children	0.1394
+0.1_percent	2021	support staff	0.0976	1_percent	health issues	0.1393
+0.1_percent	2021	supply chains	0.0976	1_percent	holiday season	0.1392
+0.1_percent	2021	central govt	0.0974	1_percent	single day	0.1391
+0.1_percent	2021	care home staff	0.0974	1_percent	remote work	0.139
+0.1_percent	2021	registration link	0.0973	1_percent	immunocompromised people	0.139
+0.1_percent	2021	increased risk	0.0972	1_percent	covids origins	0.1389
+0.1_percent	2021	sri lanka	0.0971	1_percent	crisis standards	0.1389
+0.1_percent	2021	real time	0.0971	1_percent	regular testing	0.1388
+0.1_percent	2021	once covid	0.0971	1_percent	student loan payments	0.1381
+0.1_percent	2021	school staff	0.097	1_percent	public spaces	0.1381
+0.1_percent	2021	infectious diseases	0.097	1_percent	no mask	0.1379
+0.1_percent	2021	full blown covid	0.097	1_percent	rand paul	0.1377
+0.1_percent	2021	life expectancy	0.0969	1_percent	vaccinated folks	0.1377
+0.1_percent	2021	adverse reactions	0.0969	1_percent	political gain	0.1377
+0.1_percent	2021	neil cavuto	0.0969	1_percent	mr. president	0.1376
+0.1_percent	2021	emergency use authorization	0.0968	1_percent	covid period	0.1373
+0.1_percent	2021	andhra pradesh	0.0968	1_percent	federal government	0.1372
+0.1_percent	2021	oxygen concentrator	0.0968	1_percent	vaccination mandates	0.1372
+0.1_percent	2021	pandemic response	0.0967	1_percent	amit shah	0.1371
+0.1_percent	2021	greg abbott	0.0967	1_percent	anti dictatorship protest	0.1371
+0.1_percent	2021	covid exposure	0.0967	1_percent	supply chains	0.1371
+0.1_percent	2021	early april	0.0967	1_percent	next day	0.1369
+0.1_percent	2021	bidens vaccine mandates	0.0967	1_percent	delhi police	0.1368
+0.1_percent	2021	recent days	0.0965	1_percent	police officers	0.1367
+0.1_percent	2021	sant shri	0.0965	1_percent	about covid	0.1365
+0.1_percent	2021	kn95 masks	0.0965	1_percent	palm beach county	0.1365
+0.1_percent	2021	unvaccinated americans	0.0964	1_percent	new ways	0.1364
+0.1_percent	2021	reduced infection rates	0.0964	1_percent	unnecessary deaths	0.1364
+0.1_percent	2021	early data	0.0964	1_percent	hospital staff	0.1362
+0.1_percent	2021	single day	0.0963	1_percent	regional nsw	0.1361
+0.1_percent	2021	india #delhi	0.0963	1_percent	free speech	0.1359
+0.1_percent	2021	full fda approval	0.0963	1_percent	registration link	0.1359
+0.1_percent	2021	deadly consequences	0.0963	1_percent	trace system	0.1358
+0.1_percent	2021	e.g. vaccine express	0.0963	1_percent	new mexico	0.1357
+0.1_percent	2021	johnson coronavirus vaccine	0.0961	1_percent	human beings	0.1357
+0.1_percent	2021	public services	0.0961	1_percent	greater noida	0.1356
+0.1_percent	2021	president-elect biden	0.096	1_percent	covid centre	0.1356
+0.1_percent	2021	poorer countries	0.096	1_percent	anti military movement	0.1356
+0.1_percent	2021	new coronavirus variants	0.0959	1_percent	us capitol	0.1355
+0.1_percent	2021	life support	0.0959	1_percent	first year	0.1355
+0.1_percent	2021	bjp leaders	0.0959	1_percent	kumbh mela	0.1355
+0.1_percent	2021	nsw health	0.0959	1_percent	omicron spread	0.1355
+0.1_percent	2021	conspiracy theories	0.0958	1_percent	free vaccine	0.1353
+0.1_percent	2021	union health minister	0.0957	1_percent	supply chain issues	0.1352
+0.1_percent	2021	cancer patients	0.0956	1_percent	covid-19 patients	0.135
+0.1_percent	2021	recovered covid patients	0.0956	1_percent	president-elect biden	0.1349
+0.1_percent	2021	texas school district	0.0956	1_percent	gavin newsom	0.1349
+0.1_percent	2021	covid-19 vaccine mandates	0.0956	1_percent	vaccine makers	0.1349
+0.1_percent	2021	oxygen crisis	0.0955	1_percent	bbc news	0.1347
+0.1_percent	2021	tucker carlson	0.0955	1_percent	american lives	0.1346
+0.1_percent	2021	lockdown lifting	0.0955	1_percent	new brunswick	0.1346
+0.1_percent	2021	vaccinated covid-19 deaths	0.0955	1_percent	prime minister	0.1345
+0.1_percent	2021	community health centers	0.0954	1_percent	vitamin d	0.1344
+0.1_percent	2021	covid isolation	0.0952	1_percent	covid center	0.1343
+0.1_percent	2021	covid warrior	0.0951	1_percent	oxygen tanks	0.1343
+0.1_percent	2021	thai people	0.0951	1_percent	hebei province	0.1342
+0.1_percent	2021	few days	0.095	1_percent	social distancing rules	0.1342
+0.1_percent	2021	biden administration	0.0949	1_percent	astrazeneca coronavirus vaccine	0.1341
+0.1_percent	2021	medical supplies	0.0948	1_percent	zero covid deaths	0.1341
+0.1_percent	2021	first country	0.0947	1_percent	sick leave	0.134
+0.1_percent	2021	younger age groups	0.0946	1_percent	vaccine development	0.134
+0.1_percent	2021	enough evidence	0.0946	1_percent	peter mccullough	0.134
+0.1_percent	2021	joe rogan	0.0945	1_percent	young men	0.134
+0.1_percent	2021	death data	0.0945	1_percent	early july	0.1338
+0.1_percent	2021	heart problems	0.0944	1_percent	atlantic canada	0.1337
+0.1_percent	2021	biafra land	0.0944	1_percent	empty shelves	0.1336
+0.1_percent	2021	new research	0.0943	1_percent	ted cruz	0.1335
+0.1_percent	2021	home dad	0.0943	1_percent	covid mania	0.1333
+0.1_percent	2021	health authorities	0.0941	1_percent	lab leak	0.1333
+0.1_percent	2021	memorial day	0.0941	1_percent	daily covid deaths	0.1333
+0.1_percent	2021	covid period	0.0941	1_percent	almost a year	0.1331
+0.1_percent	2021	big bird	0.0941	1_percent	republican governors	0.1328
+0.1_percent	2021	private businesses	0.094	1_percent	infectious disease	0.1328
+0.1_percent	2021	trump wh	0.0939	1_percent	covid camps	0.1328
+0.1_percent	2021	severe infection	0.0939	1_percent	stanley johnson	0.1327
+0.1_percent	2021	working day	0.0938	1_percent	san antonio	0.1327
+0.1_percent	2021	new travel restrictions	0.0938	1_percent	super bowl	0.1326
+0.1_percent	2021	mohammed al-yamani	0.0938	1_percent	face mask	0.1324
+0.1_percent	2021	board students	0.0937	1_percent	southern california	0.1323
+0.1_percent	2021	bad news	0.0936	1_percent	monoclonal antibody treatment	0.1323
+0.1_percent	2021	military rules	0.0936	1_percent	west virginia	0.1322
+0.1_percent	2021	enough time	0.0935	1_percent	mass testing	0.1321
+0.1_percent	2021	child abuse	0.0935	1_percent	late january	0.1321
+0.1_percent	2021	former president trump	0.0935	1_percent	neil ferguson	0.1317
+0.1_percent	2021	tamil nadu	0.0935	1_percent	vaccine funding	0.1315
+0.1_percent	2021	native communities	0.0934	1_percent	dallas county	0.1315
+0.1_percent	2021	partial lockdown	0.0934	1_percent	american families	0.1312
+0.1_percent	2021	wonderland lockdown	0.0934	1_percent	hospital care	0.1311
+0.1_percent	2021	mental health issues	0.0933	1_percent	gop governors	0.1311
+0.1_percent	2021	covid wave	0.0933	1_percent	fresh air	0.131
+0.1_percent	2021	big tech	0.0932	1_percent	american citizens	0.131
+0.1_percent	2021	deadly pandemic	0.0932	1_percent	south africans	0.1309
+0.1_percent	2021	sick leave	0.0931	1_percent	hand sanitizer	0.1309
+0.1_percent	2021	vaccine funding	0.0931	1_percent	no mask mandate	0.1309
+0.1_percent	2021	when covid	0.093	1_percent	colin powell	0.1309
+0.1_percent	2021	no covid rules	0.093	1_percent	nancy pelosi	0.1307
+0.1_percent	2021	low risk	0.0929	1_percent	flu shots	0.1307
+0.1_percent	2021	indigenous peoples	0.0928	1_percent	regular insulation	0.1305
+0.1_percent	2021	prime day	0.0928	1_percent	biden administration	0.1304
+0.1_percent	2021	walgreen drug store	0.0927	1_percent	icu patients	0.1304
+0.1_percent	2021	health ministry	0.0926	1_percent	downing street	0.1303
+0.1_percent	2021	necessary precautions	0.0926	1_percent	sant shri	0.1302
+0.1_percent	2021	white americans	0.0925	1_percent	health services	0.1301
+0.1_percent	2021	kumbh mela	0.0924	1_percent	qr codes	0.1301

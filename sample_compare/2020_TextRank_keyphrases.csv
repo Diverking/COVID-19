@@ -1,0 +1,2001 @@
+Year	Sample	Keyword	Score	Sample	Keyword	Score
+0.1_percent	2020	social distancing	7.426	1_percent	social distancing	7.4664
+0.1_percent	2020	corona virus	4.6265	1_percent	corona virus	4.9317
+0.1_percent	2020	coronavirus outbreak	3.8403	1_percent	coronavirus outbreak	3.6849
+0.1_percent	2020	public health	3.5295	1_percent	new case	3.414
+0.1_percent	2020	new case	3.4168	1_percent	public health	3.3963
+0.1_percent	2020	coronavirus case	3.3196	1_percent	coronavirus case	3.2646
+0.1_percent	2020	wuhan coronavirus	3.1562	1_percent	covid-19 case	2.8855
+0.1_percent	2020	covid-19 case	2.8592	1_percent	covid-19 pandemic	2.7832
+0.1_percent	2020	death toll	2.7614	1_percent	death toll	2.6946
+0.1_percent	2020	international concern	2.737	1_percent	coronavirus pandemic	2.6431
+0.1_percent	2020	coronavirus pandemic	2.7037	1_percent	wuhan coronavirus	2.5992
+0.1_percent	2020	united states	2.692	1_percent	confirmed case	2.497
+0.1_percent	2020	covid-19 pandemic	2.6857	1_percent	covid case	2.4279
+0.1_percent	2020	confirmed case	2.586	1_percent	united states	2.328
+0.1_percent	2020	covid case	2.5748	1_percent	covid death	2.3198
+0.1_percent	2020	president trump	2.5463	1_percent	international concern	2.317
+0.1_percent	2020	emergency of international concern	2.474	1_percent	global pandemic	2.3055
+0.1_percent	2020	covid death	2.4607	1_percent	covid-19 vaccine	2.3017
+0.1_percent	2020	health emergency of international concern	2.421	1_percent	new coronavirus	2.2886
+0.1_percent	2020	global pandemic	2.4137	1_percent	president trump	2.2035
+0.1_percent	2020	white house	2.3764	1_percent	face mask	2.2029
+0.1_percent	2020	covid-19 vaccine	2.3177	1_percent	novel coronavirus	2.1328
+0.1_percent	2020	health care	2.2597	1_percent	health care	2.1203
+0.1_percent	2020	nursing home	2.258	1_percent	nursing home	2.0962
+0.1_percent	2020	new coronavirus	2.2294	1_percent	white house	2.0823
+0.1_percent	2020	donald trump	2.2267	1_percent	many people	2.0785
+0.1_percent	2020	face mask	2.2216	1_percent	global health emergency	2.0725
+0.1_percent	2020	suspected case	2.2077	1_percent	covid vaccine	2.0447
+0.1_percent	2020	novel #coronavirus	2.2064	1_percent	hubei province	2.0007
+0.1_percent	2020	global health emergency	2.2055	1_percent	chinese city	1.9755
+0.1_percent	2020	covid vaccine	2.1901	1_percent	social distance	1.958
+0.1_percent	2020	covid relief	2.1775	1_percent	coronavirus death	1.9483
+0.1_percent	2020	hong kong	2.1767	1_percent	emergency of international concern	1.945
+0.1_percent	2020	novel coronavirus	2.1186	1_percent	hong kong	1.9234
+0.1_percent	2020	hubei province	2.1157	1_percent	donald trump	1.9223
+0.1_percent	2020	ðÿ ̃	2.1119	1_percent	case of coronavirus	1.9181
+0.1_percent	2020	coronavirus death	2.0731	1_percent	covid test	1.916
+0.1_percent	2020	middle of a pandemic	2.0529	1_percent	british airways	1.906
+0.1_percent	2020	cruise ship	2.0497	1_percent	suspected case	1.8923
+0.1_percent	2020	case of coronavirus	2.0487	1_percent	health emergency of international concern	1.891
+0.1_percent	2020	covid test	2.0148	1_percent	china coronavirus	1.8785
+0.1_percent	2020	many people	1.9867	1_percent	other country	1.8724
+0.1_percent	2020	other country	1.9383	1_percent	last week	1.8678
+0.1_percent	2020	trump administration	1.9361	1_percent	health official	1.8519
+0.1_percent	2020	last week	1.9266	1_percent	second wave	1.8388
+0.1_percent	2020	case of #coronavirus	1.9107	1_percent	middle of a pandemic	1.8241
+0.1_percent	2020	social distance	1.9082	1_percent	coronavirus vaccine	1.8202
+0.1_percent	2020	south korea	1.9058	1_percent	small business	1.8098
+0.1_percent	2020	wuhan citizen	1.895	1_percent	covid relief	1.803
+0.1_percent	2020	british airways	1.895	1_percent	virus outbreak	1.7996
+0.1_percent	2020	bat soup	1.895	1_percent	mental health	1.7971
+0.1_percent	2020	kobe bryant	1.895	1_percent	south korea	1.7829
+0.1_percent	2020	first case	1.891	1_percent	cruise ship	1.7804
+0.1_percent	2020	chinese city	1.874	1_percent	trump administration	1.7804
+0.1_percent	2020	coronavirus vaccine	1.8737	1_percent	chinese people	1.7666
+0.1_percent	2020	virus outbreak	1.8537	1_percent	global emergency	1.762
+0.1_percent	2020	joe biden	1.8464	1_percent	wearing mask	1.7584
+0.1_percent	2020	small business	1.846	1_percent	covid patient	1.7539
+0.1_percent	2020	covid patient	1.8427	1_percent	first time	1.7398
+0.1_percent	2020	ไวร ั สโคโรนา	1.842	1_percent	stay home	1.7364
+0.1_percent	2020	american people	1.8382	1_percent	social medium	1.7343
+0.1_percent	2020	new year	1.8324	1_percent	covid-19 death	1.732
+0.1_percent	2020	social medium	1.8295	1_percent	coronavirus fear	1.7194
+0.1_percent	2020	health official	1.8148	1_percent	death rate	1.7172
+0.1_percent	2020	death rate	1.8092	1_percent	deadly coronavirus	1.6963
+0.1_percent	2020	mental health	1.8067	1_percent	chinese government	1.6852
+0.1_percent	2020	diamond princess	1.8	1_percent	eating meat	1.664
+0.1_percent	2020	second wave	1.7941	1_percent	covid-19 palliative	1.659
+0.1_percent	2020	chinese people	1.7894	1_percent	american people	1.6552
+0.1_percent	2020	san lazaro hospital	1.789	1_percent	herd immunity	1.6498
+0.1_percent	2020	wearing mask	1.7801	1_percent	first case	1.6367
+0.1_percent	2020	china coronavirus	1.761	1_percent	kobe bryant	1.635
+0.1_percent	2020	first time	1.7543	1_percent	active case	1.6329
+0.1_percent	2020	deadly coronavirus	1.7517	1_percent	loved one	1.6242
+0.1_percent	2020	new york	1.7512	1_percent	joe biden	1.6205
+0.1_percent	2020	chinese government	1.746	1_percent	wuhan virus	1.6131
+0.1_percent	2020	new variant	1.741	1_percent	new york	1.6122
+0.1_percent	2020	first case of coronavirus	1.74	1_percent	new variant	1.612
+0.1_percent	2020	new strand	1.737	1_percent	diamond princess	1.601
+0.1_percent	2020	covid-19 death	1.7336	1_percent	care home	1.5864
+0.1_percent	2020	stay home	1.7246	1_percent	new year	1.5755
+0.1_percent	2020	health emergency	1.7244	1_percent	coronavirus crisis	1.5732
+0.1_percent	2020	public health emergency	1.721	1_percent	possible case	1.573
+0.1_percent	2020	deadly #coronavirus	1.7155	1_percent	covid-19 test	1.5717
+0.1_percent	2020	wuhan city	1.698	1_percent	covid-19 patient	1.5694
+0.1_percent	2020	herd immunity	1.695	1_percent	health emergency	1.5685
+0.1_percent	2020	global emergency	1.687	1_percent	public health emergency	1.562
+0.1_percent	2020	ไวร ั	1.684	1_percent	last night	1.5598
+0.1_percent	2020	strand of coronavirus	1.684	1_percent	boris johnson	1.5595
+0.1_percent	2020	last night	1.6678	1_percent	positive case	1.5537
+0.1_percent	2020	wuhan virus	1.6625	1_percent	task force	1.5349
+0.1_percent	2020	task force	1.6523	1_percent	infectious disease	1.5347
+0.1_percent	2020	li wenliang	1.644	1_percent	china virus	1.5297
+0.1_percent	2020	loved one	1.6366	1_percent	coronavirus patient	1.5287
+0.1_percent	2020	boris johnson	1.6364	1_percent	first dose	1.523
+0.1_percent	2020	dr. fauci	1.6354	1_percent	fake news	1.5223
+0.1_percent	2020	new strand of coronavirus	1.632	1_percent	sars outbreak	1.5195
+0.1_percent	2020	same family	1.632	1_percent	wuhan citizen	1.519
+0.1_percent	2020	care home	1.6318	1_percent	healthcare worker	1.5178
+0.1_percent	2020	walter reed	1.631	1_percent	good news	1.512
+0.1_percent	2020	active case	1.6238	1_percent	wuhan city	1.511
+0.1_percent	2020	coronavirus response	1.6224	1_percent	press conference	1.5077
+0.1_percent	2020	wild animal	1.622	1_percent	first case of coronavirus	1.5073
+0.1_percent	2020	relief bill	1.6057	1_percent	chinese tourist	1.5045
+0.1_percent	2020	million of students	1.602	1_percent	christmas island	1.503
+0.1_percent	2020	hope hicks	1.597	1_percent	next week	1.5029
+0.1_percent	2020	นธ ุ	1.579	1_percent	young people	1.4989
+0.1_percent	2020	direct flight	1.579	1_percent	holiday season	1.495
+0.1_percent	2020	person-to-person transmission	1.579	1_percent	last year	1.4863
+0.1_percent	2020	china flight	1.579	1_percent	coronavirus epidemic	1.4822
+0.1_percent	2020	pakistani student	1.578	1_percent	total number	1.4802
+0.1_percent	2020	chinese tourist	1.5765	1_percent	covid-19 crisis	1.474
+0.1_percent	2020	ï ̧	1.5747	1_percent	walter reed	1.473
+0.1_percent	2020	first death	1.573	1_percent	merry christmas	1.473
+0.1_percent	2020	positive case	1.5699	1_percent	person-to-person transmission	1.472
+0.1_percent	2020	sars outbreak	1.5695	1_percent	corona virus outbreak	1.4717
+0.1_percent	2020	coronavirus patient	1.5679	1_percent	mask mandate	1.4716
+0.1_percent	2020	covid-19 patient	1.5638	1_percent	new death	1.4703
+0.1_percent	2020	lindsey graham	1.562	1_percent	incubation period	1.4655
+0.1_percent	2020	covid-19 palliative	1.56	1_percent	relief bill	1.465
+0.1_percent	2020	fake news	1.5596	1_percent	world health organization	1.463
+0.1_percent	2020	healthcare worker	1.5581	1_percent	pandemic response	1.4625
+0.1_percent	2020	young people	1.558	1_percent	coronavirus infection	1.4621
+0.1_percent	2020	covid-19 test	1.5578	1_percent	li wenliang	1.459
+0.1_percent	2020	global health	1.5558	1_percent	international emergency	1.457
+0.1_percent	2020	new #coronavirus	1.5556	1_percent	seafood market	1.456
+0.1_percent	2020	christmas island	1.5555	1_percent	family member	1.4506
+0.1_percent	2020	coronavirus fear	1.5536	1_percent	first lady	1.449
+0.1_percent	2020	pandemic response	1.5527	1_percent	new hospital	1.448
+0.1_percent	2020	new strain	1.5493	1_percent	coronavirus response	1.4466
+0.1_percent	2020	washington state	1.5476	1_percent	few day	1.4445
+0.1_percent	2020	china virus	1.5471	1_percent	coronavirus spread	1.4427
+0.1_percent	2020	coronavirus crisis	1.5459	1_percent	diamond princess cruise	1.439
+0.1_percent	2020	infectious disease	1.5458	1_percent	covid-19 outbreak	1.4386
+0.1_percent	2020	first dose	1.539	1_percent	china flight	1.4355
+0.1_percent	2020	new zealand	1.5363	1_percent	eating bat	1.434
+0.1_percent	2020	hiv outbreak	1.533	1_percent	wuhan china	1.4335
+0.1_percent	2020	new hoax	1.531	1_percent	stock market	1.4307
+0.1_percent	2020	ไวร ั สโคโรน ่	1.526	1_percent	state medium	1.43
+0.1_percent	2020	ไวร ั สโคโรน	1.526	1_percent	bat soup	1.4255
+0.1_percent	2020	wuhan outbreak	1.526	1_percent	stay-at-home order	1.4226
+0.1_percent	2020	australian fire	1.526	1_percent	climate change	1.4194
+0.1_percent	2020	สโคโรน ่	1.526	1_percent	hope hicks	1.419
+0.1_percent	2020	liang wudong	1.526	1_percent	front line	1.4186
+0.1_percent	2020	good news	1.525	1_percent	new strain	1.4165
+0.1_percent	2020	press conference	1.5235	1_percent	chinese authority	1.412
+0.1_percent	2020	chinese national	1.5137	1_percent	wuhan coronavirus outbreak	1.4045
+0.1_percent	2020	mask mandate	1.513	1_percent	new zealand	1.4045
+0.1_percent	2020	corona virus outbreak	1.5127	1_percent	conspiracy theory	1.4037
+0.1_percent	2020	world health organization	1.5112	1_percent	corona beer	1.402
+0.1_percent	2020	stay-at-home order	1.5071	1_percent	federal government	1.399
+0.1_percent	2020	next week	1.5069	1_percent	new coronavirus case	1.398
+0.1_percent	2020	front line	1.5058	1_percent	jee exam	1.398
+0.1_percent	2020	neet exam	1.5055	1_percent	chinese national	1.3977
+0.1_percent	2020	holiday season	1.5045	1_percent	wuhan hospital	1.397
+0.1_percent	2020	climate change	1.5028	1_percent	first death	1.3967
+0.1_percent	2020	chinese doctor	1.5003	1_percent	chinese virus	1.3963
+0.1_percent	2020	incubation period	1.4952	1_percent	coronavirus test	1.3962
+0.1_percent	2020	china''s coronavirus	1.4905	1_percent	coronavirus hospital	1.395
+0.1_percent	2020	new coronavirus case	1.4868	1_percent	first coronavirus	1.3948
+0.1_percent	2020	federal government	1.4828	1_percent	mortality rate	1.3946
+0.1_percent	2020	new death	1.4778	1_percent	immune system	1.3913
+0.1_percent	2020	fifth case	1.474	1_percent	covid restriction	1.3903
+0.1_percent	2020	volcanic eruption	1.474	1_percent	coronavirus quarantine	1.3887
+0.1_percent	2020	first person-to-person	1.474	1_percent	other people	1.387
+0.1_percent	2020	temporary ban	1.474	1_percent	test result	1.3863
+0.1_percent	2020	temporary travel	1.474	1_percent	hiv outbreak	1.386
+0.1_percent	2020	wuhan university	1.474	1_percent	confirmed case of coronavirus	1.3857
+0.1_percent	2020	chicago woman	1.474	1_percent	chinese woman	1.3855
+0.1_percent	2020	possible case	1.474	1_percent	sick pay	1.384
+0.1_percent	2020	kelly loeffler	1.471	1_percent	wuhan pneumonia	1.38
+0.1_percent	2020	family member	1.4698	1_percent	washington state	1.3797
+0.1_percent	2020	carrie lam	1.462	1_percent	n95 mask	1.3766
+0.1_percent	2020	merry christmas	1.461	1_percent	lockdown rule	1.376
+0.1_percent	2020	biological weapon	1.4605	1_percent	human right	1.3745
+0.1_percent	2020	coronavirus quarantine	1.4593	1_percent	few week	1.3725
+0.1_percent	2020	stock market	1.456	1_percent	first person-to-person	1.372
+0.1_percent	2020	chinese authority	1.4505	1_percent	number of cases	1.371
+0.1_percent	2020	coronavirus infection	1.4486	1_percent	covid-19 testing	1.3694
+0.1_percent	2020	covid-19 crisis	1.4473	1_percent	global health	1.3642
+0.1_percent	2020	kung flu	1.446	1_percent	dangerous pathogen	1.364
+0.1_percent	2020	protective gear	1.4445	1_percent	health expert	1.3625
+0.1_percent	2020	medical staff	1.4444	1_percent	care worker	1.3615
+0.1_percent	2020	president xi	1.443	1_percent	medical supply	1.3611
+0.1_percent	2020	last year	1.438	1_percent	same time	1.3573
+0.1_percent	2020	seafood market	1.436	1_percent	global public health	1.356
+0.1_percent	2020	lockdown rule	1.4359	1_percent	covid crisis	1.3556
+0.1_percent	2020	total number	1.4326	1_percent	next year	1.3523
+0.1_percent	2020	few day	1.4314	1_percent	allergic reaction	1.35
+0.1_percent	2020	chinese virus	1.4268	1_percent	prime minister	1.3496
+0.1_percent	2020	medical supply	1.426	1_percent	포켓돌즈 팬미팅 미뤄	1.349
+0.1_percent	2020	state medium	1.426	1_percent	san lazaro hospital	1.349
+0.1_percent	2020	corona beer	1.426	1_percent	covid relief bill	1.3476
+0.1_percent	2020	coronavirus test	1.4245	1_percent	quarantined cruise	1.347
+0.1_percent	2020	n95 mask	1.4239	1_percent	health worker	1.3463
+0.1_percent	2020	dr. li wenliang	1.422	1_percent	coronavirus relief	1.3458
+0.1_percent	2020	direct payment	1.422	1_percent	bill gates	1.3452
+0.1_percent	2020	grave situation	1.421	1_percent	unknown origin	1.344
+0.1_percent	2020	sars epidemic	1.421	1_percent	travel ban	1.3437
+0.1_percent	2020	emergency committee	1.421	1_percent	coronavirus death toll	1.342
+0.1_percent	2020	coronavirus in the country	1.421	1_percent	health crisis	1.3417
+0.1_percent	2020	special hospital	1.421	1_percent	grave situation	1.341
+0.1_percent	2020	personal favors	1.421	1_percent	new strand	1.341
+0.1_percent	2020	case of infection	1.421	1_percent	human-to-human transmission	1.3377
+0.1_percent	2020	temporary travel ban	1.421	1_percent	lot of people	1.3377
+0.1_percent	2020	bed hospital	1.421	1_percent	essential worker	1.3332
+0.1_percent	2020	international emergency	1.421	1_percent	deadly virus	1.3331
+0.1_percent	2020	other city	1.42	1_percent	human transmission	1.333
+0.1_percent	2020	lakh of students	1.419	1_percent	face covering	1.3319
+0.1_percent	2020	health expert	1.4167	1_percent	pandemic situation	1.3317
+0.1_percent	2020	covid relief bill	1.4165	1_percent	covid-19 infection	1.3315
+0.1_percent	2020	communist party	1.412	1_percent	positivity rate	1.3286
+0.1_percent	2020	wuhan china	1.4115	1_percent	case of novel coronavirus	1.328
+0.1_percent	2020	reporting case	1.4115	1_percent	home order	1.3266
+0.1_percent	2020	coronavirus testing	1.4111	1_percent	total case	1.3263
+0.1_percent	2020	chris christie	1.411	1_percent	emergency committee	1.325
+0.1_percent	2020	care worker	1.4088	1_percent	chris christie	1.324
+0.1_percent	2020	essential worker	1.4038	1_percent	bbc news	1.3234
+0.1_percent	2020	diamond princess cruise	1.4035	1_percent	new virus	1.3231
+0.1_percent	2020	covid-19 outbreak	1.4034	1_percent	spread of coronavirus	1.3224
+0.1_percent	2020	same time	1.4026	1_percent	coronavirus testing	1.3224
+0.1_percent	2020	travel ban	1.4025	1_percent	christmas eve	1.322
+0.1_percent	2020	other people	1.4023	1_percent	coronavirus update	1.3219
+0.1_percent	2020	chinese woman	1.4005	1_percent	single day	1.3195
+0.1_percent	2020	test kit	1.4003	1_percent	wild animal	1.319
+0.1_percent	2020	map of the soul	1.4	1_percent	black people	1.3181
+0.1_percent	2020	eating meat	1.4	1_percent	suspected coronavirus	1.318
+0.1_percent	2020	coronavirus spread	1.3959	1_percent	potential case	1.318
+0.1_percent	2020	human right	1.3958	1_percent	american airlines	1.318
+0.1_percent	2020	chinese citizen	1.394	1_percent	global public health emergency	1.318
+0.1_percent	2020	first coronavirus	1.3936	1_percent	covid-19 vaccination	1.318
+0.1_percent	2020	mortality rate	1.3917	1_percent	chinese citizen	1.317
+0.1_percent	2020	allergic reaction	1.39	1_percent	direct payment	1.317
+0.1_percent	2020	vaccine dose	1.39	1_percent	supply chain	1.3157
+0.1_percent	2020	first confirmed case	1.388	1_percent	test kit	1.3155
+0.1_percent	2020	conspiracy theory	1.388	1_percent	contact tracing	1.3155
+0.1_percent	2020	few week	1.3878	1_percent	blood component	1.3143
+0.1_percent	2020	mike pence	1.3872	1_percent	amy coney barrett	1.314
+0.1_percent	2020	spread of coronavirus	1.3867	1_percent	infection rate	1.3128
+0.1_percent	2020	new case of coronavirus	1.3858	1_percent	high risk	1.3124
+0.1_percent	2020	coronavirus relief	1.3833	1_percent	breaking news	1.3118
+0.1_percent	2020	jee exam	1.383	1_percent	case of the coronavirus	1.3113
+0.1_percent	2020	vaccine rollout	1.383	1_percent	second lockdown	1.3112
+0.1_percent	2020	covid strain	1.383	1_percent	covid pandemic	1.3111
+0.1_percent	2020	human-to-human transmission	1.3825	1_percent	high alert	1.31
+0.1_percent	2020	wuhan coronavirus outbreak	1.3825	1_percent	case of new coronavirus	1.31
+0.1_percent	2020	covid party	1.38	1_percent	quarantined cruise ship	1.308
+0.1_percent	2020	positivity rate	1.3784	1_percent	covid testing	1.3078
+0.1_percent	2020	chinese fan	1.378	1_percent	chinese doctor	1.3073
+0.1_percent	2020	exam centre	1.377	1_percent	common sense	1.3071
+0.1_percent	2020	chinese virologist	1.377	1_percent	covid-19 relief	1.3065
+0.1_percent	2020	dominic cummings	1.3769	1_percent	few month	1.3058
+0.1_percent	2020	home order	1.3753	1_percent	military base	1.3055
+0.1_percent	2020	contact tracing	1.3753	1_percent	south africa	1.3054
+0.1_percent	2020	health crisis	1.3739	1_percent	first coronavirus death	1.305
+0.1_percent	2020	prime minister	1.3737	1_percent	fox news	1.3047
+0.1_percent	2020	test result	1.3728	1_percent	number of people	1.304
+0.1_percent	2020	covid restriction	1.3707	1_percent	ground zero	1.3025
+0.1_percent	2020	trump rally	1.3693	1_percent	아티스트 보호해 스케줄 취소해	1.302
+0.1_percent	2020	correct way	1.368	1_percent	strand of coronavirus	1.302
+0.1_percent	2020	global public health	1.368	1_percent	chicago woman	1.302
+0.1_percent	2020	ฮ ั ่	1.368	1_percent	fifth case	1.302
+0.1_percent	2020	fourth case	1.368	1_percent	coronavirus situation	1.3017
+0.1_percent	2020	first doctor	1.368	1_percent	case of novel	1.299
+0.1_percent	2020	specialized hospital	1.368	1_percent	coronavirus lockdown	1.2986
+0.1_percent	2020	new strain of coronavirus	1.368	1_percent	positive test	1.2982
+0.1_percent	2020	new disease	1.368	1_percent	covid strain	1.298
+0.1_percent	2020	wuhan coronaviru	1.368	1_percent	national lockdown	1.2976
+0.1_percent	2020	video show	1.368	1_percent	us citizen	1.297
+0.1_percent	2020	people eat	1.368	1_percent	biological weapon	1.2967
+0.1_percent	2020	ใหม ่	1.368	1_percent	deadly pandemic	1.2961
+0.1_percent	2020	quarantine area	1.368	1_percent	carrie lam	1.296
+0.1_percent	2020	nct dream	1.368	1_percent	covid response	1.296
+0.1_percent	2020	case of the virus	1.368	1_percent	neet exam	1.296
+0.1_percent	2020	ฮ ั	1.368	1_percent	coronavirus variant	1.295
+0.1_percent	2020	chinese ppl	1.368	1_percent	medical staff	1.2945
+0.1_percent	2020	respiratory syndrome	1.368	1_percent	엠비케이 팬미팅 취소해	1.294
+0.1_percent	2020	frontline medical staff	1.368	1_percent	티오피 팬미팅 취소해	1.294
+0.1_percent	2020	coronavirus situation	1.3677	1_percent	모든아티스트 스케줄 취소해	1.294
+0.1_percent	2020	wuhan resident	1.3675	1_percent	플레이엠 팬미팅 취소해	1.294
+0.1_percent	2020	viral outbreak	1.3675	1_percent	person-to-person spread	1.294
+0.1_percent	2020	national lockdown	1.3669	1_percent	new strand of coronavirus	1.294
+0.1_percent	2020	post office	1.3665	1_percent	health care worker	1.2934
+0.1_percent	2020	el paso	1.3665	1_percent	biological warfare	1.292
+0.1_percent	2020	close contact	1.366	1_percent	citizen journalist	1.292
+0.1_percent	2020	coronavirus epidemic	1.366	1_percent	direct flight	1.291
+0.1_percent	2020	covid-19 relief	1.3656	1_percent	christmas day	1.29
+0.1_percent	2020	first coronavirus death	1.3645	1_percent	viral outbreak	1.2893
+0.1_percent	2020	supreme court	1.3644	1_percent	supreme court	1.2873
+0.1_percent	2020	lot of people	1.3636	1_percent	nonessential travel	1.287
+0.1_percent	2020	coronavirus update	1.363	1_percent	deadly virus outbreak	1.287
+0.1_percent	2020	opioid epidemic	1.362	1_percent	pakistani student	1.2865
+0.1_percent	2020	single day	1.36	1_percent	hand sanitizer	1.2855
+0.1_percent	2020	suicide figure	1.36	1_percent	live update	1.2853
+0.1_percent	2020	president @realdonaldtrump	1.3598	1_percent	state department	1.2845
+0.1_percent	2020	covid-19 testing	1.3594	1_percent	medical worker	1.2843
+0.1_percent	2020	covid crisis	1.3592	1_percent	coronavirus scare	1.2837
+0.1_percent	2020	second lockdown	1.3582	1_percent	clinical trial	1.2826
+0.1_percent	2020	first lady	1.3575	1_percent	super spreader	1.2815
+0.1_percent	2020	coronavirus evacuee	1.356	1_percent	vaccine distribution	1.2815
+0.1_percent	2020	hunger strike	1.354	1_percent	first coronavirus case	1.281
+0.1_percent	2020	black people	1.3538	1_percent	ten of thousands	1.2801
+0.1_percent	2020	covid19 palliative	1.353	1_percent	long term	1.2799
+0.1_percent	2020	bob woodward	1.3515	1_percent	pfizer vaccine	1.2795
+0.1_percent	2020	breaking news	1.35	1_percent	same family	1.279
+0.1_percent	2020	health worker	1.3491	1_percent	respiratory syndrome	1.279
+0.1_percent	2020	countries report	1.348	1_percent	australian fire	1.279
+0.1_percent	2020	coronavirus panic	1.3425	1_percent	right thing	1.2787
+0.1_percent	2020	medical worker	1.3424	1_percent	second case	1.2777
+0.1_percent	2020	citizen journalist	1.342	1_percent	president xi	1.2772
+0.1_percent	2020	immune system	1.341	1_percent	el paso	1.2765
+0.1_percent	2020	quarantine zone	1.341	1_percent	close contact	1.276
+0.1_percent	2020	virus fear	1.341	1_percent	northern beach	1.276
+0.1_percent	2020	deadly coronavirus outbreak	1.341	1_percent	health system	1.2756
+0.1_percent	2020	coronavirus death toll	1.3406	1_percent	covid number	1.2756
+0.1_percent	2020	bill gates	1.3391	1_percent	health minister	1.2753
+0.1_percent	2020	spread of #covid19	1.3391	1_percent	mail in ballots	1.273
+0.1_percent	2020	black life	1.3385	1_percent	bob woodward	1.2725
+0.1_percent	2020	infection rate	1.3382	1_percent	travel history	1.2722
+0.1_percent	2020	relief check	1.338	1_percent	coronavirus evacuee	1.272
+0.1_percent	2020	coronavirus strain	1.338	1_percent	chinese official	1.2717
+0.1_percent	2020	covid-19 vaccination	1.3375	1_percent	people eat	1.271
+0.1_percent	2020	few month	1.3373	1_percent	first human-to-human	1.271
+0.1_percent	2020	deadly virus	1.3368	1_percent	wilbur ross	1.271
+0.1_percent	2020	pandemic situation	1.3361	1_percent	cdc report	1.27
+0.1_percent	2020	interest rate	1.336	1_percent	communist party	1.2698
+0.1_percent	2020	tom hanks	1.336	1_percent	freedom of speech	1.269
+0.1_percent	2020	students life	1.3353	1_percent	zero hedge	1.2685
+0.1_percent	2020	deadly pandemic	1.3338	1_percent	coronavirus impact	1.2675
+0.1_percent	2020	face covering	1.3336	1_percent	protective gear	1.2672
+0.1_percent	2020	china''s national health commission	1.3325	1_percent	wildlife trade	1.2665
+0.1_percent	2020	animal market	1.3325	1_percent	wuhan university	1.2655
+0.1_percent	2020	covid pandemic	1.3314	1_percent	disease outbreak	1.2644
+0.1_percent	2020	next year	1.3313	1_percent	coronavirus concern	1.2641
+0.1_percent	2020	health care worker	1.3305	1_percent	contact trace	1.264
+0.1_percent	2020	life of students	1.33	1_percent	relief package	1.2637
+0.1_percent	2020	kellyanne conway	1.33	1_percent	last month	1.2632
+0.1_percent	2020	hazmat suit	1.3295	1_percent	case of person-to-person	1.263
+0.1_percent	2020	total case	1.3293	1_percent	lindsey graham	1.263
+0.1_percent	2020	disease outbreak	1.329	1_percent	covid-19 relief bill	1.263
+0.1_percent	2020	last month	1.3289	1_percent	strain of coronavirus	1.2625
+0.1_percent	2020	strain of coronavirus	1.3245	1_percent	long time	1.2621
+0.1_percent	2020	mitch mcconnell	1.3241	1_percent	first confirmed case	1.262
+0.1_percent	2020	lakh student	1.324	1_percent	mask wear	1.2616
+0.1_percent	2020	ten of thousands	1.3233	1_percent	pcr test	1.2615
+0.1_percent	2020	covid response	1.3229	1_percent	excess death	1.2607
+0.1_percent	2020	coronavirus lockdown	1.3227	1_percent	makeshift hospital	1.2605
+0.1_percent	2020	countries reporting case	1.3215	1_percent	us case	1.2603
+0.1_percent	2020	novel coronavirus outbreak	1.3215	1_percent	trump rally	1.26
+0.1_percent	2020	travel history	1.321	1_percent	new year holiday	1.259
+0.1_percent	2020	concentration camp	1.3207	1_percent	deadly coronavirus outbreak	1.2575
+0.1_percent	2020	virus spread	1.3201	1_percent	good morning	1.2573
+0.1_percent	2020	coronavirus task force	1.3194	1_percent	final year	1.2565
+0.1_percent	2020	confirmed case of coronavirus	1.3183	1_percent	ivory coast	1.256
+0.1_percent	2020	wuhan lab	1.317	1_percent	suspected coronavirus case	1.256
+0.1_percent	2020	texas aandm student	1.316	1_percent	travel warning	1.256
+0.1_percent	2020	new #coronaviru	1.316	1_percent	number of confirmed cases	1.2552
+0.1_percent	2020	upcoming fansign	1.316	1_percent	dominic cummings	1.2546
+0.1_percent	2020	new #coronavirus outbreak	1.316	1_percent	only thing	1.2534
+0.1_percent	2020	엔시티드림 당장 입국시켜	1.316	1_percent	animal market	1.253
+0.1_percent	2020	suspected case of #coronavirus	1.316	1_percent	open border	1.2525
+0.1_percent	2020	outbreak''s center	1.316	1_percent	year holiday	1.2515
+0.1_percent	2020	travel advice	1.316	1_percent	good thing	1.2512
+0.1_percent	2020	transmission of coronavirus	1.316	1_percent	covid rule	1.2506
+0.1_percent	2020	south china morning post	1.316	1_percent	novel coronavirus outbreak	1.25
+0.1_percent	2020	risk of infection	1.316	1_percent	only way	1.2497
+0.1_percent	2020	ฮ ั ่ น	1.316	1_percent	stimulus check	1.2496
+0.1_percent	2020	สโคโรนาสายพ ั นธ ุ	1.316	1_percent	case of the virus	1.249
+0.1_percent	2020	year holiday	1.316	1_percent	charter flight	1.2485
+0.1_percent	2020	ไวร ั สโคโรนาสายพ ั นธ	1.316	1_percent	covid infection	1.2483
+0.1_percent	2020	สโคโรนาสายพ ั นธ	1.316	1_percent	train station	1.248
+0.1_percent	2020	risk assessment	1.316	1_percent	wuhan coronaviru	1.248
+0.1_percent	2020	save other	1.316	1_percent	volcanic eruption	1.248
+0.1_percent	2020	cabin crew	1.316	1_percent	helicopter crash	1.248
+0.1_percent	2020	australian scientist	1.316	1_percent	aged care	1.2477
+0.1_percent	2020	fucking hand	1.316	1_percent	first lockdown	1.2477
+0.1_percent	2020	potential case	1.316	1_percent	covid-19 restriction	1.2476
+0.1_percent	2020	seeking help	1.316	1_percent	new coronavirus outbreak	1.247
+0.1_percent	2020	wuhan pneumonia	1.316	1_percent	thousand of people	1.2466
+0.1_percent	2020	dangerous pathogen	1.316	1_percent	kelly loeffler	1.2465
+0.1_percent	2020	ไวร ั สโคโรนาสายพ	1.316	1_percent	evacuation flight	1.246
+0.1_percent	2020	case of the novel	1.316	1_percent	black friday	1.246
+0.1_percent	2020	spring festival	1.316	1_percent	covid bill	1.245
+0.1_percent	2020	สโคโรนาสายพ ั	1.316	1_percent	trade war	1.2447
+0.1_percent	2020	coronavirus joke	1.316	1_percent	high school	1.2435
+0.1_percent	2020	dream show	1.316	1_percent	mike pence	1.2432
+0.1_percent	2020	biological weapons program	1.316	1_percent	virus fear	1.243
+0.1_percent	2020	case of person-to-person	1.316	1_percent	paid sick leave	1.243
+0.1_percent	2020	wolf pup	1.316	1_percent	damn mask	1.243
+0.1_percent	2020	asu student	1.316	1_percent	opioid epidemic	1.2427
+0.1_percent	2020	melinda gates foundation	1.316	1_percent	hundred of thousands	1.2418
+0.1_percent	2020	weapons program	1.316	1_percent	lassa fever	1.241
+0.1_percent	2020	volcano eruption	1.316	1_percent	whole world	1.2405
+0.1_percent	2020	ukrainian plane	1.316	1_percent	year celebration	1.24
+0.1_percent	2020	taal volcano	1.316	1_percent	live animal	1.24
+0.1_percent	2020	ivory coast	1.316	1_percent	fire outbreak	1.24
+0.1_percent	2020	secretive meeting	1.316	1_percent	plane carry	1.24
+0.1_percent	2020	global public health emergency	1.316	1_percent	tablighi jamaat	1.239
+0.1_percent	2020	suspected novel	1.316	1_percent	coronavirus task force	1.2389
+0.1_percent	2020	turkey earthquake	1.316	1_percent	rudy giuliani	1.238
+0.1_percent	2020	killer coronavirus	1.316	1_percent	surgical mask	1.2378
+0.1_percent	2020	australian bushfire	1.316	1_percent	fatality rate	1.2367
+0.1_percent	2020	helicopter crash	1.316	1_percent	interest rate	1.2365
+0.1_percent	2020	novel coronavirus patient	1.316	1_percent	number of deaths	1.2363
+0.1_percent	2020	super junior	1.316	1_percent	bird flu	1.235
+0.1_percent	2020	coronavirus : death toll	1.316	1_percent	coronavirus restriction	1.2341
+0.1_percent	2020	international health	1.316	1_percent	toilet paper	1.2338
+0.1_percent	2020	epicenter of the outbreak	1.316	1_percent	total death	1.2337
+0.1_percent	2020	ไวร ั สโคโรนาสายพ ั	1.316	1_percent	protective equipment	1.2333
+0.1_percent	2020	number of cases	1.3158	1_percent	grocery store	1.2333
+0.1_percent	2020	high risk	1.3156	1_percent	ghost town	1.233
+0.1_percent	2020	david perdue	1.3135	1_percent	presidential debate	1.2325
+0.1_percent	2020	zero hedge	1.313	1_percent	new case of coronavirus	1.2322
+0.1_percent	2020	hand sanitizer	1.3127	1_percent	wuhan outbreak	1.232
+0.1_percent	2020	covid-19 infection	1.312	1_percent	transmission of coronavirus	1.232
+0.1_percent	2020	open border	1.3115	1_percent	case of infection	1.232
+0.1_percent	2020	tom cotton	1.311	1_percent	suspending flight	1.232
+0.1_percent	2020	freedom of speech	1.311	1_percent	suspected case of coronavirus	1.232
+0.1_percent	2020	research facility	1.311	1_percent	return of jobs	1.232
+0.1_percent	2020	fox news	1.3093	1_percent	volcano eruption	1.232
+0.1_percent	2020	covid testing	1.309	1_percent	communist china	1.2312
+0.1_percent	2020	coronavirus briefing	1.3084	1_percent	mitch mcconnell	1.2312
+0.1_percent	2020	herman cain	1.3077	1_percent	compartment exam	1.231
+0.1_percent	2020	positive test	1.3074	1_percent	rest of the world	1.2307
+0.1_percent	2020	world health organisation	1.306	1_percent	conducting exam	1.2307
+0.1_percent	2020	military base	1.306	1_percent	trump supporter	1.2303
+0.1_percent	2020	state department	1.306	1_percent	circuit breaker	1.23
+0.1_percent	2020	corona case	1.305	1_percent	quarantine zone	1.2295
+0.1_percent	2020	christmas eve	1.305	1_percent	vaccine rollout	1.2295
+0.1_percent	2020	number of people	1.3042	1_percent	travel restriction	1.2291
+0.1_percent	2020	à ̧	1.303	1_percent	hand sanitiser	1.229
+0.1_percent	2020	election day	1.3024	1_percent	election day	1.229
+0.1_percent	2020	critical condition	1.3016	1_percent	suicide figure	1.229
+0.1_percent	2020	disease control	1.3012	1_percent	trump admin	1.2286
+0.1_percent	2020	hope bridge	1.3005	1_percent	herman cain	1.2283
+0.1_percent	2020	health minister	1.2998	1_percent	covid-19 response	1.2275
+0.1_percent	2020	sri lanka	1.2995	1_percent	covid-19 lockdown	1.2274
+0.1_percent	2020	case of novel	1.2995	1_percent	travel advisory	1.2273
+0.1_percent	2020	respiratory illness	1.2995	1_percent	chinese health	1.2265
+0.1_percent	2020	case of novel coronavirus	1.2995	1_percent	respiratory illness	1.2263
+0.1_percent	2020	covid-19 coronavirus	1.2995	1_percent	postal service	1.226
+0.1_percent	2020	bbc news	1.2957	1_percent	north korea	1.2256
+0.1_percent	2020	aged care	1.2955	1_percent	temporary ban	1.225
+0.1_percent	2020	supply chain	1.2953	1_percent	new year celebration	1.225
+0.1_percent	2020	postal service	1.2947	1_percent	health insurance	1.2249
+0.1_percent	2020	common sense	1.2934	1_percent	coronavirus panic	1.2247
+0.1_percent	2020	stimulus check	1.292	1_percent	orange county	1.223
+0.1_percent	2020	northern beach	1.292	1_percent	lakh student	1.223
+0.1_percent	2020	china''s hubei province	1.2915	1_percent	nancy pelosi	1.2228
+0.1_percent	2020	relief package	1.2911	1_percent	infected patient	1.2225
+0.1_percent	2020	health insurance	1.2909	1_percent	disease control	1.2223
+0.1_percent	2020	unemployment benefit	1.2894	1_percent	million of students	1.222
+0.1_percent	2020	entrance exam	1.289	1_percent	swine flu	1.2199
+0.1_percent	2020	jee neet	1.289	1_percent	side effect	1.2197
+0.1_percent	2020	enough test	1.288	1_percent	corona case	1.219
+0.1_percent	2020	panic buy	1.288	1_percent	testing kit	1.2185
+0.1_percent	2020	right thing	1.2878	1_percent	uk government	1.2183
+0.1_percent	2020	conducting exam	1.287	1_percent	virus spread	1.2177
+0.1_percent	2020	coronavirus threat	1.2868	1_percent	chinese coronavirus	1.2176
+0.1_percent	2020	nancy pelosi	1.2867	1_percent	wuhan market	1.217
+0.1_percent	2020	george floyd	1.2867	1_percent	plane crash	1.217
+0.1_percent	2020	survival check	1.286	1_percent	multiple country	1.217
+0.1_percent	2020	coronavirus variant	1.286	1_percent	first human-to-human transmission	1.217
+0.1_percent	2020	trump campaign	1.2845	1_percent	flu shot	1.2168
+0.1_percent	2020	live update	1.2842	1_percent	same thing	1.2167
+0.1_percent	2020	wuhan hospital	1.284	1_percent	social distancing rule	1.2153
+0.1_percent	2020	taxi driver	1.284	1_percent	memorial day weekend	1.215
+0.1_percent	2020	antibody cocktail	1.284	1_percent	great reset	1.2147
+0.1_percent	2020	breaking : coronavirus death	1.2835	1_percent	staying home	1.2141
+0.1_percent	2020	southern border	1.2835	1_percent	distancing rule	1.2138
+0.1_percent	2020	super spreader	1.2833	1_percent	bed hospital	1.2135
+0.1_percent	2020	breaking lockdown rule	1.283	1_percent	spread of the virus	1.2132
+0.1_percent	2020	barack obama	1.283	1_percent	cases today	1.213
+0.1_percent	2020	testing kit	1.2824	1_percent	other city	1.2125
+0.1_percent	2020	pfizer vaccine	1.2815	1_percent	economic crisis	1.2125
+0.1_percent	2020	chinese coronavirus	1.281	1_percent	vaccine trial	1.2123
+0.1_percent	2020	china #coronavirus	1.28	1_percent	world health organisation	1.212
+0.1_percent	2020	pcr test	1.2796	1_percent	central bank	1.212
+0.1_percent	2020	secret service	1.2795	1_percent	labor day	1.212
+0.1_percent	2020	covid number	1.2794	1_percent	new study	1.2119
+0.1_percent	2020	light on climate change	1.279	1_percent	speedy recovery	1.2117
+0.1_percent	2020	domestic abuse	1.279	1_percent	other state	1.2115
+0.1_percent	2020	injecting disinfectant	1.279	1_percent	wet market	1.2112
+0.1_percent	2020	covid aid	1.279	1_percent	cruise ship passenger	1.211
+0.1_percent	2020	blood component	1.2786	1_percent	international student	1.211
+0.1_percent	2020	trump admin	1.2771	1_percent	lakh of students	1.211
+0.1_percent	2020	tulsa rally	1.277	1_percent	covid-19 coronavirus	1.2105
+0.1_percent	2020	hundred of thousands	1.2769	1_percent	covid outbreak	1.2093
+0.1_percent	2020	south africa	1.2758	1_percent	flu season	1.2091
+0.1_percent	2020	presidential debate	1.2755	1_percent	wuhan resident	1.209
+0.1_percent	2020	case of the coronavirus	1.2748	1_percent	spring festival	1.209
+0.1_percent	2020	memorial day	1.2745	1_percent	wolf pup	1.209
+0.1_percent	2020	communist china	1.2743	1_percent	wuhan virus outbreak	1.209
+0.1_percent	2020	final year	1.2733	1_percent	lockdown period	1.2086
+0.1_percent	2020	severe case	1.273	1_percent	chinese community	1.2085
+0.1_percent	2020	need #blood type	1.2727	1_percent	tear gas	1.2085
+0.1_percent	2020	need #blood	1.2727	1_percent	chief of staff	1.2085
+0.1_percent	2020	circuit breaker	1.2725	1_percent	spread of the coronavirus	1.2084
+0.1_percent	2020	sick pay	1.272	1_percent	coronavirus threat	1.2084
+0.1_percent	2020	federal reserve	1.272	1_percent	icu bed	1.2083
+0.1_percent	2020	covid stimulus	1.272	1_percent	spanish flu	1.208
+0.1_percent	2020	new virus	1.2719	1_percent	self isolation	1.208
+0.1_percent	2020	bird flu	1.271	1_percent	fucking mask	1.2079
+0.1_percent	2020	north korea	1.2708	1_percent	outbreak of the coronavirus	1.2075
+0.1_percent	2020	paid sick leave	1.2708	1_percent	virus death toll	1.2075
+0.1_percent	2020	second case	1.2707	1_percent	local lockdown	1.2074
+0.1_percent	2020	icu bed	1.2706	1_percent	wear mask	1.2073
+0.1_percent	2020	good morning	1.2705	1_percent	economic recovery	1.2073
+0.1_percent	2020	only way	1.2694	1_percent	kellyanne conway	1.207
+0.1_percent	2020	trump supporter	1.2692	1_percent	frontline worker	1.2067
+0.1_percent	2020	long time	1.269	1_percent	covid vaccination	1.206
+0.1_percent	2020	chinese official	1.2677	1_percent	concentration camp	1.2056
+0.1_percent	2020	excess death	1.2676	1_percent	public transport	1.205
+0.1_percent	2020	chinese mainland	1.267	1_percent	case of unknown origin	1.205
+0.1_percent	2020	chinese ambassador	1.267	1_percent	spring break	1.205
+0.1_percent	2020	china''s response	1.267	1_percent	midst of a pandemic	1.2046
+0.1_percent	2020	whistleblower doctor	1.267	1_percent	recovery rate	1.2046
+0.1_percent	2020	rush limbaugh	1.267	1_percent	global epidemic	1.204
+0.1_percent	2020	confirmed #coronavirus case	1.267	1_percent	tom cruise	1.204
+0.1_percent	2020	quarantined cruise	1.267	1_percent	health issue	1.2037
+0.1_percent	2020	quarantined cruise ship	1.267	1_percent	great job	1.2036
+0.1_percent	2020	travel restriction	1.2666	1_percent	last time	1.2034
+0.1_percent	2020	case of the novel coronavirus	1.266	1_percent	ship passenger	1.202
+0.1_percent	2020	जग ा	1.266	1_percent	exam in covid	1.202
+0.1_percent	2020	fetal tissue	1.266	1_percent	million of people	1.2019
+0.1_percent	2020	gold star family	1.266	1_percent	difficult time	1.2019
+0.1_percent	2020	surgical mask	1.2632	1_percent	cdc guideline	1.2018
+0.1_percent	2020	포켓돌즈 팬미팅 미뤄	1.263	1_percent	healthcare system	1.2011
+0.1_percent	2020	าสายพ ั นธ	1.263	1_percent	covid lockdown	1.2011
+0.1_percent	2020	าสายพ ั	1.263	1_percent	case of the novel	1.201
+0.1_percent	2020	city of #wuhan	1.263	1_percent	correct way	1.201
+0.1_percent	2020	สโคโรน ่ าสายพ ั นธ	1.263	1_percent	chinese new year	1.201
+0.1_percent	2020	สโคโรน ่ าสายพ ั	1.263	1_percent	lyme disease	1.201
+0.1_percent	2020	ร ั ฐบาลเฮงซวย	1.263	1_percent	air canada	1.201
+0.1_percent	2020	สอ ู	1.263	1_percent	case of human-to-human	1.201
+0.1_percent	2020	message from a medical staff	1.263	1_percent	international public health	1.201
+0.1_percent	2020	ไวร ั สโคโรน ่ า	1.263	1_percent	wuhan region	1.201
+0.1_percent	2020	ไวร ั สโคโรน ่ าสายพ	1.263	1_percent	bio-warfare program	1.201
+0.1_percent	2020	าสายพ ั นธ ุ	1.263	1_percent	pirbright institute	1.201
+0.1_percent	2020	สโคโรน ่ าสายพ	1.263	1_percent	mass protest	1.201
+0.1_percent	2020	สอ ู ่	1.263	1_percent	disney world	1.201
+0.1_percent	2020	case of new strand	1.263	1_percent	spreader event	1.201
+0.1_percent	2020	flying mammal	1.263	1_percent	sars epidemic	1.2005
+0.1_percent	2020	coronavirus thing	1.263	1_percent	isolation ward	1.2
+0.1_percent	2020	ontario health	1.263	1_percent	health ministry	1.1999
+0.1_percent	2020	ontario health official	1.263	1_percent	possible coronavirus	1.1997
+0.1_percent	2020	someone cough	1.263	1_percent	emergency use	1.1996
+0.1_percent	2020	fifth case of coronavirus	1.263	1_percent	north america	1.1995
+0.1_percent	2020	china''s feeling	1.263	1_percent	police brutality	1.1989
+0.1_percent	2020	novel coronaviru	1.263	1_percent	saudi arabia	1.1984
+0.1_percent	2020	allowing flight	1.263	1_percent	injecting disinfectant	1.198
+0.1_percent	2020	immediate effect	1.263	1_percent	jee neet	1.198
+0.1_percent	2020	potential for the virus	1.263	1_percent	covid diagnosis	1.198
+0.1_percent	2020	new year celebration	1.263	1_percent	happy holiday	1.198
+0.1_percent	2020	popular dish	1.263	1_percent	george floyd	1.1978
+0.1_percent	2020	suspected case of coronavirus	1.263	1_percent	shaking hand	1.1977
+0.1_percent	2020	ncov outbreak	1.263	1_percent	lockdown measure	1.1967
+0.1_percent	2020	ncov case	1.263	1_percent	coronavirus strain	1.1965
+0.1_percent	2020	horror movie	1.263	1_percent	health authority	1.1962
+0.1_percent	2020	emergency declaration	1.263	1_percent	rush limbaugh	1.196
+0.1_percent	2020	filipino people	1.263	1_percent	lockdown restriction	1.196
+0.1_percent	2020	same city	1.263	1_percent	memorial day	1.196
+0.1_percent	2020	member of the same family	1.263	1_percent	covid-19 diagnosis	1.196
+0.1_percent	2020	mental breakdown	1.263	1_percent	survival rate	1.1952
+0.1_percent	2020	charter flight	1.263	1_percent	covid-19 variant	1.195
+0.1_percent	2020	help from the world	1.263	1_percent	new hoax	1.1947
+0.1_percent	2020	center of the outbreak	1.263	1_percent	physical distancing	1.1945
+0.1_percent	2020	request for details	1.263	1_percent	chinese bio-warfare	1.194
+0.1_percent	2020	detention centre	1.263	1_percent	chinese bio-warfare program	1.194
+0.1_percent	2020	civilized society	1.263	1_percent	case of pneumonia	1.194
+0.1_percent	2020	u.s. cdc	1.263	1_percent	toll jump	1.194
+0.1_percent	2020	leishenshan hospital	1.263	1_percent	temporary travel	1.194
+0.1_percent	2020	chinese spy	1.263	1_percent	quarantine area	1.194
+0.1_percent	2020	trump impeachment	1.263	1_percent	confirmed case of the coronavirus	1.194
+0.1_percent	2020	live koala	1.263	1_percent	coronavirus act	1.194
+0.1_percent	2020	toll jump	1.263	1_percent	chen qiushi	1.193
+0.1_percent	2020	square meter	1.263	1_percent	hard work	1.1928
+0.1_percent	2020	ร ั	1.263	1_percent	chinese state	1.1925
+0.1_percent	2020	นธ ุ ์	1.263	1_percent	tulsa rally	1.192
+0.1_percent	2020	coronavirus hospital	1.263	1_percent	good luck	1.1918
+0.1_percent	2020	hubei xinhua hospital	1.263	1_percent	good job	1.1918
+0.1_percent	2020	confirmed infection	1.263	1_percent	big deal	1.1913
+0.1_percent	2020	video from a hospital	1.263	1_percent	testing site	1.1909
+0.1_percent	2020	wuhan corona virus	1.263	1_percent	executive order	1.1907
+0.1_percent	2020	bio-warfare program	1.263	1_percent	students life	1.1907
+0.1_percent	2020	epicentre of the coronavirus	1.263	1_percent	covid situation	1.1903
+0.1_percent	2020	maricopa county	1.263	1_percent	third case	1.19
+0.1_percent	2020	case of human-to-human	1.263	1_percent	chinese mainland	1.19
+0.1_percent	2020	epicentre of the coronavirus outbreak	1.263	1_percent	chinese ambassador	1.19
+0.1_percent	2020	สโคโรน ่ า	1.263	1_percent	whistleblower doctor	1.19
+0.1_percent	2020	wuhan region	1.263	1_percent	vaccine dose	1.19
+0.1_percent	2020	wilbur ross	1.263	1_percent	antibody test	1.1897
+0.1_percent	2020	majority of cases	1.263	1_percent	covid time	1.1897
+0.1_percent	2020	death toll jump	1.263	1_percent	food market	1.1893
+0.1_percent	2020	voice message	1.263	1_percent	chinese scientist	1.1893
+0.1_percent	2020	risk of coronavirus	1.263	1_percent	treating patient	1.1887
+0.1_percent	2020	year of the rat	1.263	1_percent	wuhan lab	1.1887
+0.1_percent	2020	high alert	1.263	1_percent	global spread	1.1885
+0.1_percent	2020	chemical biology	1.263	1_percent	global outbreak	1.1877
+0.1_percent	2020	pirbright institute	1.263	1_percent	coronavirus task	1.1877
+0.1_percent	2020	biological warfare	1.262	1_percent	hazmat suit	1.1873
+0.1_percent	2020	case of novel #coronavirus	1.262	1_percent	fear of coronavirus	1.187
+0.1_percent	2020	economic crisis	1.2616	1_percent	gun violence epidemic	1.187
+0.1_percent	2020	food market	1.261	1_percent	gas mask	1.187
+0.1_percent	2020	only thing	1.2606	1_percent	election night	1.187
+0.1_percent	2020	clinical trial	1.2605	1_percent	relief check	1.187
+0.1_percent	2020	vaccine distribution	1.2597	1_percent	common cold	1.1869
+0.1_percent	2020	mask wear	1.2591	1_percent	covid-19 update	1.1866
+0.1_percent	2020	र ो जग	1.259	1_percent	new york city	1.1865
+0.1_percent	2020	र ो जग ा	1.259	1_percent	sars virus	1.186
+0.1_percent	2020	travel advisory	1.2585	1_percent	china coronavirus outbreak	1.186
+0.1_percent	2020	eating bat	1.2585	1_percent	first case of novel coronavirus	1.186
+0.1_percent	2020	coronavirus task	1.2585	1_percent	center of the outbreak	1.186
+0.1_percent	2020	distancing rule	1.2583	1_percent	stable condition	1.186
+0.1_percent	2020	case of #covid19	1.2569	1_percent	special hospital	1.186
+0.1_percent	2020	serious condition	1.2567	1_percent	possible case of coronavirus	1.186
+0.1_percent	2020	covid-19 restriction	1.2567	1_percent	death toll jump	1.186
+0.1_percent	2020	seattle area	1.256	1_percent	chemical biology	1.186
+0.1_percent	2020	number of deaths	1.2559	1_percent	coronavirus test kit	1.186
+0.1_percent	2020	frontline worker	1.2557	1_percent	pre-existing condition	1.1857
+0.1_percent	2020	long term	1.2555	1_percent	job loss	1.1854
+0.1_percent	2020	plane crash	1.2545	1_percent	first wave	1.1852
+0.1_percent	2020	us case	1.254	1_percent	false positive	1.1852
+0.1_percent	2020	suspected coronavirus	1.2535	1_percent	current outbreak	1.185
+0.1_percent	2020	thousand of people	1.2535	1_percent	bernie sanders	1.185
+0.1_percent	2020	व ा	1.2535	1_percent	aircraft carrier	1.185
+0.1_percent	2020	ष ्	1.253	1_percent	american life	1.1848
+0.1_percent	2020	wet market	1.2525	1_percent	unemployment benefit	1.1847
+0.1_percent	2020	contact trace	1.2522	1_percent	trade deal	1.1843
+0.1_percent	2020	new study	1.2518	1_percent	deputy health minister	1.184
+0.1_percent	2020	mark meadows	1.2515	1_percent	neet jee	1.184
+0.1_percent	2020	sick leave	1.2508	1_percent	gold star family	1.184
+0.1_percent	2020	ghost town	1.2505	1_percent	north dakota	1.184
+0.1_percent	2020	u.s. case	1.2505	1_percent	new coronavirus strain	1.184
+0.1_percent	2020	confirmed #coronavirus	1.25	1_percent	migrant worker	1.1833
+0.1_percent	2020	violence epidemic	1.25	1_percent	press briefing	1.1832
+0.1_percent	2020	gun violence epidemic	1.25	1_percent	liquor shop	1.183
+0.1_percent	2020	speedy recovery	1.2499	1_percent	happy thanksgiving	1.183
+0.1_percent	2020	mike lee	1.249	1_percent	new york times	1.1828
+0.1_percent	2020	melania trump	1.249	1_percent	people die	1.1827
+0.1_percent	2020	social distancing rule	1.2477	1_percent	white people	1.1823
+0.1_percent	2020	cases today	1.2472	1_percent	record number	1.1823
+0.1_percent	2020	protective suit	1.247	1_percent	sick leave	1.1822
+0.1_percent	2020	flu outbreak	1.247	1_percent	distancing measure	1.182
+0.1_percent	2020	locust outbreak	1.247	1_percent	year student	1.182
+0.1_percent	2020	huoshenshan hospital	1.247	1_percent	entrance exam	1.182
+0.1_percent	2020	ट ्	1.247	1_percent	rose garden	1.182
+0.1_percent	2020	ष ् ट ् र	1.247	1_percent	trump campaign	1.1816
+0.1_percent	2020	ष ् ट ्	1.247	1_percent	intensive care	1.1815
+0.1_percent	2020	ट ् र	1.247	1_percent	new record	1.1813
+0.1_percent	2020	ट ् र ी	1.247	1_percent	outbreak spread	1.181
+0.1_percent	2020	ष ् ट	1.247	1_percent	new lockdown	1.1807
+0.1_percent	2020	christmas day	1.247	1_percent	school year	1.1805
+0.1_percent	2020	tom cruise	1.247	1_percent	novel corona virus	1.18
+0.1_percent	2020	data scientist	1.247	1_percent	coronavirus briefing	1.1795
+0.1_percent	2020	health system	1.2463	1_percent	coronavirus bill	1.1793
+0.1_percent	2020	national security	1.2458	1_percent	super spreader event	1.1787
+0.1_percent	2020	us coronavirus death	1.2455	1_percent	medical equipment	1.1786
+0.1_percent	2020	covid outbreak	1.2455	1_percent	melinda gates foundation	1.1785
+0.1_percent	2020	health authority	1.2454	1_percent	health security	1.178
+0.1_percent	2020	jared kushner	1.2443	1_percent	killer virus	1.178
+0.1_percent	2020	global health crisis	1.244	1_percent	hk government	1.178
+0.1_percent	2020	hiv drug	1.244	1_percent	world economic forum	1.178
+0.1_percent	2020	harper''s bazaar	1.244	1_percent	united airlines	1.178
+0.1_percent	2020	china''s government	1.244	1_percent	resident evil	1.178
+0.1_percent	2020	mobile morgue	1.244	1_percent	other part	1.178
+0.1_percent	2020	र ी	1.2435	1_percent	public transportation	1.178
+0.1_percent	2020	covid rule	1.2432	1_percent	epicenter of the coronavirus outbreak	1.178
+0.1_percent	2020	healthcare system	1.2431	1_percent	people collapse	1.178
+0.1_percent	2020	gassed immigrant	1.243	1_percent	year of the rat	1.178
+0.1_percent	2020	compartment exam	1.243	1_percent	million people	1.178
+0.1_percent	2020	big difference	1.242	1_percent	chinese restaurant	1.178
+0.1_percent	2020	exam in covid	1.242	1_percent	chinese virologist	1.178
+0.1_percent	2020	white people	1.2419	1_percent	cause of death	1.1777
+0.1_percent	2020	rest of the world	1.2418	1_percent	south dakota	1.1777
+0.1_percent	2020	य ब े	1.241	1_percent	tom hanks	1.177
+0.1_percent	2020	य ब	1.241	1_percent	covid-19 list	1.1767
+0.1_percent	2020	य ब े र ो	1.241	1_percent	middle east	1.1764
+0.1_percent	2020	र ी य ब े	1.241	1_percent	business owner	1.1764
+0.1_percent	2020	ट ् र ी य ब	1.241	1_percent	case of the novel coronavirus	1.1763
+0.1_percent	2020	र ी य ब े र	1.241	1_percent	panic buying	1.176
+0.1_percent	2020	र ी य ब	1.241	1_percent	rate cut	1.176
+0.1_percent	2020	य ब े र ो जग	1.241	1_percent	lockdown order	1.1756
+0.1_percent	2020	य ब े र	1.241	1_percent	daily case	1.1756
+0.1_percent	2020	र ा ष ्	1.241	1_percent	first person	1.1753
+0.1_percent	2020	र ा ष ् ट	1.241	1_percent	virus case	1.1751
+0.1_percent	2020	र ा ष	1.241	1_percent	mobile world congress	1.175
+0.1_percent	2020	pre-existing condition	1.2407	1_percent	coronavirus czar	1.175
+0.1_percent	2020	mask in public	1.2407	1_percent	saving life	1.175
+0.1_percent	2020	new hospital	1.2403	1_percent	covid party	1.175
+0.1_percent	2020	big deal	1.2403	1_percent	supreme court nominee	1.175
+0.1_percent	2020	coronavirus concern	1.2401	1_percent	corona warrior	1.1746
+0.1_percent	2020	self isolation	1.24	1_percent	flu outbreak	1.1745
+0.1_percent	2020	omg i	1.24	1_percent	chinese food	1.1743
+0.1_percent	2020	pandemic relief	1.24	1_percent	global economy	1.1742
+0.1_percent	2020	rebekah jones	1.24	1_percent	medical expert	1.1742
+0.1_percent	2020	new #covid19	1.2399	1_percent	nhs staff	1.1742
+0.1_percent	2020	reopening school	1.2383	1_percent	covid-19 virus	1.174
+0.1_percent	2020	known case	1.238	1_percent	price gouging	1.174
+0.1_percent	2020	dolly parton	1.238	1_percent	black life	1.174
+0.1_percent	2020	mail in ballots	1.238	1_percent	labor day weekend	1.174
+0.1_percent	2020	first responder	1.2378	1_percent	mark meadows	1.174
+0.1_percent	2020	police brutality	1.2375	1_percent	dolly parton	1.174
+0.1_percent	2020	damn mask	1.2369	1_percent	covid symptom	1.1739
+0.1_percent	2020	migrant worker	1.2367	1_percent	mask in public	1.1739
+0.1_percent	2020	grocery store	1.2366	1_percent	critical condition	1.1738
+0.1_percent	2020	south dakota	1.2363	1_percent	election result	1.173
+0.1_percent	2020	global outbreak	1.236	1_percent	kamala harris	1.1728
+0.1_percent	2020	orange county	1.235	1_percent	black lives matter	1.1727
+0.1_percent	2020	bernie sanders	1.235	1_percent	chinese man	1.1725
+0.1_percent	2020	reported case	1.2342	1_percent	confirmed coronavirus	1.1723
+0.1_percent	2020	same thing	1.2342	1_percent	coronavirus victim	1.1722
+0.1_percent	2020	first lockdown	1.2332	1_percent	epicenter of the coronavirus	1.172
+0.1_percent	2020	million of people	1.2329	1_percent	chinese police	1.172
+0.1_percent	2020	covid-19 lockdown	1.2328	1_percent	quarantine facility	1.1713
+0.1_percent	2020	high school	1.2323	1_percent	medical professional	1.1713
+0.1_percent	2020	cristiano ronaldo	1.232	1_percent	national security	1.171
+0.1_percent	2020	outbreak of #coronavirus	1.2315	1_percent	novel coronaviru	1.171
+0.1_percent	2020	difficult time	1.2312	1_percent	serious condition	1.171
+0.1_percent	2020	election night	1.231	1_percent	covid19 palliative	1.171
+0.1_percent	2020	number of confirmed cases	1.2308	1_percent	first shipment	1.171
+0.1_percent	2020	covid infection	1.2307	1_percent	cases surge	1.1709
+0.1_percent	2020	mass gathering	1.23	1_percent	first responder	1.1709
+0.1_percent	2020	taking hydroxychloroquine	1.23	1_percent	epicenter of the outbreak	1.1705
+0.1_percent	2020	pride month	1.23	1_percent	police officer	1.1702
+0.1_percent	2020	postponement of exams	1.23	1_percent	staff member	1.1701
+0.1_percent	2020	र ा	1.229	1_percent	ebola outbreak	1.17
+0.1_percent	2020	spread of #coronavirus	1.2287	1_percent	fourth case	1.17
+0.1_percent	2020	rudy giuliani	1.2283	1_percent	new disease	1.17
+0.1_percent	2020	vaccine trial	1.2276	1_percent	wuhan coronavirus case	1.17
+0.1_percent	2020	great reset	1.227	1_percent	first suspected case	1.17
+0.1_percent	2020	covid-19 variant	1.227	1_percent	taal volcano	1.17
+0.1_percent	2020	happy holiday	1.227	1_percent	detention camp	1.17
+0.1_percent	2020	last time	1.2268	1_percent	pneumonia outbreak	1.17
+0.1_percent	2020	chief of staff	1.2265	1_percent	first doctor	1.17
+0.1_percent	2020	health security	1.226	1_percent	suicide mission	1.17
+0.1_percent	2020	covid-19 diagnosis	1.226	1_percent	protective mask	1.17
+0.1_percent	2020	treating patient	1.2258	1_percent	ukrainian plane	1.17
+0.1_percent	2020	chinese food	1.2257	1_percent	pandemic exercise	1.17
+0.1_percent	2020	toilet paper	1.225	1_percent	passengers arrive	1.17
+0.1_percent	2020	spreading coronavirus	1.225	1_percent	air traffic	1.17
+0.1_percent	2020	us election	1.225	1_percent	social distancing guideline	1.1699
+0.1_percent	2020	medical team	1.2247	1_percent	same people	1.1698
+0.1_percent	2020	novel #coronavirus outbreak	1.2245	1_percent	coronavirus symptom	1.1697
+0.1_percent	2020	epicenter of the coronavirus	1.2245	1_percent	southern border	1.1695
+0.1_percent	2020	american life	1.2245	1_percent	economic impact	1.1693
+0.1_percent	2020	stimulus bill	1.2245	1_percent	spreading coronavirus	1.1693
+0.1_percent	2020	midst of a pandemic	1.2242	1_percent	virus epidemic	1.169
+0.1_percent	2020	rhode island	1.224	1_percent	huoshenshan hospital	1.169
+0.1_percent	2020	san francisco	1.2239	1_percent	news agency	1.169
+0.1_percent	2020	good thing	1.2238	1_percent	spreading rumor	1.169
+0.1_percent	2020	other state	1.2235	1_percent	deputy health	1.169
+0.1_percent	2020	jim jordan	1.223	1_percent	vaccine news	1.168
+0.1_percent	2020	fatality rate	1.2229	1_percent	great news	1.1677
+0.1_percent	2020	spanish flu	1.2223	1_percent	barnard castle	1.167
+0.1_percent	2020	first #coronavirus	1.222	1_percent	social distancing measure	1.1665
+0.1_percent	2020	deputy health	1.222	1_percent	presumptive case	1.1663
+0.1_percent	2020	seoul concert	1.222	1_percent	health department	1.166
+0.1_percent	2020	ebola outbreak	1.222	1_percent	chinese govt	1.166
+0.1_percent	2020	mick mulvaney	1.222	1_percent	warfare weapon	1.166
+0.1_percent	2020	deputy health minister	1.222	1_percent	distancing guideline	1.166
+0.1_percent	2020	internment camp	1.222	1_percent	vaccine today	1.166
+0.1_percent	2020	fear of coronavirus	1.222	1_percent	boxing day	1.166
+0.1_percent	2020	border security	1.222	1_percent	safety measure	1.1654
+0.1_percent	2020	coronavirus czar	1.222	1_percent	virus death	1.1652
+0.1_percent	2020	pandemic disease	1.222	1_percent	reopening school	1.165
+0.1_percent	2020	border wall	1.222	1_percent	covid protocol	1.1648
+0.1_percent	2020	olivia troye	1.222	1_percent	new infection	1.1646
+0.1_percent	2020	testing system	1.222	1_percent	washington post	1.1645
+0.1_percent	2020	physical distancing	1.2212	1_percent	new restriction	1.1645
+0.1_percent	2020	saudi arabia	1.2211	1_percent	pandemic p	1.1643
+0.1_percent	2020	press briefing	1.2211	1_percent	country in the world	1.1642
+0.1_percent	2020	shaking hand	1.221	1_percent	air india	1.164
+0.1_percent	2020	government shutdown	1.221	1_percent	hong kong government	1.164
+0.1_percent	2020	wear mask	1.2208	1_percent	start of the pandemic	1.1637
+0.1_percent	2020	whole world	1.2207	1_percent	medical team	1.1634
+0.1_percent	2020	east africa	1.2205	1_percent	엔시티드림 당장 입국시켜	1.163
+0.1_percent	2020	ve #covid19	1.2203	1_percent	coronavirus joke	1.163
+0.1_percent	2020	police station	1.22	1_percent	essential travel	1.163
+0.1_percent	2020	great job	1.2194	1_percent	wildlife market	1.163
+0.1_percent	2020	protective equipment	1.2194	1_percent	international public health emergency	1.163
+0.1_percent	2020	ve #covid19 recovered patient	1.2193	1_percent	chartered flight	1.163
+0.1_percent	2020	betsy devos	1.219	1_percent	march air reserve base	1.163
+0.1_percent	2020	kamala harris	1.219	1_percent	acute respiratory syndrome	1.163
+0.1_percent	2020	infected people	1.2188	1_percent	us scientist	1.163
+0.1_percent	2020	uk government	1.2188	1_percent	anti-chinese racism	1.163
+0.1_percent	2020	new year''s eve	1.2185	1_percent	turkey earthquake	1.163
+0.1_percent	2020	wall street	1.218	1_percent	global risk	1.163
+0.1_percent	2020	lakhs student	1.218	1_percent	first person-to-person transmission	1.163
+0.1_percent	2020	transition team	1.218	1_percent	san diego	1.163
+0.1_percent	2020	black friday	1.218	1_percent	japanese cruise	1.163
+0.1_percent	2020	spread of the virus	1.2177	1_percent	global supply chain	1.163
+0.1_percent	2020	washing hand	1.217	1_percent	cdc funding	1.163
+0.1_percent	2020	safe everyone	1.2166	1_percent	cristiano ronaldo	1.163
+0.1_percent	2020	global health security	1.2165	1_percent	great wall	1.162
+0.1_percent	2020	social distancing guideline	1.216	1_percent	media report	1.162
+0.1_percent	2020	herd mentality	1.216	1_percent	post office	1.162
+0.1_percent	2020	side effect	1.2156	1_percent	stay alert	1.162
+0.1_percent	2020	spread of the coronavirus	1.2155	1_percent	lives matter	1.162
+0.1_percent	2020	record number	1.2155	1_percent	good idea	1.1619
+0.1_percent	2020	people die	1.2154	1_percent	relief fund	1.1618
+0.1_percent	2020	stephen miller	1.215	1_percent	covid denier	1.1618
+0.1_percent	2020	tear gas	1.2147	1_percent	heart attack	1.1616
+0.1_percent	2020	total death	1.2146	1_percent	east africa	1.1615
+0.1_percent	2020	asian people	1.214	1_percent	chinese student	1.161
+0.1_percent	2020	new england journal	1.214	1_percent	single source	1.161
+0.1_percent	2020	new coronavirus strain	1.214	1_percent	disgusting people	1.161
+0.1_percent	2020	executive order	1.2136	1_percent	melania trump	1.161
+0.1_percent	2020	new year holiday	1.2135	1_percent	icu capacity	1.161
+0.1_percent	2020	senate republicans	1.2133	1_percent	human life	1.1608
+0.1_percent	2020	chinese state	1.213	1_percent	long covid	1.1608
+0.1_percent	2020	trade war	1.2125	1_percent	coronavirus live update	1.1605
+0.1_percent	2020	र ो	1.2123	1_percent	many time	1.1603
+0.1_percent	2020	breaking lockdown	1.212	1_percent	corona crisis	1.1603
+0.1_percent	2020	texas supreme court	1.212	1_percent	toll rise	1.16
+0.1_percent	2020	flu shot	1.2119	1_percent	david perdue	1.16
+0.1_percent	2020	medical expert	1.2118	1_percent	class size	1.1595
+0.1_percent	2020	conspiracy theorist	1.2116	1_percent	wuhan people	1.159
+0.1_percent	2020	jennie bar	1.211	1_percent	exit strategy	1.159
+0.1_percent	2020	chinese bio-warfare	1.211	1_percent	hospital bed	1.1588
+0.1_percent	2020	chinese bio-warfare program	1.211	1_percent	human being	1.1587
+0.1_percent	2020	china-wide travel ban	1.211	1_percent	chinese gov	1.1585
+0.1_percent	2020	china-wide travel	1.211	1_percent	national health commission	1.1585
+0.1_percent	2020	seto wing hong	1.211	1_percent	body bag	1.1585
+0.1_percent	2020	novel #coronaviru	1.211	1_percent	easing lockdown	1.1585
+0.1_percent	2020	specialized hospital for #coronavirus	1.211	1_percent	first day	1.1584
+0.1_percent	2020	specialized hospital for #coronavirus patients	1.211	1_percent	first place	1.1583
+0.1_percent	2020	china''s #wuhan city	1.211	1_percent	new strain of coronavirus	1.158
+0.1_percent	2020	face mask #coronavirus	1.211	1_percent	gates foundation	1.158
+0.1_percent	2020	new specialized hospital for #coronavirus	1.211	1_percent	self quarantine	1.158
+0.1_percent	2020	hospital for #coronavirus	1.211	1_percent	herd mentality	1.158
+0.1_percent	2020	philippines volcano eruption	1.211	1_percent	foreign aid	1.158
+0.1_percent	2020	mask #coronavirus	1.211	1_percent	international community	1.1573
+0.1_percent	2020	플레이엠 팬미팅 취소해	1.211	1_percent	uv light	1.157
+0.1_percent	2020	case of new #coronavirus	1.211	1_percent	blm protest	1.157
+0.1_percent	2020	아티스트 보호해 스케줄 취소해	1.211	1_percent	exam center	1.157
+0.1_percent	2020	모든아티스트 스케줄 취소해	1.211	1_percent	transition team	1.157
+0.1_percent	2020	าสายพ ั นธ ุ ์	1.211	1_percent	los angeles county	1.1567
+0.1_percent	2020	hospital for #coronavirus patients	1.211	1_percent	sri lanka	1.1565
+0.1_percent	2020	엠비케이 팬미팅 취소해	1.211	1_percent	wash hand	1.1563
+0.1_percent	2020	티오피 팬미팅 취소해	1.211	1_percent	state of emergency	1.1563
+0.1_percent	2020	uk people trade	1.211	1_percent	case number	1.1563
+0.1_percent	2020	outbreak of novel coronavirus	1.211	1_percent	covid19 case	1.1563
+0.1_percent	2020	chinese health	1.211	1_percent	dead body	1.156
+0.1_percent	2020	foia request	1.211	1_percent	mike lee	1.156
+0.1_percent	2020	flight attendant	1.211	1_percent	survival check	1.156
+0.1_percent	2020	swine fever	1.211	1_percent	new coronavirus variant	1.156
+0.1_percent	2020	international health regulations emergency committee	1.211	1_percent	severe case	1.1555
+0.1_percent	2020	other citizen	1.211	1_percent	reporting case	1.1555
+0.1_percent	2020	first outside	1.211	1_percent	gun violence	1.1554
+0.1_percent	2020	chinese boy	1.211	1_percent	free speech	1.1553
+0.1_percent	2020	first case of novel coronavirus	1.211	1_percent	death certificate	1.1553
+0.1_percent	2020	first case of human-to-human	1.211	1_percent	infected people	1.1552
+0.1_percent	2020	simple way	1.211	1_percent	killing people	1.1551
+0.1_percent	2020	suspending flight	1.211	1_percent	precautionary measure	1.155
+0.1_percent	2020	china''s health	1.211	1_percent	tour group	1.155
+0.1_percent	2020	black swan	1.211	1_percent	sars case	1.155
+0.1_percent	2020	year celebration	1.211	1_percent	same city	1.155
+0.1_percent	2020	fan meeting	1.211	1_percent	wuhan corona virus	1.155
+0.1_percent	2020	newborn mouse	1.211	1_percent	wuhan government	1.155
+0.1_percent	2020	spreading virus	1.211	1_percent	case of human-to-human transmission	1.155
+0.1_percent	2020	new threat	1.211	1_percent	coronavirus transmission	1.155
+0.1_percent	2020	china outbreak	1.211	1_percent	respiratory infection	1.155
+0.1_percent	2020	asked question	1.211	1_percent	coronavirus patent	1.155
+0.1_percent	2020	new delhi	1.211	1_percent	medical observation	1.155
+0.1_percent	2020	emergency committee meeting	1.211	1_percent	china virus outbreak	1.155
+0.1_percent	2020	multiple country	1.211	1_percent	original source	1.155
+0.1_percent	2020	muslim in concentration	1.211	1_percent	weapons program	1.155
+0.1_percent	2020	muslim in concentration camps	1.211	1_percent	seeking help	1.155
+0.1_percent	2020	person-to-person transmission of coronavirus	1.211	1_percent	virus-hit wuhan	1.155
+0.1_percent	2020	eating wild animal	1.211	1_percent	second case of coronavirus	1.155
+0.1_percent	2020	eating weird shit	1.211	1_percent	personal favors	1.155
+0.1_percent	2020	eating bat soup	1.211	1_percent	incoming flight	1.155
+0.1_percent	2020	medical mask	1.211	1_percent	chinese health authority	1.155
+0.1_percent	2020	total bed	1.211	1_percent	chinese health official	1.155
+0.1_percent	2020	speed rail	1.211	1_percent	special flight	1.155
+0.1_percent	2020	measles outbreak	1.211	1_percent	chinese food market	1.155
+0.1_percent	2020	warfare expert	1.211	1_percent	first warning	1.155
+0.1_percent	2020	respiratory syndrome coronavirus	1.211	1_percent	killer coronavirus	1.155
+0.1_percent	2020	mainland #china	1.211	1_percent	first case of novel	1.155
+0.1_percent	2020	epidemic situation	1.211	1_percent	international health	1.155
+0.1_percent	2020	suspected novel coronavirus	1.211	1_percent	insurance company	1.155
+0.1_percent	2020	casual racism	1.211	1_percent	paid leave	1.155
+0.1_percent	2020	us biosafety expert	1.211	1_percent	opening school	1.155
+0.1_percent	2020	case of the new coronavirus	1.211	1_percent	known case	1.1547
+0.1_percent	2020	quick reminder	1.211	1_percent	stimulus bill	1.1546
+0.1_percent	2020	deadly outbreak	1.211	1_percent	foreign national	1.1545
+0.1_percent	2020	lassa fever	1.211	1_percent	nursing homes	1.1545
+0.1_percent	2020	dangerous situation	1.211	1_percent	flu-like symptom	1.1543
+0.1_percent	2020	killer virus	1.211	1_percent	bad news	1.1542
+0.1_percent	2020	case of human-to-human transmission	1.211	1_percent	asian people	1.154
+0.1_percent	2020	protective mask	1.211	1_percent	jared kushner	1.1534
+0.1_percent	2020	covert biological weapons program	1.211	1_percent	same day	1.1533
+0.1_percent	2020	jakarta flood	1.211	1_percent	population control	1.153
+0.1_percent	2020	coronavirus-infected patient	1.211	1_percent	antibody cocktail	1.153
+0.1_percent	2020	iran plane crash	1.211	1_percent	pfizer covid-19 vaccine	1.153
+0.1_percent	2020	iran plane	1.211	1_percent	mass testing	1.1526
+0.1_percent	2020	air canada	1.211	1_percent	state government	1.1525
+0.1_percent	2020	biosafety expert	1.211	1_percent	outbreak of coronavirus	1.1523
+0.1_percent	2020	coronavirus patent	1.211	1_percent	community spread	1.1523
+0.1_percent	2020	capital city	1.211	1_percent	us coronavirus	1.1522
+0.1_percent	2020	wuhan virus spread	1.211	1_percent	covid19 vaccine	1.152
+0.1_percent	2020	indonesian flood	1.211	1_percent	data scientist	1.152
+0.1_percent	2020	possible outbreak	1.211	1_percent	tom cotton	1.151
+0.1_percent	2020	cook food	1.211	1_percent	virus update	1.151
+0.1_percent	2020	cabinet member	1.211	1_percent	cruise passenger	1.151
+0.1_percent	2020	wuhan market	1.211	1_percent	imminent threat	1.151
+0.1_percent	2020	possible infection	1.211	1_percent	new virus case	1.151
+0.1_percent	2020	biological warfare expert	1.211	1_percent	voter fraud	1.151
+0.1_percent	2020	philippines volcano	1.211	1_percent	appropriate behaviour	1.151
+0.1_percent	2020	philippine government	1.211	1_percent	san francisco	1.1509
+0.1_percent	2020	hospital corridor	1.211	1_percent	next month	1.1508
+0.1_percent	2020	hong kong university	1.211	1_percent	confirmed coronavirus case	1.1507
+0.1_percent	2020	weird shit	1.211	1_percent	practicing social distancing	1.1507
+0.1_percent	2020	people trade	1.211	1_percent	exam centre	1.1505
+0.1_percent	2020	virus infection	1.211	1_percent	corona pandemic	1.1504
+0.1_percent	2020	biological research	1.211	1_percent	intellectual property	1.15
+0.1_percent	2020	clinical feature	1.211	1_percent	supreme court justice	1.15
+0.1_percent	2020	brain injury	1.211	1_percent	covid variant	1.15
+0.1_percent	2020	health officer	1.211	1_percent	king county	1.1495
+0.1_percent	2020	taal eruption	1.211	1_percent	covid19 pandemic	1.1493
+0.1_percent	2020	group tour	1.211	1_percent	deep state	1.149
+0.1_percent	2020	us state department	1.211	1_percent	prince charles	1.149
+0.1_percent	2020	vast majority of cases	1.211	1_percent	murder hornet	1.149
+0.1_percent	2020	christmas island detention	1.211	1_percent	academic year	1.149
+0.1_percent	2020	people in serious condition	1.211	1_percent	public health official	1.1488
+0.1_percent	2020	us biosafety	1.211	1_percent	blue state	1.1488
+0.1_percent	2020	body temperature	1.211	1_percent	happy birthday	1.1485
+0.1_percent	2020	unprecedented outbreak	1.211	1_percent	care act	1.1483
+0.1_percent	2020	growing number	1.211	1_percent	non-essential travel	1.148
+0.1_percent	2020	treatment model	1.211	1_percent	chinese medium	1.148
+0.1_percent	2020	taal volcano eruption	1.211	1_percent	eye of darkness	1.148
+0.1_percent	2020	pandemic risk	1.211	1_percent	entire pandemic response	1.148
+0.1_percent	2020	chinese patient	1.211	1_percent	china daily	1.148
+0.1_percent	2020	first case of person-to-person	1.211	1_percent	own citizen	1.148
+0.1_percent	2020	strain of virus	1.211	1_percent	coronavirus whistleblower	1.148
+0.1_percent	2020	bio warfare	1.211	1_percent	middle of the pandemic	1.148
+0.1_percent	2020	american airlines	1.211	1_percent	covid stimulus	1.148
+0.1_percent	2020	meat market	1.211	1_percent	covid-19 stimulus	1.148
+0.1_percent	2020	central threat	1.211	1_percent	flu vaccine	1.1476
+0.1_percent	2020	regional level	1.211	1_percent	many life	1.1476
+0.1_percent	2020	covert biological weapon	1.211	1_percent	unemployment rate	1.1475
+0.1_percent	2020	presumptive case	1.211	1_percent	personal protective equipment	1.1472
+0.1_percent	2020	syndrome coronavirus	1.211	1_percent	eating habit	1.147
+0.1_percent	2020	passengers arrive	1.211	1_percent	coronavirus in the country	1.147
+0.1_percent	2020	chinese embassy	1.211	1_percent	drinking bleach	1.147
+0.1_percent	2020	frontline medic	1.211	1_percent	outbreak of novel	1.147
+0.1_percent	2020	australia fire	1.211	1_percent	temporary travel ban	1.147
+0.1_percent	2020	earthquake in indonesia	1.211	1_percent	trump impeachment	1.147
+0.1_percent	2020	international health emergency	1.211	1_percent	chemistry chair	1.147
+0.1_percent	2020	wuhan virus outbreak	1.211	1_percent	death toll rise	1.147
+0.1_percent	2020	contact detail	1.211	1_percent	australian government	1.147
+0.1_percent	2020	people collapse	1.211	1_percent	spread of the novel	1.147
+0.1_percent	2020	australia bushfire	1.211	1_percent	video show	1.147
+0.1_percent	2020	uk people	1.211	1_percent	biological weapons program	1.147
+0.1_percent	2020	first person-to-person transmission	1.211	1_percent	lunar new year	1.147
+0.1_percent	2020	harvard''s chemistry	1.211	1_percent	maricopa county	1.147
+0.1_percent	2020	live animal	1.211	1_percent	australian bushfire	1.147
+0.1_percent	2020	serious outbreak	1.211	1_percent	commerce secretary wilbur ross	1.147
+0.1_percent	2020	new specialized hospital	1.211	1_percent	chinese person	1.147
+0.1_percent	2020	safety of the artists	1.211	1_percent	violence epidemic	1.147
+0.1_percent	2020	case of new coronavirus	1.211	1_percent	य ब	1.147
+0.1_percent	2020	commerce secretary wilbur ross	1.211	1_percent	happy new year	1.147
+0.1_percent	2020	exotic animal	1.211	1_percent	public health crisis	1.1468
+0.1_percent	2020	trade deal	1.2106	1_percent	matt hancock	1.1467
+0.1_percent	2020	covid vaccination	1.2105	1_percent	number of units	1.1467
+0.1_percent	2020	pandemic response team	1.2103	1_percent	college football	1.1466
+0.1_percent	2020	mass protest	1.21	1_percent	full lockdown	1.1465
+0.1_percent	2020	labor day	1.21	1_percent	stephen miller	1.1465
+0.1_percent	2020	amy coney barrett	1.21	1_percent	respiratory virus	1.1463
+0.1_percent	2020	third case	1.2095	1_percent	preexisting condition	1.1463
+0.1_percent	2020	uighur muslims	1.2095	1_percent	public health expert	1.1462
+0.1_percent	2020	cases surge	1.2094	1_percent	death count	1.1462
+0.1_percent	2020	preexisting condition	1.2093	1_percent	global market	1.146
+0.1_percent	2020	covid-19 response	1.209	1_percent	illegal immigrant	1.146
+0.1_percent	2020	fucking mask	1.209	1_percent	due date	1.146
+0.1_percent	2020	supreme court nominee	1.209	1_percent	election fraud	1.146
+0.1_percent	2020	circuit break	1.209	1_percent	moderna covid-19 vaccine	1.146
+0.1_percent	2020	covid-19 relief bill	1.209	1_percent	response team	1.1459
+0.1_percent	2020	swine flu	1.2085	1_percent	medical care	1.1458
+0.1_percent	2020	sanctuary city	1.208	1_percent	covid relief package	1.1457
+0.1_percent	2020	gas mask	1.208	1_percent	life of students	1.1455
+0.1_percent	2020	corona shit	1.208	1_percent	us election	1.1455
+0.1_percent	2020	rate cut	1.208	1_percent	covid spread	1.1451
+0.1_percent	2020	medical bill	1.208	1_percent	epidemic prevention	1.145
+0.1_percent	2020	s korea	1.208	1_percent	chain of command	1.145
+0.1_percent	2020	maga rally	1.208	1_percent	matt gaetz	1.145
+0.1_percent	2020	global economy	1.2078	1_percent	seattle area	1.145
+0.1_percent	2020	bio weapon	1.2077	1_percent	democratic hoax	1.145
+0.1_percent	2020	corona pandemic	1.2076	1_percent	breaking lockdown rule	1.145
+0.1_percent	2020	possible coronavirus	1.207	1_percent	superspreader event	1.145
+0.1_percent	2020	murder hornet	1.207	1_percent	many student	1.1447
+0.1_percent	2020	disney world	1.207	1_percent	social security	1.1446
+0.1_percent	2020	chinese scientist	1.2067	1_percent	pandemic response team	1.1445
+0.1_percent	2020	intensive care	1.2062	1_percent	spending bill	1.1445
+0.1_percent	2020	situation report	1.206	1_percent	tax cut	1.1444
+0.1_percent	2020	second case of coronavirus	1.206	1_percent	new report	1.1443
+0.1_percent	2020	nhs staff	1.2059	1_percent	public school	1.1443
+0.1_percent	2020	covid protocol	1.2055	1_percent	next time	1.1441
+0.1_percent	2020	staying home	1.2052	1_percent	campaign trail	1.144
+0.1_percent	2020	coronavirus cases	0.6718	1_percent	coronavirus cases	0.8201
+0.1_percent	2020	covid cases	0.6013	1_percent	coronavirus pandemic	0.7354
+0.1_percent	2020	novel coronavirus	0.4941	1_percent	novel coronavirus	0.6872
+0.1_percent	2020	coronavirus pandemic	0.4921	1_percent	covid cases	0.6587
+0.1_percent	2020	covid deaths	0.479	1_percent	coronavirus outbreak	0.6524
+0.1_percent	2020	covid patients	0.4664	1_percent	coronavirus patients	0.6421
+0.1_percent	2020	social distancing	0.4606	1_percent	covid vaccines	0.6377
+0.1_percent	2020	corona virus	0.4542	1_percent	covid deaths	0.6357
+0.1_percent	2020	new cases	0.4446	1_percent	new cases	0.593
+0.1_percent	2020	public health	0.3904	1_percent	covid patients	0.5562
+0.1_percent	2020	covid restrictions	0.3879	1_percent	covid restrictions	0.5517
+0.1_percent	2020	covid relief	0.3806	1_percent	new coronavirus	0.5502
+0.1_percent	2020	coronavirus outbreak	0.3791	1_percent	coronavirus deaths	0.5443
+0.1_percent	2020	neet exams	0.3773	1_percent	corona virus	0.5229
+0.1_percent	2020	young people	0.3752	1_percent	young people	0.5125
+0.1_percent	2020	covid vaccine	0.3595	1_percent	coronavirus fears	0.5059
+0.1_percent	2020	nursing homes	0.3585	1_percent	public health	0.4946
+0.1_percent	2020	coronavirus patients	0.3483	1_percent	coronavirus crisis	0.473
+0.1_percent	2020	president trump	0.3435	1_percent	coronavirus lockdown	0.4718
+0.1_percent	2020	coronavirus testing	0.3434	1_percent	social distancing	0.4692
+0.1_percent	2020	new coronavirus	0.3347	1_percent	active cases	0.4684
+0.1_percent	2020	mainland china	0.3336	1_percent	face masks	0.4596
+0.1_percent	2020	covid vaccines	0.3323	1_percent	coronavirus impact	0.4588
+0.1_percent	2020	face masks	0.3253	1_percent	covid vaccine	0.4572
+0.1_percent	2020	donald trump	0.3248	1_percent	black people	0.4501
+0.1_percent	2020	coronavirus vaccines	0.3233	1_percent	coronavirus testing	0.4457
+0.1_percent	2020	coronavirus deaths	0.3219	1_percent	nursing homes	0.4446
+0.1_percent	2020	coronavirus fears	0.3201	1_percent	covid relief	0.4444
+0.1_percent	2020	deadly coronavirus	0.317	1_percent	wuhan china	0.4399
+0.1_percent	2020	dr. fauci	0.3132	1_percent	deadly coronavirus	0.4368
+0.1_percent	2020	coronavirus death toll	0.3084	1_percent	coronavirus concerns	0.4348
+0.1_percent	2020	wuhan coronavirus	0.3081	1_percent	covid pandemic	0.434
+0.1_percent	2020	exam centres	0.3079	1_percent	care homes	0.4335
+0.1_percent	2020	social media	0.3076	1_percent	coronavirus bill	0.4322
+0.1_percent	2020	new coronavirus cases	0.3002	1_percent	coronavirus quarantine	0.4308
+0.1_percent	2020	next year	0.3001	1_percent	mainland china	0.4265
+0.1_percent	2020	black people	0.298	1_percent	coronavirus vaccine	0.4262
+0.1_percent	2020	coronavirus response	0.2959	1_percent	social media	0.4251
+0.1_percent	2020	first coronavirus death	0.2956	1_percent	coronavirus response	0.4247
+0.1_percent	2020	coronavirus lockdown	0.2927	1_percent	covid rules	0.4234
+0.1_percent	2020	health care	0.2908	1_percent	mental health	0.42
+0.1_percent	2020	coronavirus patient	0.289	1_percent	dr. fauci	0.4187
+0.1_percent	2020	china #	0.2865	1_percent	coronavirus symptoms	0.3991
+0.1_percent	2020	deadly coronavirus outbreak	0.284	1_percent	coronavirus patient	0.399
+0.1_percent	2020	new york	0.2829	1_percent	next week	0.3964
+0.1_percent	2020	coronavirus quarantine	0.2813	1_percent	health care	0.3947
+0.1_percent	2020	coronavirus evacuees	0.2804	1_percent	coronavirus infections	0.3922
+0.1_percent	2020	coronavirus precautions	0.278	1_percent	small businesses	0.387
+0.1_percent	2020	covid rules	0.2779	1_percent	coronavirus disease	0.3862
+0.1_percent	2020	coronavirus crisis	0.2763	1_percent	covid tests	0.3829
+0.1_percent	2020	new covid cases	0.2736	1_percent	election day	0.3746
+0.1_percent	2020	small businesses	0.2733	1_percent	confirmed cases	0.3745
+0.1_percent	2020	next week	0.2731	1_percent	next year	0.3741
+0.1_percent	2020	election day	0.2718	1_percent	long covid	0.3704
+0.1_percent	2020	joe biden	0.267	1_percent	social distance	0.3691
+0.1_percent	2020	social distance	0.2662	1_percent	combat coronavirus	0.3652
+0.1_percent	2020	coronavirus bill	0.2658	1_percent	christmas eve	0.3617
+0.1_percent	2020	vaccine distribution	0.2645	1_percent	president trump	0.3548
+0.1_percent	2020	chinese coronavirus	0.2598	1_percent	covid19 cases	0.3486
+0.1_percent	2020	new variant	0.2589	1_percent	coronavirus update	0.3446
+0.1_percent	2020	active cases	0.258	1_percent	death toll	0.3373
+0.1_percent	2020	coronavirus concerns	0.2564	1_percent	positive cases	0.3355
+0.1_percent	2020	coronavirus vaccine	0.2551	1_percent	loved ones	0.3351
+0.1_percent	2020	coronavirus funding	0.2546	1_percent	coronavirus vaccines	0.3339
+0.1_percent	2020	covid pandemic	0.2528	1_percent	coronavirus panic	0.3326
+0.1_percent	2020	social justice	0.2508	1_percent	vaccine distribution	0.3326
+0.1_percent	2020	covid numbers	0.2497	1_percent	memorial day	0.3317
+0.1_percent	2020	covid tests	0.2494	1_percent	donald trump	0.3268
+0.1_percent	2020	covid19 vaccines	0.2466	1_percent	pfizer vaccine	0.3261
+0.1_percent	2020	mental health	0.2465	1_percent	new york	0.3219
+0.1_percent	2020	first lockdown	0.2456	1_percent	covid testing	0.3199
+0.1_percent	2020	covid relief bill	0.2452	1_percent	coronavirus tests	0.318
+0.1_percent	2020	coronavirus epidemic	0.2439	1_percent	covid-19 pandemic	0.3159
+0.1_percent	2020	free coronavirus testing	0.2439	1_percent	china coronavirus	0.3141
+0.1_percent	2020	coronavirus tests	0.2433	1_percent	coronavirus evacuees	0.3131
+0.1_percent	2020	covid aid	0.2429	1_percent	mask mandates	0.3131
+0.1_percent	2020	wuhan city	0.2426	1_percent	coronavirus restrictions	0.313
+0.1_percent	2020	care homes	0.2401	1_percent	coronavirus case	0.3096
+0.1_percent	2020	white house	0.2396	1_percent	coronavirus spread	0.3074
+0.1_percent	2020	covid-19 vaccine	0.2388	1_percent	virus outbreak	0.305
+0.1_percent	2020	memorial day	0.2352	1_percent	corona cases	0.3047
+0.1_percent	2020	coronavirus infections	0.2351	1_percent	health officials	0.303
+0.1_percent	2020	coronavirus impact	0.2346	1_percent	climate change	0.302
+0.1_percent	2020	coronavirus threat	0.2337	1_percent	corona pandemic	0.3007
+0.1_percent	2020	long covid	0.2335	1_percent	essential workers	0.3005
+0.1_percent	2020	covid relief checks	0.23	1_percent	healthcare workers	0.2992
+0.1_percent	2020	coronavirus relief	0.2274	1_percent	coronavirus trajectories	0.299
+0.1_percent	2020	combat coronavirus	0.2263	1_percent	fake news	0.2964
+0.1_percent	2020	coronavirus restrictions	0.2249	1_percent	herd immunity	0.2944
+0.1_percent	2020	coronavirus briefing	0.2244	1_percent	health workers	0.2939
+0.1_percent	2020	covid-19 vaccines	0.2228	1_percent	south africa	0.2926
+0.1_percent	2020	covid times	0.2223	1_percent	white house	0.2925
+0.1_percent	2020	control pandemic	0.2218	1_percent	good news	0.2902
+0.1_percent	2020	new covid-19 cases	0.2211	1_percent	south korea	0.2887
+0.1_percent	2020	covid covid	0.2208	1_percent	joe biden	0.2855
+0.1_percent	2020	coronavirus relief legislation	0.2189	1_percent	coronavirus relief	0.2854
+0.1_percent	2020	home order	0.2183	1_percent	home order	0.285
+0.1_percent	2020	christmas eve	0.2179	1_percent	china 🇨🇳	0.2833
+0.1_percent	2020	coronavirus #	0.2171	1_percent	primary number	0.2825
+0.1_percent	2020	confirmed cases	0.2169	1_percent	bame people	0.2809
+0.1_percent	2020	vaccine rollout	0.2154	1_percent	covid times	0.2792
+0.1_percent	2020	chinas response	0.2144	1_percent	chinese coronavirus	0.2776
+0.1_percent	2020	mask mandates	0.2144	1_percent	hong kong	0.2762
+0.1_percent	2020	loved ones	0.213	1_percent	second lockdown	0.2757
+0.1_percent	2020	south korea	0.2128	1_percent	coronavirus infection	0.2741
+0.1_percent	2020	nursing home deaths	0.2116	1_percent	full lockdown	0.2731
+0.1_percent	2020	boris johnson	0.21	1_percent	chinese mainland	0.2727
+0.1_percent	2020	covid19 pandemic	0.2094	1_percent	covid numbers	0.2707
+0.1_percent	2020	climate change	0.2082	1_percent	working people	0.2706
+0.1_percent	2020	first case	0.2072	1_percent	new zealand	0.2704
+0.1_percent	2020	vaccine doses	0.2071	1_percent	lockdown rules	0.2657
+0.1_percent	2020	herd immunity	0.2063	1_percent	covid19 vaccine	0.2657
+0.1_percent	2020	new strain	0.2063	1_percent	american lives	0.2637
+0.1_percent	2020	covid19 vaccine	0.206	1_percent	white people	0.2624
+0.1_percent	2020	corona cases	0.2058	1_percent	covid-19 vaccines	0.2606
+0.1_percent	2020	confirmed coronavirus cases	0.2049	1_percent	home orders	0.2603
+0.1_percent	2020	hong kong	0.2049	1_percent	first case	0.2595
+0.1_percent	2020	healthcare workers	0.2046	1_percent	coronavirus threat	0.2585
+0.1_percent	2020	social distancing rules	0.2034	1_percent	new year	0.2579
+0.1_percent	2020	new coronavirus strain	0.2026	1_percent	boris johnson	0.2569
+0.1_percent	2020	covid testing	0.2021	1_percent	physical distancing	0.2563
+0.1_percent	2020	final year students	0.2016	1_percent	wuhan city	0.2547
+0.1_percent	2020	new zealand	0.2014	1_percent	communist china	0.2532
+0.1_percent	2020	corona pandemic	0.2	1_percent	new jersey	0.2515
+0.1_percent	2020	coronavirus fear	0.1999	1_percent	chinese people	0.2509
+0.1_percent	2020	coronavirus virus	0.1996	1_percent	coronavirus risk	0.2491
+0.1_percent	2020	covid covid covid	0.199	1_percent	fox news	0.2459
+0.1_percent	2020	new year	0.1985	1_percent	wuhan coronavirus	0.2452
+0.1_percent	2020	coronavirus case	0.1981	1_percent	merry christmas	0.2439
+0.1_percent	2020	new years eve	0.1969	1_percent	covid-19 cases	0.2431
+0.1_percent	2020	black lives	0.1966	1_percent	high risk	0.2429
+0.1_percent	2020	how many people	0.1964	1_percent	covid protocols	0.2426
+0.1_percent	2020	lockdown rules	0.196	1_percent	covid lockdowns	0.2426
+0.1_percent	2020	rising cases	0.196	1_percent	global pandemic	0.2423
+0.1_percent	2020	contracting covid	0.1957	1_percent	chinas coronavirus	0.2422
+0.1_percent	2020	covid19 cases	0.1953	1_percent	contracting coronavirus	0.2405
+0.1_percent	2020	primary number	0.1945	1_percent	coronavirus lockdowns	0.2402
+0.1_percent	2020	new york city	0.1944	1_percent	anthony fauci	0.2395
+0.1_percent	2020	red china	0.1943	1_percent	coronavirus information	0.2394
+0.1_percent	2020	coronavirus disease	0.1938	1_percent	new variant	0.2392
+0.1_percent	2020	wuhan china	0.1898	1_percent	coronavirus fight	0.2389
+0.1_percent	2020	white people	0.1892	1_percent	coronavirus victims	0.2375
+0.1_percent	2020	coronavirus prevention	0.1892	1_percent	new strain	0.2355
+0.1_percent	2020	china coronavirus	0.1889	1_percent	n95 masks	0.2351
+0.1_percent	2020	health care workers	0.1889	1_percent	exam centres	0.233
+0.1_percent	2020	second lockdown	0.1885	1_percent	covid aid	0.2328
+0.1_percent	2020	new covid strain	0.1884	1_percent	wuhan airport	0.2327
+0.1_percent	2020	home orders	0.1877	1_percent	united states	0.2323
+0.1_percent	2020	chinas government	0.187	1_percent	covid test	0.2301
+0.1_percent	2020	coronavirus spread	0.1867	1_percent	lockdown restrictions	0.2287
+0.1_percent	2020	coronavirus spike	0.1867	1_percent	wuhan people	0.2284
+0.1_percent	2020	us coronavirus response	0.1863	1_percent	covid infections	0.2272
+0.1_percent	2020	global pandemic	0.1863	1_percent	bill gates	0.2271
+0.1_percent	2020	covid19 patients	0.1858	1_percent	coronavirus scare	0.2268
+0.1_percent	2020	coronavirus sufferers	0.1856	1_percent	contact tracing	0.2267
+0.1_percent	2020	judge barrett	0.1853	1_percent	older people	0.2255
+0.1_percent	2020	exam centre	0.1852	1_percent	new restrictions	0.225
+0.1_percent	2020	merry christmas	0.184	1_percent	next month	0.2247
+0.1_percent	2020	coronavirus task force	0.1839	1_percent	covid covid	0.2246
+0.1_percent	2020	positive cases	0.1836	1_percent	national lockdown	0.2245
+0.1_percent	2020	new restrictions	0.1832	1_percent	pride month	0.2241
+0.1_percent	2020	possible coronavirus	0.1829	1_percent	trump wh	0.2235
+0.1_percent	2020	coronavirus treatment	0.1829	1_percent	boxing day	0.2229
+0.1_percent	2020	moderna vaccine	0.1828	1_percent	china virus	0.2227
+0.1_percent	2020	communist china	0.1823	1_percent	trans people	0.2225
+0.1_percent	2020	essential workers	0.1823	1_percent	coronavirus epidemic	0.222
+0.1_percent	2020	student lives	0.1815	1_percent	south dakota	0.2217
+0.1_percent	2020	chinese people	0.1814	1_percent	covid19 vaccines	0.2201
+0.1_percent	2020	coronavirus panic	0.1814	1_percent	health insurance	0.219
+0.1_percent	2020	coronavirus infection	0.1805	1_percent	poor people	0.219
+0.1_percent	2020	coronavirus cases spike	0.1805	1_percent	private schools	0.2186
+0.1_percent	2020	david perdue	0.1798	1_percent	human rights	0.2172
+0.1_percent	2020	case numbers	0.1797	1_percent	black lives	0.2172
+0.1_percent	2020	relief bill	0.1793	1_percent	mandatory masks	0.217
+0.1_percent	2020	south africa	0.1792	1_percent	coronavirus coverage	0.2168
+0.1_percent	2020	dr. anthony fauci	0.179	1_percent	family members	0.2165
+0.1_percent	2020	full lockdown	0.1779	1_percent	covid19 patients	0.2162
+0.1_percent	2020	coronavirus lockdowns	0.1763	1_percent	labor day	0.2158
+0.1_percent	2020	physical distancing	0.176	1_percent	supreme court	0.2153
+0.1_percent	2020	china army 🇨🇳	0.1759	1_percent	mitch mcconnell	0.215
+0.1_percent	2020	pfizer coronavirus vaccine	0.1756	1_percent	christmas day	0.2145
+0.1_percent	2020	us coronavirus deaths	0.1751	1_percent	los angeles	0.2142
+0.1_percent	2020	survival checks	0.1747	1_percent	no masks	0.2142
+0.1_percent	2020	coronavirus victims	0.1741	1_percent	nancy pelosi	0.2138
+0.1_percent	2020	jee exams	0.1736	1_percent	small business	0.2134
+0.1_percent	2020	covid spread	0.1735	1_percent	disabled people	0.2128
+0.1_percent	2020	working people	0.1724	1_percent	new deaths	0.2124
+0.1_percent	2020	catching covid	0.1712	1_percent	northern italy	0.2102
+0.1_percent	2020	suspected coronavirus	0.171	1_percent	old people	0.21
+0.1_percent	2020	new #coronavirus	0.1709	1_percent	public transport	0.2096
+0.1_percent	2020	death toll	0.1708	1_percent	chinese authorities	0.2095
+0.1_percent	2020	wh coronavirus briefing	0.1708	1_percent	common sense	0.2088
+0.1_percent	2020	supreme court	0.1708	1_percent	wuhan virus	0.2082
+0.1_percent	2020	fake news	0.1705	1_percent	coronavirus prevention	0.2082
+0.1_percent	2020	covid spikes	0.1704	1_percent	secondary number	0.207
+0.1_percent	2020	covid lockdowns	0.1703	1_percent	catching covid	0.2063
+0.1_percent	2020	coronavirus |	0.1699	1_percent	social security	0.2059
+0.1_percent	2020	coronavirus symptoms	0.1691	1_percent	chinese officials	0.2056
+0.1_percent	2020	jee neet exam	0.1676	1_percent	covid19 pandemic	0.2055
+0.1_percent	2020	good news	0.1672	1_percent	excess deaths	0.2053
+0.1_percent	2020	covid symptoms	0.1669	1_percent	north carolina	0.2041
+0.1_percent	2020	covid-19 pandemic	0.1666	1_percent	wuhan residents	0.2039
+0.1_percent	2020	health officials	0.1649	1_percent	coronavirus funding	0.2039
+0.1_percent	2020	covid protocols	0.1645	1_percent	testing kits	0.2039
+0.1_percent	2020	killer coronavirus	0.1644	1_percent	first time	0.2033
+0.1_percent	2020	coronavirus scare	0.1644	1_percent	infected people	0.203
+0.1_percent	2020	post covid	0.1642	1_percent	suspected coronavirus	0.2024
+0.1_percent	2020	boxing day	0.1641	1_percent	melania trump	0.2024
+0.1_percent	2020	novel #coronavirus	0.164	1_percent	coronavirus briefing	0.2022
+0.1_percent	2020	disabled people	0.164	1_percent	blood component	0.202
+0.1_percent	2020	covid deniers	0.1632	1_percent	chinese virus	0.2019
+0.1_percent	2020	covid infections	0.163	1_percent	pcr testing	0.2009
+0.1_percent	2020	covid test	0.1624	1_percent	andrew cuomo	0.1998
+0.1_percent	2020	wuhan residents	0.1621	1_percent	contracting covid	0.1992
+0.1_percent	2020	wuhan #coronavirus	0.1618	1_percent	coronavirus spreads	0.1987
+0.1_percent	2020	new deaths	0.1618	1_percent	aged care	0.1987
+0.1_percent	2020	developing countries	0.1613	1_percent	healthy people	0.1985
+0.1_percent	2020	coronavirus test kits	0.1606	1_percent	cdc guidelines	0.1979
+0.1_percent	2020	china flights	0.1604	1_percent	sick people	0.1978
+0.1_percent	2020	trump wh	0.1601	1_percent	election results	0.1975
+0.1_percent	2020	covid folks	0.1601	1_percent	central china	0.1974
+0.1_percent	2020	health workers	0.16	1_percent	peoples lives	0.1973
+0.1_percent	2020	american lives	0.1599	1_percent	face coverings	0.1966
+0.1_percent	2020	covid19 palliatives	0.1598	1_percent	san francisco	0.1961
+0.1_percent	2020	pride month	0.1593	1_percent	good luck	0.1957
+0.1_percent	2020	coronavirus threats	0.159	1_percent	local lockdown	0.1957
+0.1_percent	2020	china 🇨🇳	0.1586	1_percent	pre-existing conditions	0.1949
+0.1_percent	2020	trump supporters	0.1586	1_percent	covid symptoms	0.1948
+0.1_percent	2020	dr. birx	0.1583	1_percent	covid bill	0.1943
+0.1_percent	2020	covid fatigue	0.1582	1_percent	jon ossoff	0.1941
+0.1_percent	2020	so many people	0.1581	1_percent	rich people	0.194
+0.1_percent	2020	pre-existing conditions	0.1581	1_percent	medical supplies	0.1925
+0.1_percent	2020	positive coronavirus cases	0.1558	1_percent	health experts	0.1916
+0.1_percent	2020	china border	0.1556	1_percent	new years	0.1912
+0.1_percent	2020	local lockdown	0.1552	1_percent	previous years	0.1904
+0.1_percent	2020	us coronavirus cases	0.155	1_percent	covid spread	0.189
+0.1_percent	2020	mitch mcconnell	0.1544	1_percent	chinese fans	0.1886
+0.1_percent	2020	amy coney barrett	0.1544	1_percent	coronavirus treatment	0.188
+0.1_percent	2020	aged care	0.1543	1_percent	china border	0.1875
+0.1_percent	2020	china town	0.1541	1_percent	vulnerable people	0.1874
+0.1_percent	2020	no social distancing	0.1539	1_percent	students life	0.1874
+0.1_percent	2020	older people	0.1538	1_percent	mr. trump	0.1869
+0.1_percent	2020	new coronavirus infections	0.1535	1_percent	human life	0.1867
+0.1_percent	2020	new #covid19 cases	0.1531	1_percent	covid19 deaths	0.1864
+0.1_percent	2020	ongoing pandemic	0.1528	1_percent	president-elect biden	0.1861
+0.1_percent	2020	coronavirus outbreaks	0.1527	1_percent	matt hancock	0.1858
+0.1_percent	2020	students life	0.1524	1_percent	covid-19 vaccine	0.1858
+0.1_percent	2020	covid situation	0.1515	1_percent	covid crisis	0.1856
+0.1_percent	2020	coronavirus antibody tests	0.1513	1_percent	social justice	0.1849
+0.1_percent	2020	labor day	0.1513	1_percent	open schools	0.1849
+0.1_percent	2020	pfizers coronavirus vaccine	0.1511	1_percent	frontline workers	0.183
+0.1_percent	2020	coronavirus emergency	0.151	1_percent	young students	0.183
+0.1_percent	2020	public health experts	0.1508	1_percent	chinas economy	0.1826
+0.1_percent	2020	death rates	0.1506	1_percent	cegah coronavirus	0.1825
+0.1_percent	2020	american soldiers	0.1506	1_percent	paid leave	0.182
+0.1_percent	2020	dr. susan moore	0.1505	1_percent	new strains	0.1817
+0.1_percent	2020	chinese virus	0.15	1_percent	migrant workers	0.1814
+0.1_percent	2020	contact tracing	0.1497	1_percent	direct relief	0.1811
+0.1_percent	2020	south dakota	0.1496	1_percent	suspected cases	0.1804
+0.1_percent	2020	health experts	0.1492	1_percent	coronavirus data	0.1801
+0.1_percent	2020	vaccine hesitancy	0.1491	1_percent	china cdc	0.18
+0.1_percent	2020	lockdown restrictions	0.1489	1_percent	relief bill	0.1795
+0.1_percent	2020	covid vaccine rollout	0.1489	1_percent	no covid	0.1792
+0.1_percent	2020	pfizer vaccine	0.1486	1_percent	coronavirus threats	0.1791
+0.1_percent	2020	coronavirus campaign ads	0.1485	1_percent	chinese police	0.1791
+0.1_percent	2020	record numbers	0.1483	1_percent	neet exams	0.1787
+0.1_percent	2020	rich people	0.1482	1_percent	new infections	0.1784
+0.1_percent	2020	poor people	0.1481	1_percent	trump supporters	0.1776
+0.1_percent	2020	coronavirus relief efforts	0.148	1_percent	survival checks	0.1768
+0.1_percent	2020	social distancing guidelines	0.1479	1_percent	possible coronavirus	0.1767
+0.1_percent	2020	school reopenings	0.1479	1_percent	lockdown measures	0.1765
+0.1_percent	2020	new record	0.1476	1_percent	pres. trump	0.1758
+0.1_percent	2020	second coronavirus death	0.1473	1_percent	self quarantine	0.1755
+0.1_percent	2020	compartment exam	0.1473	1_percent	school reopenings	0.1753
+0.1_percent	2020	death %	0.1471	1_percent	dr. li	0.1743
+0.1_percent	2020	trump rally	0.147	1_percent	real relief	0.1743
+0.1_percent	2020	operation warp speed	0.147	1_percent	killer coronavirus	0.1741
+0.1_percent	2020	new strains	0.147	1_percent	dan andrews	0.1741
+0.1_percent	2020	suspected coronavirus case	0.1469	1_percent	new yorkers	0.173
+0.1_percent	2020	black lives matter	0.1469	1_percent	no pandemic	0.1724
+0.1_percent	2020	coronavirus death rate	0.1467	1_percent	pcr tests	0.1724
+0.1_percent	2020	coronavirus lies	0.1463	1_percent	recent weeks	0.1723
+0.1_percent	2020	exam centers	0.1463	1_percent	mask mandate	0.1718
+0.1_percent	2020	nursing home residents	0.1461	1_percent	close contact	0.1714
+0.1_percent	2020	chinese mainland	0.146	1_percent	l.a. county	0.1714
+0.1_percent	2020	dr. conley	0.1458	1_percent	mass testing	0.1711
+0.1_percent	2020	n95 masks	0.1452	1_percent	thanksgiving day	0.171
+0.1_percent	2020	mandatory masks	0.1449	1_percent	mike pence	0.1707
+0.1_percent	2020	school districts	0.1446	1_percent	exam centers	0.1707
+0.1_percent	2020	new years	0.1446	1_percent	hubei province	0.1703
+0.1_percent	2020	real people	0.1445	1_percent	coronavirus hospital	0.1702
+0.1_percent	2020	memorial day weekend	0.1443	1_percent	coronavirus jokes	0.1702
+0.1_percent	2020	stimulus checks	0.1442	1_percent	positive tests	0.1702
+0.1_percent	2020	china virus	0.144	1_percent	death rate	0.1701
+0.1_percent	2020	possible coronavirus symptoms	0.1439	1_percent	dominic cummings	0.17
+0.1_percent	2020	new jersey	0.1436	1_percent	exam centre	0.17
+0.1_percent	2020	virus outbreak	0.1434	1_percent	first lockdown	0.17
+0.1_percent	2020	gold star families	0.1434	1_percent	recent days	0.1695
+0.1_percent	2020	admin coronavirus response	0.1431	1_percent	wuhan province	0.1684
+0.1_percent	2020	covid response	0.1431	1_percent	police brutality	0.1684
+0.1_percent	2020	president donald trump	0.1421	1_percent	challenging times	0.1684
+0.1_percent	2020	anthony fauci	0.142	1_percent	coronavirus updates	0.1681
+0.1_percent	2020	new %	0.142	1_percent	mr. president	0.168
+0.1_percent	2020	human life	0.1418	1_percent	asian people	0.1679
+0.1_percent	2020	national lockdown	0.1418	1_percent	virus cases	0.1675
+0.1_percent	2020	health insurance	0.1417	1_percent	w/ coronavirus	0.1674
+0.1_percent	2020	coronavirus exposure	0.1417	1_percent	daniel andrews	0.1673
+0.1_percent	2020	public schools	0.1416	1_percent	chinese students	0.1671
+0.1_percent	2020	vice president biden	0.1412	1_percent	first responders	0.1668
+0.1_percent	2020	national health commission	0.141	1_percent	years eve	0.1668
+0.1_percent	2020	old people	0.1406	1_percent	nhs staff	0.1666
+0.1_percent	2020	blue states	0.1403	1_percent	david perdue	0.1665
+0.1_percent	2020	trans people	0.1401	1_percent	sure coronavirus	0.1662
+0.1_percent	2020	china daily	0.1397	1_percent	covid-19 coronavirus	0.1662
+0.1_percent	2020	local lockdowns	0.1394	1_percent	polio outbreak	0.1662
+0.1_percent	2020	corona times	0.1393	1_percent	first day	0.1658
+0.1_percent	2020	covid vaccination	0.1393	1_percent	coronavirus china	0.1652
+0.1_percent	2020	china line	0.139	1_percent	no mask	0.1649
+0.1_percent	2020	blm protests	0.1388	1_percent	west bengal	0.1648
+0.1_percent	2020	christmas day	0.1387	1_percent	emergency use	0.1645
+0.1_percent	2020	ppp covid relief	0.1383	1_percent	corporate america	0.1644
+0.1_percent	2020	dr. li	0.1381	1_percent	south carolina	0.1641
+0.1_percent	2020	sick people	0.1379	1_percent	chinas wuhan	0.1636
+0.1_percent	2020	face mask	0.1379	1_percent	northern ireland	0.1636
+0.1_percent	2020	pfizer covid-19 vaccine	0.1378	1_percent	corona patients	0.1628
+0.1_percent	2020	coronavirus numbers	0.1377	1_percent	another lockdown	0.1628
+0.1_percent	2020	federal coronavirus aid	0.1377	1_percent	latin america	0.1627
+0.1_percent	2020	pandemic relief	0.1375	1_percent	control pandemic	0.1626
+0.1_percent	2020	suspected cases	0.1374	1_percent	college students	0.1624
+0.1_percent	2020	reported covid-19 cases	0.1372	1_percent	bob woodward	0.1621
+0.1_percent	2020	student life	0.1372	1_percent	compartment exam	0.162
+0.1_percent	2020	wuhan virus	0.1371	1_percent	record numbers	0.1619
+0.1_percent	2020	bill gates	0.1371	1_percent	senate republicans	0.1616
+0.1_percent	2020	kcet exam	0.1371	1_percent	working families	0.1614
+0.1_percent	2020	new covid-19 deaths	0.137	1_percent	stimulus checks	0.1612
+0.1_percent	2020	community transmission	0.1369	1_percent	social gatherings	0.1611
+0.1_percent	2020	sen. mike lee	0.1368	1_percent	covid response	0.1608
+0.1_percent	2020	fox news	0.1366	1_percent	direct payments	0.1608
+0.1_percent	2020	population %	0.1366	1_percent	coronavirus outbreaks	0.1603
+0.1_percent	2020	south china	0.1364	1_percent	how covid	0.1603
+0.1_percent	2020	elderly people	0.1362	1_percent	diamond princess	0.1598
+0.1_percent	2020	north carolina	0.1362	1_percent	second wave	0.1598
+0.1_percent	2020	such pandemic	0.1356	1_percent	fighting covid	0.1598
+0.1_percent	2020	coronavirus update	0.1354	1_percent	coronavirus test	0.1596
+0.1_percent	2020	wuhan province	0.1354	1_percent	covid infection	0.1596
+0.1_percent	2020	united states	0.1354	1_percent	hand sanitizer	0.1586
+0.1_percent	2020	pre covid	0.1354	1_percent	test kits	0.1584
+0.1_percent	2020	remote learning	0.1353	1_percent	remote learning	0.1575
+0.1_percent	2020	active covid cases	0.135	1_percent	chinese scientists	0.157
+0.1_percent	2020	public school teachers	0.1346	1_percent	dr. birx	0.1569
+0.1_percent	2020	police brutality	0.1344	1_percent	no one	0.1564
+0.1_percent	2020	state health department	0.1344	1_percent	test results	0.1563
+0.1_percent	2020	how bad covid	0.1344	1_percent	chinese nationals	0.1562
+0.1_percent	2020	covid regulations	0.1343	1_percent	infectious diseases	0.156
+0.1_percent	2020	frontline workers	0.134	1_percent	nicola sturgeon	0.1559
+0.1_percent	2020	blood component	0.134	1_percent	early march	0.1558
+0.1_percent	2020	compartment exams	0.134	1_percent	first cases	0.1557
+0.1_percent	2020	asymptomatic people	0.1338	1_percent	daily cases	0.1557
+0.1_percent	2020	public health advice	0.1336	1_percent	jared kushner	0.1555
+0.1_percent	2020	chinas hubei province	0.1329	1_percent	covid19 testing	0.1555
+0.1_percent	2020	neet/jee exams	0.1329	1_percent	chinas efforts	0.1554
+0.1_percent	2020	election fraud	0.1329	1_percent	flu season	0.1552
+0.1_percent	2020	andrew cuomo	0.1328	1_percent	jungkook china	0.1552
+0.1_percent	2020	normal times	0.1328	1_percent	north dakota	0.1548
+0.1_percent	2020	high risk	0.1327	1_percent	side effects	0.1546
+0.1_percent	2020	social security	0.1323	1_percent	food banks	0.1545
+0.1_percent	2020	public health officials	0.1321	1_percent	north korea	0.1543
+0.1_percent	2020	social distancing measures	0.1317	1_percent	face mask	0.1542
+0.1_percent	2020	infectious diseases	0.1315	1_percent	coronavirus season	0.154
+0.1_percent	2020	self isolation	0.1314	1_percent	icu beds	0.1537
+0.1_percent	2020	preexisting conditions	0.1314	1_percent	wuhan hospitals	0.1529
+0.1_percent	2020	covid precautions	0.1314	1_percent	blue states	0.1529
+0.1_percent	2020	lucky covid	0.1314	1_percent	neet exam	0.1528
+0.1_percent	2020	novel coronavirus patients	0.1312	1_percent	covid19 palliatives	0.1524
+0.1_percent	2020	covid-19 cases	0.1312	1_percent	community spread	0.1522
+0.1_percent	2020	students unity	0.1312	1_percent	asymptomatic people	0.1517
+0.1_percent	2020	coronavirus shutdown	0.1311	1_percent	past week	0.1516
+0.1_percent	2020	coronavirus rules	0.1309	1_percent	covid vaccinations	0.1514
+0.1_percent	2020	hubei province	0.1307	1_percent	coronavirus rn	0.1512
+0.1_percent	2020	nancy pelosi	0.1307	1_percent	medical staff	0.151
+0.1_percent	2020	fighting covid	0.1307	1_percent	final year	0.1503
+0.1_percent	2020	new covid restrictions	0.1307	1_percent	wuhan lab	0.1502
+0.1_percent	2020	healthy people	0.1306	1_percent	wuhan university	0.1491
+0.1_percent	2020	covid stimulus	0.1305	1_percent	coronavirus research	0.1491
+0.1_percent	2020	chinese officials	0.1302	1_percent	cloth masks	0.1487
+0.1_percent	2020	coronavirus briefings	0.1301	1_percent	public places	0.1486
+0.1_percent	2020	direct relief	0.1301	1_percent	daily deaths	0.1484
+0.1_percent	2020	peoples lives	0.1299	1_percent	coronavirus numbers	0.1483
+0.1_percent	2020	chinas coronavirus	0.1298	1_percent	massive protests	0.1482
+0.1_percent	2020	medical supplies	0.1297	1_percent	good hygiene	0.1481
+0.1_percent	2020	labor day weekend	0.1297	1_percent	cruise ship	0.1477
+0.1_percent	2020	first responders	0.1294	1_percent	corona crisis	0.1476
+0.1_percent	2020	chinese new year	0.1293	1_percent	online classes	0.1473
+0.1_percent	2020	comedk exam	0.1293	1_percent	saudi arabia	0.147
+0.1_percent	2020	final year exams	0.1291	1_percent	travel restrictions	0.1468
+0.1_percent	2020	first time	0.129	1_percent	death rates	0.1468
+0.1_percent	2020	free testing	0.1289	1_percent	african americans	0.1467
+0.1_percent	2020	mainland china 🇨🇳	0.1287	1_percent	a. mask	0.1467
+0.1_percent	2020	dominic cummings	0.1281	1_percent	wuhan flu	0.1465
+0.1_percent	2020	positive tests	0.1281	1_percent	systemic racism	0.1465
+0.1_percent	2020	face coverings	0.1279	1_percent	normal life	0.1464
+0.1_percent	2020	covid19 crisis	0.1273	1_percent	sick leave	0.146
+0.1_percent	2020	coronavirus trajectories	0.1272	1_percent	trump rallies	0.146
+0.1_percent	2020	younger people	0.1271	1_percent	ron desantis	0.146
+0.1_percent	2020	coronavirus relief bill	0.1271	1_percent	mass vaccination	0.146
+0.1_percent	2020	covid crisis	0.127	1_percent	human cells	0.1459
+0.1_percent	2020	second wave	0.1269	1_percent	compartment exams	0.1459
+0.1_percent	2020	mr. president	0.1266	1_percent	community transmission	0.1458
+0.1_percent	2020	record time	0.1266	1_percent	medical care	0.1456
+0.1_percent	2020	human rights	0.1261	1_percent	surviving covid	0.1455
+0.1_percent	2020	mental health issues	0.1261	1_percent	toilet paper	0.1453
+0.1_percent	2020	pres. trump	0.1258	1_percent	police reform	0.145
+0.1_percent	2020	migrant workers	0.1257	1_percent	real people	0.1447
+0.1_percent	2020	north dakota	0.1257	1_percent	china flights	0.1445
+0.1_percent	2020	excess deaths	0.1256	1_percent	hand sanitiser	0.1444
+0.1_percent	2020	neet exam	0.1256	1_percent	disease control	0.1442
+0.1_percent	2020	wuhan hospitals	0.1255	1_percent	public schools	0.1442
+0.1_percent	2020	tulsa rally	0.1255	1_percent	pandemic relief	0.1441
+0.1_percent	2020	family members	0.1254	1_percent	real time	0.1438
+0.1_percent	2020	mask mandate	0.1252	1_percent	job losses	0.1438
+0.1_percent	2020	chinas deadly coronavirus	0.1248	1_percent	first death	0.1437
+0.1_percent	2020	innocent people	0.1248	1_percent	heart disease	0.1437
+0.1_percent	2020	pakistani students	0.1246	1_percent	conspiracy theories	0.1436
+0.1_percent	2020	coronavirus coronavirus	0.1243	1_percent	stock market	0.1435
+0.1_percent	2020	wuhan hospital	0.1243	1_percent	rich countries	0.1435
+0.1_percent	2020	wuhan flu	0.1242	1_percent	jee exams	0.1432
+0.1_percent	2020	chinas coronavirus epidemic	0.1242	1_percent	large gatherings	0.1431
+0.1_percent	2020	free covid testing	0.1242	1_percent	wuhan hospital	0.1427
+0.1_percent	2020	fuck covid	0.1241	1_percent	new ways	0.1427
+0.1_percent	2020	diamond princess	0.1239	1_percent	scott atlas	0.1419
+0.1_percent	2020	documented cases	0.1239	1_percent	china jensetters	0.1416
+0.1_percent	2020	dr. li wenliang	0.1238	1_percent	social care	0.1416
+0.1_percent	2020	west nile virus	0.1238	1_percent	jeff bezos	0.1415
+0.1_percent	2020	hand sanitizer	0.1237	1_percent	u.s. citizens	0.1414
+0.1_percent	2020	first day	0.1235	1_percent	health ministry	0.1409
+0.1_percent	2020	dead people	0.1234	1_percent	grazia china	0.1405
+0.1_percent	2020	southern china	0.1233	1_percent	neet jee	0.1402
+0.1_percent	2020	job growth	0.1228	1_percent	dead people	0.1401
+0.1_percent	2020	working class people	0.1227	1_percent	immediate relief	0.1401
+0.1_percent	2020	mr. trump	0.1226	1_percent	coronavirus efforts	0.14
+0.1_percent	2020	matt hancock	0.1225	1_percent	coronavirus checks	0.1399
+0.1_percent	2020	el paso county	0.1225	1_percent	mass gatherings	0.1399
+0.1_percent	2020	wearamask #	0.1224	1_percent	judge barrett	0.1399
+0.1_percent	2020	coronavirus outbreak |	0.1221	1_percent	wuhan citizen	0.1398
+0.1_percent	2020	coronavirus damages	0.1221	1_percent	kamala harris	0.1395
+0.1_percent	2020	public health measures	0.1221	1_percent	election night	0.1394
+0.1_percent	2020	cdc reports	0.1219	1_percent	good health	0.1393
+0.1_percent	2020	neet jee exams	0.1217	1_percent	jason kenney	0.1392
+0.1_percent	2020	real relief	0.1217	1_percent	delhi govt	0.1386
+0.1_percent	2020	ordinary people	0.1216	1_percent	covid regulations	0.1384
+0.1_percent	2020	highest number	0.1216	1_percent	college football	0.1383
+0.1_percent	2020	american people	0.1216	1_percent	s. korea	0.1379
+0.1_percent	2020	mike pence	0.1215	1_percent	american history	0.1377
+0.1_percent	2020	public transport	0.1214	1_percent	voter fraud	0.1377
+0.1_percent	2020	health professionals	0.1214	1_percent	unemployment benefits	0.1375
+0.1_percent	2020	asymptomatic cases	0.1212	1_percent	sick time	0.1372
+0.1_percent	2020	coronavirus risk	0.1211	1_percent	false positives	0.1372
+0.1_percent	2020	central china	0.121	1_percent	puerto rico	0.1365
+0.1_percent	2020	daily cases	0.121	1_percent	innocent people	0.1363
+0.1_percent	2020	johns hopkins university	0.1208	1_percent	home isolation	0.1363
+0.1_percent	2020	coronavirus spreads	0.1205	1_percent	chinese doctors	0.1362
+0.1_percent	2020	trump campaign	0.1205	1_percent	coronavirus masks	0.1356
+0.1_percent	2020	covid relief funds	0.1204	1_percent	santa claus	0.1355
+0.1_percent	2020	nov. 3rd	0.1204	1_percent	ur hands	0.1354
+0.1_percent	2020	hospital staff	0.1203	1_percent	dr li	0.1352
+0.1_percent	2020	sen. david perdue	0.1203	1_percent	coronavirus aid	0.1352
+0.1_percent	2020	trump rallies	0.1201	1_percent	race riots	0.135
+0.1_percent	2020	secondary number	0.12	1_percent	american soldiers	0.1348
+0.1_percent	2020	cegah coronavirus	0.1199	1_percent	recent months	0.1347
+0.1_percent	2020	exam hall	0.1199	1_percent	st. louis	0.1346
+0.1_percent	2020	donald trump tests	0.1198	1_percent	new delhi	0.1342
+0.1_percent	2020	american deaths	0.1197	1_percent	virus-hit wuhan	0.134
+0.1_percent	2020	pcr tests	0.1196	1_percent	presidential debates	0.1338
+0.1_percent	2020	working families	0.1194	1_percent	xmas day	0.1338
+0.1_percent	2020	coronavirus research	0.1193	1_percent	wuhan authorities	0.1335
+0.1_percent	2020	first coronavirus patient	0.1193	1_percent	unplanned lockdown	0.1335
+0.1_percent	2020	recent weeks	0.1193	1_percent	free testing	0.1334
+0.1_percent	2020	cdc guidelines	0.1193	1_percent	trump campaign	0.1333
+0.1_percent	2020	neet jee	0.1193	1_percent	elderly people	0.1331
+0.1_percent	2020	coronavirus bailout money	0.119	1_percent	world leaders	0.1329
+0.1_percent	2020	students lives	0.1189	1_percent	intensive care	0.1328
+0.1_percent	2020	chinas coronavirus response	0.1188	1_percent	hospital beds	0.1328
+0.1_percent	2020	reported cases	0.1188	1_percent	chinese government	0.1325
+0.1_percent	2020	kelly loeffler	0.1188	1_percent	deadly pandemic	0.1325
+0.1_percent	2020	immediate relief	0.1187	1_percent	first dose	0.1325
+0.1_percent	2020	corona virus outbreak	0.1185	1_percent	east chinas	0.1323
+0.1_percent	2020	coronavirus jokes	0.1185	1_percent	american families	0.1318
+0.1_percent	2020	recovery rate	0.1185	1_percent	case numbers	0.1318
+0.1_percent	2020	polio outbreak	0.1185	1_percent	coronavirus carriers	0.1316
+0.1_percent	2020	record number	0.1184	1_percent	new research	0.1316
+0.1_percent	2020	coronavirus aid	0.1183	1_percent	chinas military	0.1315
+0.1_percent	2020	scott atlas	0.1183	1_percent	mass protests	0.1315
+0.1_percent	2020	no masks	0.1182	1_percent	global pandemics	0.1311
+0.1_percent	2020	unplanned lockdown	0.1181	1_percent	herman cain	0.1311
+0.1_percent	2020	vulnerable people	0.1178	1_percent	another year	0.1311
+0.1_percent	2020	public health orders	0.1178	1_percent	gov. abbott	0.131
+0.1_percent	2020	covid19 transmission	0.1177	1_percent	death certificates	0.1308
+0.1_percent	2020	covid update	0.1177	1_percent	trump administration	0.1306
+0.1_percent	2020	coronavirus relief money	0.1174	1_percent	new mexico	0.1305
+0.1_percent	2020	allergic reactions	0.1172	1_percent	coronavirus hospitalizations	0.1303
+0.1_percent	2020	first cases	0.1171	1_percent	disease outbreaks	0.1301
+0.1_percent	2020	chinas economy	0.117	1_percent	public spaces	0.13
+0.1_percent	2020	reported coronavirus cases	0.117	1_percent	new study	0.13
+0.1_percent	2020	new infections	0.1169	1_percent	medical workers	0.1299
+0.1_percent	2020	covid test results	0.1169	1_percent	trump tests	0.1299
+0.1_percent	2020	first death	0.1168	1_percent	ravenclaw 🤣🤣🤣	0.1298
+0.1_percent	2020	coronavirus death count	0.1168	1_percent	private hospitals	0.1297
+0.1_percent	2020	next month	0.1167	1_percent	wuhan police	0.1296
+0.1_percent	2020	election results	0.1167	1_percent	each day	0.1294
+0.1_percent	2020	new #coronavirus cases	0.1166	1_percent	essential services	0.1294
+0.1_percent	2020	another lockdown	0.1162	1_percent	years end	0.1294
+0.1_percent	2020	national exams	0.1162	1_percent	covid warriors	0.1293
+0.1_percent	2020	dan andrews	0.116	1_percent	cdc scientists	0.1292
+0.1_percent	2020	coronavirus masks	0.1158	1_percent	working americans	0.1292
+0.1_percent	2020	new lockdown	0.1158	1_percent	covid palliatives	0.1289
+0.1_percent	2020	pfizers covid-19 vaccine	0.1158	1_percent	peaceful protesters	0.1285
+0.1_percent	2020	close contact	0.1157	1_percent	dr. oz	0.1282
+0.1_percent	2020	covid data	0.1157	1_percent	wuhan region	0.1281
+0.1_percent	2020	president-elect joe biden	0.1154	1_percent	positive patients	0.1281
+0.1_percent	2020	coronavirus updates	0.1151	1_percent	chinese tourists	0.128
+0.1_percent	2020	real time	0.1151	1_percent	pandemic situation	0.128
+0.1_percent	2020	covid survivors	0.1151	1_percent	vitamin d	0.1279
+0.1_percent	2020	as many people	0.115	1_percent	poor countries	0.1278
+0.1_percent	2020	los angeles	0.1146	1_percent	barack obama	0.1274
+0.1_percent	2020	chinese state media	0.1145	1_percent	sick pay	0.1271
+0.1_percent	2020	final year	0.1145	1_percent	entrance exams	0.1271
+0.1_percent	2020	bame people	0.1144	1_percent	nhs workers	0.127
+0.1_percent	2020	coronavirus relief funds	0.1143	1_percent	sri lanka	0.1265
+0.1_percent	2020	covid-19 lockdowns	0.1139	1_percent	coronavirus briefings	0.1263
+0.1_percent	2020	paid sick leave	0.1137	1_percent	trace system	0.1262
+0.1_percent	2020	disney world	0.1137	1_percent	medical equipment	0.126
+0.1_percent	2020	china travel advisory	0.1136	1_percent	protective gear	0.1259
+0.1_percent	2020	asian people	0.1136	1_percent	blood group	0.1257
+0.1_percent	2020	enough test kits	0.1136	1_percent	gov. newsom	0.1257
+0.1_percent	2020	college football	0.1136	1_percent	li-meng yan	0.1256
+0.1_percent	2020	chinese government	0.1135	1_percent	ron johnson	0.1253
+0.1_percent	2020	opening schools	0.1135	1_percent	covid-19 lockdowns	0.1251
+0.1_percent	2020	false positives	0.1135	1_percent	george floyd	0.1248
+0.1_percent	2020	trump voters	0.1133	1_percent	covid concerns	0.1247
+0.1_percent	2020	jared kushner	0.1131	1_percent	blm protests	0.1246
+0.1_percent	2020	michigan supreme court	0.113	1_percent	further notice	0.1245
+0.1_percent	2020	tu warga china	0.1128	1_percent	food insecurity	0.1243
+0.1_percent	2020	confirmed covid-19 cases	0.1127	1_percent	pakistani students	0.124
+0.1_percent	2020	cruise ship	0.1126	1_percent	pm modi	0.1237
+0.1_percent	2020	american families	0.1124	1_percent	chinese citizens	0.1234
+0.1_percent	2020	holiday gatherings	0.1122	1_percent	u.s. companies	0.1233
+0.1_percent	2020	world leaders	0.1121	1_percent	black americans	0.1233
+0.1_percent	2020	icu beds	0.1121	1_percent	trump rally	0.1231
+0.1_percent	2020	george floyd	0.1121	1_percent	abc news	0.123
+0.1_percent	2020	ron desantis	0.1118	1_percent	sick days	0.1229
+0.1_percent	2020	global health	0.1117	1_percent	vaccine development	0.1229
+0.1_percent	2020	several states	0.1117	1_percent	corona outbreak	0.1228
+0.1_percent	2020	covid palliatives	0.1116	1_percent	nbc news	0.1228
+0.1_percent	2020	covid19 food aid	0.1113	1_percent	american workers	0.1227
+0.1_percent	2020	indebted people	0.1112	1_percent	dr fauci	0.1227
+0.1_percent	2020	coronavirus testing sites	0.1111	1_percent	protective equipment	0.1227
+0.1_percent	2020	coronavirus-hit china	0.111	1_percent	infection rates	0.1225
+0.1_percent	2020	covid19 deaths	0.111	1_percent	covid update	0.1221
+0.1_percent	2020	no pandemic	0.1109	1_percent	tamil nadu	0.1218
+0.1_percent	2020	christmas this year	0.1109	1_percent	students health	0.1218
+0.1_percent	2020	test kits	0.1105	1_percent	surgical masks	0.1215
+0.1_percent	2020	heart disease	0.1104	1_percent	new record	0.1214
+0.1_percent	2020	gov. cuomo	0.1104	1_percent	covid situation	0.1212
+0.1_percent	2020	infected people	0.1102	1_percent	homeless people	0.1211
+0.1_percent	2020	human lives	0.1102	1_percent	students lives	0.1211
+0.1_percent	2020	cloth masks	0.1102	1_percent	kelly loeffler	0.1209
+0.1_percent	2020	new yorkers	0.1101	1_percent	trumps covid	0.1209
+0.1_percent	2020	poor children	0.1101	1_percent	xi jinping	0.1208
+0.1_percent	2020	everyday people	0.1101	1_percent	enough tests	0.1208
+0.1_percent	2020	good health	0.11	1_percent	clinical trials	0.1207
+0.1_percent	2020	melania trump	0.11	1_percent	student life	0.1207
+0.1_percent	2020	coronavirus data	0.1097	1_percent	election fraud	0.1207
+0.1_percent	2020	exam center	0.1097	1_percent	coronavirus spike	0.1206
+0.1_percent	2020	college students	0.1097	1_percent	coronavirus sufferers	0.1205
+0.1_percent	2020	uk coronavirus cases	0.1096	1_percent	fifth case	0.1205
+0.1_percent	2020	covid19 lockdown	0.1094	1_percent	record time	0.1205
+0.1_percent	2020	kamala harris	0.1091	1_percent	ng china	0.1203
+0.1_percent	2020	infection rates	0.1091	1_percent	home people	0.1202
+0.1_percent	2020	opening day	0.1091	1_percent	bts lockdown	0.1199
+0.1_percent	2020	bts lockdown	0.109	1_percent	doug ford	0.1198
+0.1_percent	2020	christmas dinner	0.109	1_percent	insider trading	0.1197
+0.1_percent	2020	chinese tourists	0.1089	1_percent	ordinary people	0.1197
+0.1_percent	2020	medical care	0.1088	1_percent	bad news	0.1196
+0.1_percent	2020	covid relief legislation	0.1087	1_percent	covid spikes	0.1196
+0.1_percent	2020	real life	0.1085	1_percent	health authorities	0.1192
+0.1_percent	2020	corpus christi	0.1084	1_percent	opening day	0.1189
+0.1_percent	2020	common sense	0.1082	1_percent	hillary clinton	0.1186
+0.1_percent	2020	trump testing	0.1081	1_percent	donald trumps	0.1185
+0.1_percent	2020	bc people	0.1081	1_percent	key workers	0.1185
+0.1_percent	2020	coronavirus illness	0.108	1_percent	coronavirus conference	0.1185
+0.1_percent	2020	emergency covid relief	0.108	1_percent	dr. conley	0.1184
+0.1_percent	2020	past week	0.1079	1_percent	san antonio	0.1183
+0.1_percent	2020	wuhan citizens	0.1078	1_percent	covid precautions	0.1183
+0.1_percent	2020	jee neet	0.1078	1_percent	recent years	0.1182
+0.1_percent	2020	entrance exams	0.1078	1_percent	liquor shops	0.1181
+0.1_percent	2020	covid complications	0.1078	1_percent	human trials	0.1178
+0.1_percent	2020	end covid	0.1077	1_percent	new virus	0.1177
+0.1_percent	2020	covid funds	0.1076	1_percent	higher risk	0.1176
+0.1_percent	2020	unemployment relief	0.1076	1_percent	public money	0.1176
+0.1_percent	2020	san francisco	0.1075	1_percent	coronavirus complications	0.1174
+0.1_percent	2020	coronavirus hysteria	0.1075	1_percent	judy mikovits	0.1174
+0.1_percent	2020	systemic racism	0.1075	1_percent	bernie sanders	0.1173
+0.1_percent	2020	covid relief negotiations	0.1075	1_percent	las vegas	0.1173
+0.1_percent	2020	corporate america	0.1074	1_percent	corona lockdown	0.1173
+0.1_percent	2020	pre-pandemic levels	0.1074	1_percent	moderna vaccine	0.1173
+0.1_percent	2020	death certificates	0.1073	1_percent	great news	0.1172
+0.1_percent	2020	same day	0.1073	1_percent	thanksgiving dinner	0.1171
+0.1_percent	2020	no covid	0.1071	1_percent	china travel	0.117
+0.1_percent	2020	medical staff	0.1068	1_percent	record levels	0.117
+0.1_percent	2020	china coronavirus outbreak	0.1068	1_percent	trump family	0.1168
+0.1_percent	2020	daily deaths	0.1068	1_percent	southern california	0.1167
+0.1_percent	2020	direct payments	0.1068	1_percent	el paso	0.1162
+0.1_percent	2020	free covid vaccine	0.1067	1_percent	medical professionals	0.1161
+0.1_percent	2020	china outbreak	0.1066	1_percent	bbc scotland	0.1159
+0.1_percent	2020	press briefing	0.1066	1_percent	medical students	0.1157
+0.1_percent	2020	coronavirus hospitalizations	0.1066	1_percent	everyday people	0.1157
+0.1_percent	2020	a. mask	0.1066	1_percent	neet/jee exams	0.1155
+0.1_percent	2020	chinese nationals	0.1064	1_percent	early june	0.1152
+0.1_percent	2020	president trump testing	0.1063	1_percent	preexisting conditions	0.1151
+0.1_percent	2020	chinas foreign ministry	0.1061	1_percent	several months	0.1151
+0.1_percent	2020	trumps covid	0.1061	1_percent	gates-funded vaccine	0.115
+0.1_percent	2020	senate republicans	0.1057	1_percent	foreign countries	0.1149
+0.1_percent	2020	family gatherings	0.1057	1_percent	self isolation	0.1146
+0.1_percent	2020	mass death	0.1055	1_percent	amit shah	0.1146
+0.1_percent	2020	positive results	0.1055	1_percent	scott morrison	0.1144
+0.1_percent	2020	southern california	0.1054	1_percent	coronavirus rages	0.1144
+0.1_percent	2020	increased testing	0.1051	1_percent	covid lockdown	0.1144
+0.1_percent	2020	death rate	0.105	1_percent	opp 💉	0.1141
+0.1_percent	2020	homeless people	0.1049	1_percent	red states	0.114
+0.1_percent	2020	thanksgiving day	0.1048	1_percent	single day	0.114
+0.1_percent	2020	test results	0.1047	1_percent	chinas ambassador	0.1138
+0.1_percent	2020	corona patients	0.1047	1_percent	coronavirus fatalities	0.1137
+0.1_percent	2020	covid treatment	0.1047	1_percent	big pharma	0.1137
+0.1_percent	2020	first #coronavirus case	0.1046	1_percent	emily murphy	0.1137
+0.1_percent	2020	working americans	0.1046	1_percent	wuhan govt	0.1135
+0.1_percent	2020	when covid	0.1043	1_percent	pres trump	0.1133
+0.1_percent	2020	rapid tests	0.1043	1_percent	new orleans	0.1131
+0.1_percent	2020	first coronavirus case	0.104	1_percent	global economy	0.1131
+0.1_percent	2020	international students	0.1038	1_percent	medical masks	0.1131
+0.1_percent	2020	south china sea	0.1037	1_percent	san diego	0.113
+0.1_percent	2020	intensive care	0.1037	1_percent	gretchen whitmer	0.113
+0.1_percent	2020	mass testing	0.1037	1_percent	mid march	0.113
+0.1_percent	2020	economic crisis	0.1037	1_percent	wuhan market	0.1127
+0.1_percent	2020	new virus cases	0.1035	1_percent	state media	0.1127
+0.1_percent	2020	about #coronavirus	0.1034	1_percent	covid recovery	0.1127
+0.1_percent	2020	china #coronavirus	0.1033	1_percent	covid-19 infections	0.1123
+0.1_percent	2020	covid-19 coronavirus	0.1031	1_percent	mike bloomberg	0.1121
+0.1_percent	2020	covid infection	0.1031	1_percent	first lady	0.1118
+0.1_percent	2020	staff mark meadows	0.1031	1_percent	face shields	0.1117
+0.1_percent	2020	conspiracy theories	0.103	1_percent	nizamuddin markaz	0.1117
+0.1_percent	2020	social care	0.103	1_percent	high school	0.1116
+0.1_percent	2020	open schools	0.103	1_percent	covid19 crisis	0.1116
+0.1_percent	2020	neet-jee exams	0.103	1_percent	w covid	0.1115
+0.1_percent	2020	disease control	0.1029	1_percent	exam center	0.1114
+0.1_percent	2020	student debt	0.1029	1_percent	thinking covid	0.1114
+0.1_percent	2020	child abuse	0.1028	1_percent	lockdown orders	0.1113
+0.1_percent	2020	coronavirus social distancing	0.1027	1_percent	national exams	0.1113
+0.1_percent	2020	high school	0.1027	1_percent	struggling families	0.1113
+0.1_percent	2020	first lady	0.1027	1_percent	indebted people	0.1113
+0.1_percent	2020	voter fraud	0.1025	1_percent	world war	0.1112
+0.1_percent	2020	coronavirus misinformation	0.1024	1_percent	coronavirus rules	0.1112
+0.1_percent	2020	positivity rate	0.1023	1_percent	modi govt	0.1111
+0.1_percent	2020	coronavirus complications	0.1022	1_percent	travel ban	0.111
+0.1_percent	2020	cv19 death toll	0.1021	1_percent	ve day	0.111
+0.1_percent	2020	med school	0.1021	1_percent	communist party	0.1109
+0.1_percent	2020	covid lawsuits	0.1021	1_percent	chinas government	0.1109
+0.1_percent	2020	free school meals	0.102	1_percent	care doctor	0.1109
+0.1_percent	2020	eachother covid	0.102	1_percent	past time	0.1107
+0.1_percent	2020	hospital admissions	0.1019	1_percent	chinese media	0.1102
+0.1_percent	2020	voter suppression	0.1018	1_percent	food lines	0.1101
+0.1_percent	2020	convalescent plasma	0.1018	1_percent	dr. bright	0.11
+0.1_percent	2020	thanksgiving dinner	0.1018	1_percent	trump recover	0.11
+0.1_percent	2020	corona crisis	0.1017	1_percent	indoor dining	0.1099
+0.1_percent	2020	free vaccines	0.1017	1_percent	white supremacy	0.1097
+0.1_percent	2020	wuhan market	0.1016	1_percent	u.s. cdc	0.1096
+0.1_percent	2020	positive patients	0.1016	1_percent	chinas response	0.1096
+0.1_percent	2020	small business owners	0.1015	1_percent	coronavirus mutation	0.1096
+0.1_percent	2020	medical workers	0.1014	1_percent	thai people	0.1095
+0.1_percent	2020	hand washing	0.1013	1_percent	cruise ships	0.1094
+0.1_percent	2020	care home deaths	0.101	1_percent	red china	0.1094
+0.1_percent	2020	president-elect biden	0.1009	1_percent	young adults	0.1094
+0.1_percent	2020	large gatherings	0.1008	1_percent	joel osteen	0.1093
+0.1_percent	2020	suspected case	0.1007	1_percent	new data	0.1092
+0.1_percent	2020	mass gatherings	0.1007	1_percent	several days	0.1091
+0.1_percent	2020	normal life	0.1007	1_percent	few people	0.1091
+0.1_percent	2020	peoples life	0.1007	1_percent	economic crisis	0.109
+0.1_percent	2020	daily death toll	0.1007	1_percent	ballot harvesting	0.109
+0.1_percent	2020	related death	0.1006	1_percent	state law	0.109
+0.1_percent	2020	state health officials	0.1005	1_percent	police officers	0.1089
+0.1_percent	2020	public places	0.1005	1_percent	older patients	0.1088
+0.1_percent	2020	unemployment benefits	0.1005	1_percent	price gouging	0.1087
+0.1_percent	2020	daily new cases	0.1005	1_percent	same day	0.1087
+0.1_percent	2020	antibody tests	0.1004	1_percent	dr. moore	0.1087
+0.1_percent	2020	underlying health conditions	0.1002	1_percent	greater manchester	0.1086
+0.1_percent	2020	wuhan medical care	0.1001	1_percent	vote trump	0.1086
+0.1_percent	2020	china coronavirus carriers	0.1001	1_percent	aspiring students	0.1082
+0.1_percent	2020	hospital beds	0.1001	1_percent	uk flights	0.1081
+0.1_percent	2020	health authorities	0.1	1_percent	pandemic response	0.108
+0.1_percent	2020	american history	0.0999	1_percent	students safety	0.108
+0.1_percent	2020	home isolation	0.0999	1_percent	christmas week	0.108
+0.1_percent	2020	new research	0.0998	1_percent	federal troops	0.1078
+0.1_percent	2020	hazard pay	0.0998	1_percent	cancer patients	0.1077
+0.1_percent	2020	china virus deaths	0.0996	1_percent	late january	0.1075
+0.1_percent	2020	previous years	0.0995	1_percent	delhi government	0.1075
+0.1_percent	2020	l.a. county	0.0993	1_percent	no lockdown	0.1074
+0.1_percent	2020	racial injustice	0.0992	1_percent	wuhan pneumonia	0.1071
+0.1_percent	2020	great care	0.0992	1_percent	government money	0.1071
+0.1_percent	2020	tax breaks	0.0991	1_percent	mild symptoms	0.107
+0.1_percent	2020	herman cain	0.0991	1_percent	poor leadership	0.107
+0.1_percent	2020	white house officials	0.0991	1_percent	medical experts	0.1069
+0.1_percent	2020	covid19 infection	0.0991	1_percent	native americans	0.1069
+0.1_percent	2020	border security	0.099	1_percent	jee mains	0.1068
+0.1_percent	2020	uk deaths	0.099	1_percent	concentration camps	0.1067
+0.1_percent	2020	trump event	0.0988	1_percent	opening schools	0.1067
+0.1_percent	2020	hundreds of thousands	0.0987	1_percent	holiday gatherings	0.1067
+0.1_percent	2020	international law	0.0987	1_percent	dido harding	0.1066
+0.1_percent	2020	food lines	0.0987	1_percent	when covid	0.1065
+0.1_percent	2020	hong kong government	0.0986	1_percent	international concern	0.1063
+0.1_percent	2020	new rules	0.0986	1_percent	coronavirus transmission	0.1063
+0.1_percent	2020	china tourists	0.0985	1_percent	international students	0.1062
+0.1_percent	2020	new data	0.0985	1_percent	christmas island	0.1061
+0.1_percent	2020	recent days	0.0985	1_percent	greater risk	0.1061
+0.1_percent	2020	no mask	0.0985	1_percent	famous people	0.106
+0.1_percent	2020	public trust	0.0984	1_percent	jee neet	0.106
+0.1_percent	2020	health infrastructure	0.0984	1_percent	academic year	0.1058
+0.1_percent	2020	jee aspirants	0.0984	1_percent	grocery stores	0.1056
+0.1_percent	2020	coronavirus analysis	0.0982	1_percent	video conferencing	0.1056
+0.1_percent	2020	failed leadership	0.0982	1_percent	tax breaks	0.1056
+0.1_percent	2020	close contacts	0.0981	1_percent	wuhan corona	0.1055
+0.1_percent	2020	northern italy	0.098	1_percent	documented cases	0.1053
+0.1_percent	2020	uk government	0.098	1_percent	susan moore	0.1052
+0.1_percent	2020	chinas wuhan	0.0979	1_percent	online learning	0.1051
+0.1_percent	2020	further notice	0.0979	1_percent	several states	0.1051
+0.1_percent	2020	enough people	0.0979	1_percent	election officials	0.1051
+0.1_percent	2020	missed bills	0.0979	1_percent	police violence	0.1047
+0.1_percent	2020	death threats	0.0978	1_percent	mass death	0.1046
+0.1_percent	2020	coronavirus recovery	0.0977	1_percent	modi ji	0.1045
+0.1_percent	2020	public sector workers	0.0976	1_percent	relief efforts	0.1045
+0.1_percent	2020	trump lies	0.0975	1_percent	offline exams	0.1045
+0.1_percent	2020	tens of thousands	0.0974	1_percent	andhra pradesh	0.1043
+0.1_percent	2020	apple pay #	0.0974	1_percent	coronavirus instructions	0.1042
+0.1_percent	2020	combat covid	0.0974	1_percent	student nurses	0.1041
+0.1_percent	2020	several people	0.0972	1_percent	china bar	0.104
+0.1_percent	2020	alarming rates	0.0972	1_percent	bird flu	0.1039
+0.1_percent	2020	cdc scientists	0.0972	1_percent	health minister	0.1039
+0.1_percent	2020	flu cases	0.0972	1_percent	gov. cuomo	0.1039
+0.1_percent	2020	coronavirus re	0.0971	1_percent	gavin newsom	0.1037
+0.1_percent	2020	covid lockdown	0.0971	1_percent	illegal aliens	0.1037
+0.1_percent	2020	postal funding	0.0969	1_percent	hospital staff	0.1036
+0.1_percent	2020	local officials	0.0965	1_percent	battling covid-19	0.1035
+0.1_percent	2020	sick leave	0.0964	1_percent	wuhan government	0.1034
+0.1_percent	2020	key workers	0.0964	1_percent	trump admin	0.1034
+0.1_percent	2020	local government	0.0964	1_percent	universal healthcare	0.1034
+0.1_percent	2020	student debt relief	0.0963	1_percent	law enforcement	0.1034
+0.1_percent	2020	older patients	0.0962	1_percent	covid folks	0.1034
+0.1_percent	2020	economic recovery	0.096	1_percent	mr cummings	0.1032
+0.1_percent	2020	new study	0.096	1_percent	coronavirus vectors	0.1028
+0.1_percent	2020	rep. porter	0.0959	1_percent	poll workers	0.1028
+0.1_percent	2020	gq china report	0.0958	1_percent	cristiano ronaldo	0.1028
+0.1_percent	2020	new ways	0.0958	1_percent	covid deniers	0.1027
+0.1_percent	2020	bob woodward	0.0958	1_percent	tom hanks	0.1026
+0.1_percent	2020	trump recovery	0.0958	1_percent	trump claims	0.1026
+0.1_percent	2020	new virus	0.0957	1_percent	pre pandemic	0.1026
+0.1_percent	2020	home deaths	0.0957	1_percent	coronavirus precaution	0.1025
+0.1_percent	2020	st. louis	0.0957	1_percent	spring break	0.1024
+0.1_percent	2020	vulnerable children	0.0957	1_percent	health systems	0.1024
+0.1_percent	2020	avoidable deaths	0.0956	1_percent	happy holidays	0.1024
+0.1_percent	2020	nsw health	0.0955	1_percent	enough money	0.1022
+0.1_percent	2020	no one	0.0954	1_percent	asian americans	0.1022
+0.1_percent	2020	human rights activists	0.0954	1_percent	clinical trial	0.1022
+0.1_percent	2020	cdc dir. redfield	0.0953	1_percent	coronavirus analysis	0.1021
+0.1_percent	2020	good luck	0.0952	1_percent	health professionals	0.1021
+0.1_percent	2020	open borders	0.0951	1_percent	multiple people	0.1021
+0.1_percent	2020	easing lockdown	0.0951	1_percent	north america	0.102
+0.1_percent	2020	ohio state	0.0951	1_percent	dean koontz	0.102
+0.1_percent	2020	flu season	0.095	1_percent	corona warriors	0.102
+0.1_percent	2020	hotel quarantine	0.095	1_percent	eachother covid	0.102
+0.1_percent	2020	potential cases	0.0949	1_percent	qinghai province	0.1019
+0.1_percent	2020	record highs	0.0947	1_percent	student community	0.1019
+0.1_percent	2020	christmas week	0.0947	1_percent	free speech	0.1016
+0.1_percent	2020	south carolina	0.0946	1_percent	school reopening	0.1016
+0.1_percent	2020	red states	0.0946	1_percent	taxpayers money	0.1016
+0.1_percent	2020	west bengal	0.0945	1_percent	washington state	0.1015
+0.1_percent	2020	hunger strike	0.0945	1_percent	tulsa rally	0.1015
+0.1_percent	2020	chinese authorities	0.0944	1_percent	georgia school	0.1015
+0.1_percent	2020	americas coronavirus response	0.0944	1_percent	welcome coronavirus	0.1014
+0.1_percent	2020	wuhan lab	0.0943	1_percent	travel history	0.1012
+0.1_percent	2020	private schools	0.0943	1_percent	increased testing	0.1012
+0.1_percent	2020	job losses	0.0943	1_percent	british people	0.1008
+0.1_percent	2020	struggling families	0.0943	1_percent	senate gop	0.1008
+0.1_percent	2020	medical professionals	0.0941	1_percent	coronavirus-infected people	0.1006
+0.1_percent	2020	native americans	0.0941	1_percent	death threats	0.1005
+0.1_percent	2020	covid victims	0.0941	1_percent	uk government	0.1004
+0.1_percent	2020	chinese police	0.094	1_percent	new strand	0.1003
+0.1_percent	2020	pandemic life	0.094	1_percent	great sadness	0.1003
+0.1_percent	2020	covid relief payments	0.094	1_percent	walter reed	0.1003
+0.1_percent	2020	surgical masks	0.0939	1_percent	russian bounties	0.1002
+0.1_percent	2020	wuhan flights	0.0939	1_percent	rising cases	0.1
+0.1_percent	2020	coronavirus infected people	0.0938	1_percent	covid exposure	0.1
+0.1_percent	2020	corona outbreak	0.0938	1_percent	hazard pay	0.0999
+0.1_percent	2020	basic human rights	0.0938	1_percent	positive results	0.0998
+0.1_percent	2020	north korea	0.0936	1_percent	rail minister	0.0996
+0.1_percent	2020	online classes	0.0935	1_percent	pandemic life	0.0996
+0.1_percent	2020	good times	0.0935	1_percent	president xi	0.0995
+0.1_percent	2020	due dates	0.0935	1_percent	andy burnham	0.0995
+0.1_percent	2020	h5n1 bird flu	0.0933	1_percent	closing schools	0.0994
+0.1_percent	2020	medical experts	0.0932	1_percent	domestic violence	0.0994
+0.1_percent	2020	world war ii	0.0931	1_percent	recovery rate	0.0994
+0.1_percent	2020	san lazaro hospital	0.0929	1_percent	margaret ferrier	0.0994
+0.1_percent	2020	coronavirus vaccine |	0.0929	1_percent	covid data	0.0993
+0.1_percent	2020	spring break	0.0929	1_percent	gun violence	0.0992
+0.1_percent	2020	fall semester	0.0929	1_percent	hidden warehouse	0.0992
+0.1_percent	2020	covid guidelines	0.0929	1_percent	coronavirus misinformation	0.0991
+0.1_percent	2020	pandemic perdue	0.0929	1_percent	public safety	0.099
+0.1_percent	2020	coronavirus relief package	0.0929	1_percent	business owners	0.0989
+0.1_percent	2020	new threat	0.0928	1_percent	covid diagnosis	0.0989
+0.1_percent	2020	social distancing laws	0.0928	1_percent	tom brady	0.0988
+0.1_percent	2020	china cdc	0.0927	1_percent	holiday season	0.0988
+0.1_percent	2020	small business	0.0927	1_percent	william barr	0.0986
+0.1_percent	2020	pcr testing	0.0927	1_percent	smart people	0.0986
+0.1_percent	2020	executive orders	0.0927	1_percent	justin trudeau	0.0985
+0.1_percent	2020	walter reed	0.0926	1_percent	li wenliang	0.0984
+0.1_percent	2020	enough tests	0.0925	1_percent	complete lockdown	0.0984
+0.1_percent	2020	pandemic response	0.0925	1_percent	early february	0.0984
+0.1_percent	2020	houston hospitals	0.0925	1_percent	civil unrest	0.0984
+0.1_percent	2020	postal service	0.0925	1_percent	new heights	0.0984
+0.1_percent	2020	lockdown order	0.0924	1_percent	crew members	0.0984
+0.1_percent	2020	trump family	0.0924	1_percent	neil ferguson	0.0983
+0.1_percent	2020	years eve	0.0923	1_percent	state governments	0.0982
+0.1_percent	2020	new york state	0.0923	1_percent	convalescent plasma	0.0982
+0.1_percent	2020	daniel andrews	0.0923	1_percent	press statements	0.0982
+0.1_percent	2020	covid hospitalizations	0.0923	1_percent	enough ventilators	0.098
+0.1_percent	2020	covid19 palliative	0.0923	1_percent	hospital admissions	0.098
+0.1_percent	2020	wuhan coronavirus outbreak	0.0922	1_percent	deadly virus	0.0979
+0.1_percent	2020	multiple people	0.0922	1_percent	national tv	0.0979
+0.1_percent	2020	racial justice	0.0922	1_percent	highest number	0.0978
+0.1_percent	2020	native people	0.0921	1_percent	sars-cov-2 targets	0.0976
+0.1_percent	2020	older adults	0.092	1_percent	kawasaki disease	0.0974
+0.1_percent	2020	faulty coronavirus tests	0.0919	1_percent	covid lawsuits	0.0973
+0.1_percent	2020	sturgis motorcycle	0.0919	1_percent	large groups	0.0972
+0.1_percent	2020	african countries	0.0919	1_percent	no vaccine	0.0972
+0.1_percent	2020	presidential debates	0.0919	1_percent	combat covid	0.0971
+0.1_percent	2020	state coronavirus list	0.0918	1_percent	decisive action	0.0968
+0.1_percent	2020	deadly virus	0.0917	1_percent	uttar pradesh	0.0968
+0.1_percent	2020	incurable diseases	0.0917	1_percent	pfizers vaccine	0.0968
+0.1_percent	2020	young adults	0.0917	1_percent	large numbers	0.0966
+0.1_percent	2020	detained people	0.0917	1_percent	economic collapse	0.0965
+0.1_percent	2020	washington state	0.0916	1_percent	public transit	0.0965
+0.1_percent	2020	bad news	0.0916	1_percent	east africa	0.0964
+0.1_percent	2020	several months	0.0916	1_percent	american citizens	0.0964
+0.1_percent	2020	scotus hearings	0.0916	1_percent	joe bidens	0.0964
+0.1_percent	2020	pandemic relief hostage	0.0916	1_percent	cdc funding	0.0963
+0.1_percent	2020	chinese social media	0.0915	1_percent	seattle area	0.0963
+0.1_percent	2020	coronavirus testing kits	0.0914	1_percent	chris christie	0.0963
+0.1_percent	2020	challenging times	0.0914	1_percent	no exams	0.0962
+0.1_percent	2020	covid supplies	0.0914	1_percent	covid guidelines	0.0962
+0.1_percent	2020	chinese fans	0.0913	1_percent	jee/neet exams	0.096
+0.1_percent	2020	infected patients	0.0912	1_percent	infected trump	0.0959
+0.1_percent	2020	joel osteen	0.0912	1_percent	chinese spies	0.0958
+0.1_percent	2020	vote biden	0.0911	1_percent	flu deaths	0.0958
+0.1_percent	2020	chinas military	0.091	1_percent	massive layoffs	0.0958
+0.1_percent	2020	poll workers	0.091	1_percent	hunan province	0.0955
+0.1_percent	2020	chinas coronavirus outbreak	0.0909	1_percent	breonna taylor	0.0955
+0.1_percent	2020	virus cases	0.0909	1_percent	unmarked vans	0.0955
+0.1_percent	2020	free speech	0.0908	1_percent	covid19 infection	0.0955
+0.1_percent	2020	social distancing restrictions	0.0907	1_percent	comedy central	0.0955
+0.1_percent	2020	new covid-19 infections	0.0907	1_percent	good job	0.0954
+0.1_percent	2020	public health foundation	0.0907	1_percent	independence day	0.0954
+0.1_percent	2020	needy people	0.0906	1_percent	south australia	0.0954
+0.1_percent	2020	political points	0.0905	1_percent	body bags	0.0953
+0.1_percent	2020	global health security	0.0905	1_percent	julian assange	0.0953
+0.1_percent	2020	proper social distancing	0.0904	1_percent	health issues	0.0952
+0.1_percent	2020	courageous men	0.0904	1_percent	orange county	0.0952
+0.1_percent	2020	chinas social media	0.0901	1_percent	school closures	0.0952
+0.1_percent	2020	body bags	0.0901	1_percent	several years	0.0952
+0.1_percent	2020	self quarantine	0.0901	1_percent	single source	0.095
+0.1_percent	2020	nationwide lockdown	0.0901	1_percent	suspected case	0.0949
+0.1_percent	2020	modi govt	0.0901	1_percent	eric trump	0.0949
+0.1_percent	2020	close proximity	0.0901	1_percent	ccp china	0.0948
+0.1_percent	2020	trump camp	0.0901	1_percent	hand washing	0.0948
+0.1_percent	2020	no covid test	0.0901	1_percent	false information	0.0947
+0.1_percent	2020	toilet paper	0.0899	1_percent	free access	0.0947
+0.1_percent	2020	farm workers	0.0898	1_percent	voter suppression	0.0947
+0.1_percent	2020	testing kits	0.0897	1_percent	chris cuomo	0.0946
+0.1_percent	2020	pres trump	0.0897	1_percent	zhejiang province	0.0945
+0.1_percent	2020	fetal tissue	0.0897	1_percent	hunger strike	0.0945
+0.1_percent	2020	incarcerated people	0.0896	1_percent	unknown people	0.0942
+0.1_percent	2020	li wenliang	0.0895	1_percent	record highs	0.0942
+0.1_percent	2020	trumps tulsa rally	0.0895	1_percent	biden supporters	0.0942
+0.1_percent	2020	bame communities	0.0895	1_percent	local hospitals	0.0941
+0.1_percent	2020	emergency coronavirus preparations	0.0894	1_percent	flood situation	0.0941
+0.1_percent	2020	lnjp hospital	0.0894	1_percent	nhs test	0.0941
+0.1_percent	2020	latin america	0.0892	1_percent	travel bans	0.094
+0.1_percent	2020	texas medical center	0.0892	1_percent	kano state	0.094
+0.1_percent	2020	covid icu	0.0892	1_percent	coronavirus loans	0.094
+0.1_percent	2020	susan moore	0.0892	1_percent	extra masks	0.094
+0.1_percent	2020	new strand	0.0891	1_percent	balik china	0.0939
+0.1_percent	2020	goya beans	0.0891	1_percent	government scientists	0.0939
+0.1_percent	2020	next wednesday	0.0891	1_percent	due dates	0.0939
+0.1_percent	2020	seasonal flu	0.089	1_percent	new questions	0.0938
+0.1_percent	2020	donald trumps	0.089	1_percent	tory mps	0.0938
+0.1_percent	2020	dr. atlas	0.089	1_percent	hospital data	0.0938
+0.1_percent	2020	lesley stahl	0.089	1_percent	wuhan jiayou	0.0937
+0.1_percent	2020	social gatherings	0.0889	1_percent	interest rates	0.0937
+0.1_percent	2020	getting covid	0.0889	1_percent	rudy giuliani	0.0937
+0.1_percent	2020	wild animals	0.0888	1_percent	wuhan institute	0.0935
+0.1_percent	2020	domestic violence	0.0888	1_percent	michael bloomberg	0.0935
+0.1_percent	2020	neet students	0.0888	1_percent	trump appointees	0.0935
+0.1_percent	2020	local restrictions	0.0888	1_percent	confirmed case	0.0934
+0.1_percent	2020	covid-19 infections	0.0887	1_percent	coronavirus-related fear	0.0934
+0.1_percent	2020	rising covid-19 cases	0.0887	1_percent	narendra modi	0.0934
+0.1_percent	2020	new covid-19 restrictions	0.0887	1_percent	school districts	0.0934
+0.1_percent	2020	nhs test	0.0887	1_percent	cdc objections	0.0932
+0.1_percent	2020	free masks	0.0886	1_percent	fourth case	0.0931
+0.1_percent	2020	el paso	0.0886	1_percent	close contacts	0.0931
+0.1_percent	2020	new diseases	0.0885	1_percent	public trust	0.093
+0.1_percent	2020	u.s. deaths	0.0885	1_percent	dr. phil	0.093
+0.1_percent	2020	big business	0.0885	1_percent	safety measures	0.093
+0.1_percent	2020	testing sites	0.0885	1_percent	live updates	0.0929
+0.1_percent	2020	mass hysterectomies	0.0885	1_percent	crowded places	0.0928
+0.1_percent	2020	coronavirus aid efforts	0.088	1_percent	covid-19 testing	0.0928
+0.1_percent	2020	potential coronavirus patients	0.0879	1_percent	human beings	0.0927
+0.1_percent	2020	global outbreak	0.0878	1_percent	georgia voters	0.0927
+0.1_percent	2020	wuhan officials	0.0878	1_percent	south america	0.0926
+0.1_percent	2020	wuhan jiayou	0.0878	1_percent	bill barr	0.0926
+0.1_percent	2020	complete lockdown	0.0878	1_percent	bat soup	0.0925
+0.1_percent	2020	health insurers	0.0878	1_percent	chinas xi	0.0925
+0.1_percent	2020	covid warriors	0.0878	1_percent	countless lives	0.0925
+0.1_percent	2020	lockdown measures	0.0877	1_percent	u.s. lockdown	0.0925
+0.1_percent	2020	peaceful protesters	0.0877	1_percent	montgomery county	0.0924
+0.1_percent	2020	zhejiang province	0.0876	1_percent	swine flu	0.0923
+0.1_percent	2020	dr. kizzmekia corbett	0.0876	1_percent	serious people	0.0923
+0.1_percent	2020	gfriend lockdown	0.0875	1_percent	paulding county	0.0922
+0.1_percent	2020	further spread	0.0874	1_percent	infected patients	0.0921
+0.1_percent	2020	flood situation	0.0874	1_percent	coronavirus breaking	0.092
+0.1_percent	2020	covid vaccine distribution	0.0874	1_percent	s korea	0.0919
+0.1_percent	2020	gov. newsom	0.0873	1_percent	chinas dictatorship	0.0919
+0.1_percent	2020	school supplies	0.0872	1_percent	imran khan	0.0919
+0.1_percent	2020	poor students	0.0872	1_percent	theodore roosevelt	0.0918
+0.1_percent	2020	gates-funded vaccine	0.0872	1_percent	if covid	0.0918
+0.1_percent	2020	poor sick people	0.0872	1_percent	illegal immigrants	0.0917
+0.1_percent	2020	us coronavirus death	0.0871	1_percent	trump voters	0.0917
+0.1_percent	2020	ron johnson	0.0871	1_percent	tablighi jamaat	0.0916
+0.1_percent	2020	no exams	0.0871	1_percent	arvind kejriwal	0.0915
+0.1_percent	2020	white supremacy	0.087	1_percent	fetal tissue	0.0915
+0.1_percent	2020	new york times	0.0869	1_percent	uninflected people	0.0914
+0.1_percent	2020	u.s. history	0.0869	1_percent	covid fatigue	0.0914
+0.1_percent	2020	coronavirus china	0.0868	1_percent	hungry children	0.0914
+0.1_percent	2020	coronavirus lockdown rules	0.0868	1_percent	exam postponement	0.0913
+0.1_percent	2020	better days	0.0867	1_percent	relief checks	0.0913
+0.1_percent	2020	covid duty	0.0867	1_percent	several weeks	0.0912
+0.1_percent	2020	jon ossoff	0.0867	1_percent	tax cuts	0.091
+0.1_percent	2020	big vaccine incentive	0.0867	1_percent	chinese food	0.091
+0.1_percent	2020	international day	0.0867	1_percent	lockdown protesters	0.091
+0.1_percent	2020	wuhan china 🇨🇳	0.0866	1_percent	betsy devos	0.0909
+0.1_percent	2020	n95 respirator masks	0.0866	1_percent	sick americans	0.0908
+0.1_percent	2020	coming weeks	0.0866	1_percent	cdc reports	0.0906
+0.1_percent	2020	trump tulsa	0.0865	1_percent	president obama	0.0905
+0.1_percent	2020	yashoda hospital	0.0865	1_percent	absentee ballots	0.0905
+0.1_percent	2020	safety measures	0.0865	1_percent	w/ covid	0.0905
+0.1_percent	2020	jeff bezos	0.0864	1_percent	outdoor dining	0.0905
+0.1_percent	2020	child care	0.0863	1_percent	supply chains	0.0904
+0.1_percent	2020	next coronavirus bill	0.0863	1_percent	vitamin c	0.0904
+0.1_percent	2020	william barr	0.0863	1_percent	human trafficking	0.0904
+0.1_percent	2020	greater sydney	0.0863	1_percent	u.s. goods	0.0903
+0.1_percent	2020	health services	0.0862	1_percent	capitol hill	0.0903
+0.1_percent	2020	dr. scott atlas	0.0862	1_percent	covid19 transmission	0.0903
+0.1_percent	2020	covid-19 crisis	0.0861	1_percent	black men	0.0902
+0.1_percent	2020	webex cisco zoom	0.0861	1_percent	mount rushmore	0.0902
+0.1_percent	2020	wuhan airport	0.086	1_percent	early january	0.09
+0.1_percent	2020	disease outbreaks	0.086	1_percent	best practices	0.09
+0.1_percent	2020	clinical trials	0.086	1_percent	johns hopkins	0.0899
+0.1_percent	2020	countless lives	0.086	1_percent	infected americans	0.0899
+0.1_percent	2020	trump claims	0.086	1_percent	coronavirus lies	0.0899
+0.1_percent	2020	record levels	0.086	1_percent	early april	0.0898
+0.1_percent	2020	chinese students	0.0859	1_percent	death numbers	0.0898
+0.1_percent	2020	doctoring cdc reports	0.0859	1_percent	widespread testing	0.0897
+0.1_percent	2020	dr fauci	0.0858	1_percent	greater sydney	0.0897
+0.1_percent	2020	democratic congressman sponsor	0.0858	1_percent	pandemic p	0.0896
+0.1_percent	2020	travel restrictions	0.0857	1_percent	ebola virus	0.0895
+0.1_percent	2020	food insecurity	0.0857	1_percent	postal service	0.0895
+0.1_percent	2020	negative ads	0.0857	1_percent	unmasked people	0.0894
+0.1_percent	2020	fuck trump	0.0857	1_percent	no coronavirus	0.0893
+0.1_percent	2020	foreign aid	0.0857	1_percent	fuck covid	0.0893
+0.1_percent	2020	second case	0.0856	1_percent	coming weeks	0.0892
+0.1_percent	2020	pm modi	0.0856	1_percent	health infrastructure	0.0892
+0.1_percent	2020	police reform	0.0855	1_percent	murder hornets	0.0891
+0.1_percent	2020	valuable time	0.0854	1_percent	big corporations	0.089
+0.1_percent	2020	vaccine development	0.0854	1_percent	wang yi	0.0889
+0.1_percent	2020	gov. gavin newsom	0.0854	1_percent	internment camps	0.0888
+0.1_percent	2020	state govt	0.0854	1_percent	local businesses	0.0888
+0.1_percent	2020	great news	0.0853	1_percent	isolation ward	0.0887
+0.1_percent	2020	t cells	0.0853	1_percent	trade secrets	0.0887
+0.1_percent	2020	dr. moore	0.0853	1_percent	healthcare professionals	0.0887
+0.1_percent	2020	african american	0.0853	1_percent	flag trump	0.0887
+0.1_percent	2020	social distancing policies	0.0852	1_percent	government contracts	0.0886
+0.1_percent	2020	lockdown regulations	0.0852	1_percent	missed bills	0.0886
+0.1_percent	2020	frontline medical staff	0.0851	1_percent	international law	0.0885
+0.1_percent	2020	american workers	0.0851	1_percent	third case	0.0884
+0.1_percent	2020	daily new deaths	0.0851	1_percent	valentines day	0.0884
